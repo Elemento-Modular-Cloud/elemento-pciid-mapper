@@ -7,8 +7,11 @@ from pciids.pciids import PCIIds
 import json
 
 REMOTE = "https://pci-ids.ucw.cz/v2.2/pci.ids"
-VENDOR_WATCHLIST = {"10de": [], "8086": [], "1002": []}
-VENDOR_KEYWORDS = {"10de": ["Tesla", "GeForce", "Quadro"], "8086": ["Iris", "Graphics"], "1002": ["Radeon", "Instinct", "Firepro"]}
+VENDOR_KEYWORDS = {"10de": ["Tesla", "GeForce", "Quadro", "Audio", "RTX", "GTX", "GA102GL", "GA100", "[A"],
+                   "8086": ["Iris", "Graphics"],
+                   "1002": ["Radeon", "Instinct", "FirePro", "Vega", "Audio"],
+                   "15b3": ["ConnectX"]}
+VENDOR_WATCHLIST = {k: [] for k in VENDOR_KEYWORDS.keys()}
 VENDOR_DATA = {}
 MODELS_DATA = {}
 
@@ -34,6 +37,9 @@ def main():
                     VENDOR_WATCHLIST[parts[0]] = [index, 0, ' '.join(parts[1:])]
             current_vendor = parts[0]
 
+    VENDOR_DATA['0000'] = "None"
+    MODELS_DATA['0000'] = []
+
     for (vendor_id, metadata) in VENDOR_WATCHLIST.items():
         VENDOR_DATA[vendor_id] = metadata[2]
         MODELS_DATA[vendor_id] = []
@@ -46,12 +52,12 @@ def main():
                 desc = ' '.join(parts[1:])
                 if any(keyword in desc for keyword in VENDOR_KEYWORDS[vendor_id]):
                     MODELS_DATA[vendor_id].append([desc, mod])
-    
+
     with open('vendors.json', 'w') as f:
         json.dump(VENDOR_DATA, f, indent=2)
     
     with open('models.json', 'w') as f:
-        json.dump(MODELS_DATA, f)
+        json.dump(MODELS_DATA, f, indent=1)
 
 if __name__ == "__main__":
     main()
