@@ -3,7 +3,6 @@
 from io import BytesIO
 from re import match
 import pycurl
-from pciids.pciids import PCIIds
 import json
 
 REMOTE = "https://pci-ids.ucw.cz/v2.2/pci.ids"
@@ -14,6 +13,7 @@ VENDOR_KEYWORDS = {"10de": ["Tesla", "GeForce", "Quadro", "Audio", "RTX", "GTX",
 VENDOR_WATCHLIST = {k: [] for k in VENDOR_KEYWORDS.keys()}
 VENDOR_DATA = {}
 MODELS_DATA = {}
+
 
 def main():
     bytesBody = BytesIO()
@@ -32,7 +32,10 @@ def main():
             if parts[0] is not current_vendor:
                 if current_vendor in VENDOR_WATCHLIST.keys():
                     VENDOR_WATCHLIST[current_vendor][1] = index
-                    print("vendor {} is {} {}".format(current_vendor, VENDOR_WATCHLIST[current_vendor][2], VENDOR_WATCHLIST[current_vendor][0:2]))
+                    print("vendor {} is {} {}"
+                          .format(current_vendor,
+                                  VENDOR_WATCHLIST[current_vendor][2],
+                                  VENDOR_WATCHLIST[current_vendor][0:2]))
                 if parts[0] in VENDOR_WATCHLIST.keys():
                     VENDOR_WATCHLIST[parts[0]] = [index, 0, ' '.join(parts[1:])]
             current_vendor = parts[0]
@@ -55,9 +58,10 @@ def main():
 
     with open('vendors.json', 'w') as f:
         json.dump(VENDOR_DATA, f, indent=2)
-    
+
     with open('models.json', 'w') as f:
         json.dump(MODELS_DATA, f, indent=1)
+
 
 if __name__ == "__main__":
     main()
