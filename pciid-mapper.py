@@ -47,7 +47,7 @@ def main():
         VENDOR_DATA[vendor_id] = metadata[2]
         MODELS_DATA[vendor_id] = []
         limits = metadata[0:2]
-        for line in data[limits[0]+1:limits[1]]:
+        for line in data[limits[0] + 1:limits[1]]:
             line = line.replace('\t', '', 1)
             if match(r'\w', line):
                 parts = line.split()

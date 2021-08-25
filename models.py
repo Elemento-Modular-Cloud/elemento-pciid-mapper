@@ -6,5 +6,5 @@ models = load(data)
 models_ids = []
 for vendor in models.keys():
     for model in models[vendor]:
-        models_ids.append(vendor+':'+model[1])
+        models_ids.append(vendor + ':' + model[1])
 del data
