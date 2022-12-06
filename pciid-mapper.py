@@ -2,7 +2,7 @@
 
 from io import BytesIO
 from re import match
-import pycurl
+import requests
 import json
 
 REMOTE = "https://pci-ids.ucw.cz/v2.2/pci.ids"
@@ -16,14 +16,9 @@ MODELS_DATA = {}
 
 
 def main():
-    bytesBody = BytesIO()
-    curl = pycurl.Curl()
-    curl.setopt(curl.URL, REMOTE)
-    curl.setopt(curl.WRITEFUNCTION, bytesBody.write)
-    curl.perform()
-    curl.close()
+    req = requests.get(REMOTE)
 
-    data = bytesBody.getvalue().decode("utf-8").splitlines()
+    data = req.content.decode("utf-8").splitlines()
 
     current_vendor = ''
     for index, line in enumerate(data):
