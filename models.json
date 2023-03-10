@@ -74,6 +74,10 @@
    "0093"
   ],
   [
+   "High Definition Audio",
+   "0094"
+  ],
+  [
    "G70 [GeForce 7800 SLI]",
    "0095"
   ],
@@ -3462,7 +3466,7 @@
    "13d7"
   ],
   [
-   "GM204M [GeForce GTX 970M]",
+   "GM204M [GeForce GTX 960 OEM / 970M]",
    "13d8"
   ],
   [
@@ -4006,8 +4010,12 @@
    "1e36"
   ],
   [
-   "TU102GL [GRID RTX T10-4/T10-8/T10-16]",
+   "TU102GL [Tesla T10 16GB / GRID RTX T10-2/T10-4/T10-8]",
    "1e37"
+  ],
+  [
+   "TU102GL [Tesla T10 24GB]",
+   "1e38"
   ],
   [
    "TU102GL [Quadro RTX 6000/8000]",
@@ -4274,7 +4282,7 @@
    "20b2"
   ],
   [
-   "GA100 [PG506-242/243]",
+   "GA100 [A100-SXM-64GB]",
    "20b3"
   ],
   [
@@ -4452,6 +4460,10 @@
   [
    "GA106 High Definition Audio Controller",
    "228e"
+  ],
+  [
+   "AD102 High Definition Audio Controller",
+   "22ba"
   ],
   [
    "GA103 [GeForce RTX 3060 Ti]",
@@ -4638,11 +4650,11 @@
    "2571"
   ],
   [
-   "GA107 [GeForce RTX 3050]",
+   "GA107 [GeForce RTX 3050 8GB]",
    "2582"
   ],
   [
-   "GA107 [GeForce RTX 3050]",
+   "GA107 [GeForce RTX 3050 4GB]",
    "2583"
   ],
   [
@@ -4674,6 +4686,18 @@
    "25aa"
   ],
   [
+   "GA107M [GeForce RTX 3050 4GB Laptop GPU]",
+   "25ab"
+  ],
+  [
+   "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+   "25ac"
+  ],
+  [
+   "GA107 [GeForce RTX 2050]",
+   "25ad"
+  ],
+  [
    "GA107 [GeForce RTX 3050 Engineering Sample]",
    "25af"
   ],
@@ -4702,6 +4726,10 @@
    "25bb"
   ],
   [
+   "GA107GLM [RTX A1000 6GB Laptop GPU]",
+   "25bc"
+  ],
+  [
    "GA107BM [GeForce RTX 3050 Ti Mobile]",
    "25e0"
   ],
@@ -4712,6 +4740,14 @@
   [
    "GA107BM [GeForce RTX 3050 Mobile]",
    "25e5"
+  ],
+  [
+   "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+   "25ec"
+  ],
+  [
+   "GA107 [GeForce RTX 2050]",
+   "25ed"
   ],
   [
    "GA107 [RTX A1000 Embedded GPU ]",
@@ -4726,6 +4762,10 @@
    "25fb"
   ],
   [
+   "AD102 [RTX TITAN Ada]",
+   "2681"
+  ],
+  [
    "AD102 [GeForce RTX 4090]",
    "2684"
   ],
@@ -4736,6 +4776,66 @@
   [
    "AD103 [GeForce RTX 4080]",
    "2704"
+  ],
+  [
+   "GN21-X11 [GeForce RTX 4090 Laptop GPU]",
+   "2717"
+  ],
+  [
+   "AD103GLM [RTX 5000 Ada Generation Laptop GPU]",
+   "2730"
+  ],
+  [
+   "AD104 [GeForce RTX 4070 Ti]",
+   "2782"
+  ],
+  [
+   "AD104 [GeForce RTX 4070]",
+   "2786"
+  ],
+  [
+   "AD104M [GeForce RTX 4080 Max-Q / Mobile]",
+   "27a0"
+  ],
+  [
+   "AD104GLM [RTX 3500 Ada Generation Laptop GPU]",
+   "27bb"
+  ],
+  [
+   "AD104M [GeForce RTX 4080 Max-Q / Mobile]",
+   "27e0"
+  ],
+  [
+   "AD106M [GeForce RTX 4070 Max-Q / Mobile]",
+   "2820"
+  ],
+  [
+   "AD106GLM [RTX 3000 Ada Generation Laptop GPU]",
+   "2838"
+  ],
+  [
+   "AD106M [GeForce RTX 4070 Max-Q / Mobile]",
+   "2860"
+  ],
+  [
+   "AD107M [GeForce RTX 4060 Max-Q / Mobile]",
+   "28a0"
+  ],
+  [
+   "AD107M [GeForce RTX 4050 Max-Q / Mobile]",
+   "28a1"
+  ],
+  [
+   "AD107GLM [RTX 2000 Ada Generation Laptop GPU]",
+   "28b8"
+  ],
+  [
+   "AD107M [GeForce RTX 4060 Max-Q / Mobile]",
+   "28e0"
+  ],
+  [
+   "AD107M [GeForce RTX 4050 Max-Q / Mobile]",
+   "28e1"
   ]
  ],
  "8086": [
@@ -5564,6 +5664,18 @@
    "46c3"
   ],
   [
+   "Alder Lake-N [UHD Graphics]",
+   "46d0"
+  ],
+  [
+   "Alder Lake-N [UHD Graphics]",
+   "46d1"
+  ],
+  [
+   "Alder Lake-N [UHD Graphics]",
+   "46d2"
+  ],
+  [
    "DG1 [Iris Xe MAX Graphics]",
    "4905"
   ],
@@ -5872,7 +5984,15 @@
    "a012"
   ],
   [
-   "Raptor Lake-S UHD Graphics",
+   "Raptor Lake-P [UHD Graphics]",
+   "a720"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a721"
+  ],
+  [
+   "Raptor Lake-S GT1 [UHD Graphics 770]",
    "a780"
   ],
   [
@@ -5902,6 +6022,22 @@
   [
    "Raptor Lake-S UHD Graphics",
    "a78b"
+  ],
+  [
+   "Raptor Lake-P [Iris Xe Graphics]",
+   "a7a0"
+  ],
+  [
+   "Raptor Lake-P [Iris Xe Graphics]",
+   "a7a1"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a7a8"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a7a9"
   ]
  ],
  "1002": [
@@ -6682,7 +6818,7 @@
    "6664"
   ],
   [
-   "Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520 Mobile]",
+   "Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520/610 Mobile]",
    "6665"
   ],
   [
@@ -7682,6 +7818,14 @@
    "7312"
   ],
   [
+   "Navi 10 [Radeon Pro 5700 XT]",
+   "7319"
+  ],
+  [
+   "Navi 10 [Radeon Pro 5700]",
+   "731b"
+  ],
+  [
    "Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]",
    "731f"
   ],
@@ -7750,7 +7894,7 @@
    "73bf"
   ],
   [
-   "Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M]",
+   "Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]",
    "73df"
   ],
   [
@@ -7762,7 +7906,7 @@
    "73e3"
   ],
   [
-   "Navi 23 [Radeon RX 6650 XT]",
+   "Navi 23 [Radeon RX 6650 XT / 6700S / 6800S]",
    "73ef"
   ],
   [
@@ -7804,6 +7948,14 @@
   [
    "Navi 31 [Radeon RX 7900 XT/7900 XTX]",
    "744c"
+  ],
+  [
+   "Navi 33 [Radeon RX 7600S]",
+   "7480"
+  ],
+  [
+   "Navi 33 [Radeon RX 7600M/7600M XT]",
+   "7483"
   ],
   [
    "RS350 [Radeon 9100 PRO/XT IGP]",
@@ -8070,11 +8222,11 @@
    "9552"
   ],
   [
-   "RV710/M92 [Mobility Radeon HD 4530/4570/545v]",
+   "RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]",
    "9553"
   ],
   [
-   "RV710/M92 [Mobility Radeon HD 4350/4550]",
+   "RV711/M93 [Mobility Radeon HD 4350/4550/530v/540v/545v / FirePro RG220]",
    "9555"
   ],
   [
