@@ -1,1 +1,1 @@
-pycurl --install-option="--with-openssl"
+requests

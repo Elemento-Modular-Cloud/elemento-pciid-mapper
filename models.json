@@ -74,6 +74,10 @@
    "0093"
   ],
   [
+   "High Definition Audio",
+   "0094"
+  ],
+  [
    "G70 [GeForce 7800 SLI]",
    "0095"
   ],
@@ -882,7 +886,7 @@
    "0332"
   ],
   [
-   "NV38 [GeForce FX 5950 Ultra / PCX 5950]",
+   "NV38 [GeForce FX 5950 Ultra]",
    "0333"
   ],
   [
@@ -3018,6 +3022,10 @@
    "11a7"
   ],
   [
+   "GK104GLM [Quadro K5100M]",
+   "11a8"
+  ],
+  [
    "GK104M [GeForce GTX 870M]",
    "11a9"
   ],
@@ -3458,7 +3466,7 @@
    "13d7"
   ],
   [
-   "GM204M [GeForce GTX 970M]",
+   "GM204M [GeForce GTX 960 OEM / 970M]",
    "13d8"
   ],
   [
@@ -3616,6 +3624,10 @@
   [
    "GA102 High Definition Audio Controller",
    "1aef"
+  ],
+  [
+   "GA100 [A100 NVSwitch]",
+   "1af1"
   ],
   [
    "GP102 [GeForce GTX 1080 Ti 10GB]",
@@ -3874,6 +3886,10 @@
    "1d01"
   ],
   [
+   "GP108 [GeForce GT 1010]",
+   "1d02"
+  ],
+  [
    "GP108M [GeForce MX150]",
    "1d10"
   ],
@@ -3966,6 +3982,10 @@
    "1e02"
   ],
   [
+   "TU102 [GeForce RTX 2080 Ti 12GB]",
+   "1e03"
+  ],
+  [
    "TU102 [GeForce RTX 2080 Ti]",
    "1e04"
   ],
@@ -3990,8 +4010,12 @@
    "1e36"
   ],
   [
-   "TU102GL [GRID RTX T10-4/T10-8/T10-16]",
+   "TU102GL [Tesla T10 16GB / GRID RTX T10-2/T10-4/T10-8]",
    "1e37"
+  ],
+  [
+   "TU102GL [Tesla T10 24GB]",
+   "1e38"
   ],
   [
    "TU102GL [Quadro RTX 6000/8000]",
@@ -4028,6 +4052,10 @@
   [
    "TU104M [GeForce RTX 2080 SUPER Mobile / Max-Q]",
    "1e93"
+  ],
+  [
+   "TU104M [GeForce GTX 2080 Engineering Sample]",
+   "1eae"
   ],
   [
    "TU104GL [Quadro RTX 5000]",
@@ -4076,6 +4104,10 @@
   [
    "TU106 [GeForce RTX 2070]",
    "1f02"
+  ],
+  [
+   "TU106 [GeForce RTX 2060 12GB]",
+   "1f03"
   ],
   [
    "TU106 [GeForce RTX 2060 SUPER]",
@@ -4154,6 +4186,10 @@
    "1f82"
   ],
   [
+   "TU117 [GeForce GTX 1630]",
+   "1f83"
+  ],
+  [
    "TU117M [GeForce GTX 1650 Mobile / Max-Q]",
    "1f91"
   ],
@@ -4190,6 +4226,22 @@
    "1f9d"
   ],
   [
+   "TU117M [GeForce MX550]",
+   "1f9f"
+  ],
+  [
+   "TU117M [GeForce MX550]",
+   "1fa0"
+  ],
+  [
+   "TU117GLM [Quadro T1000 Mobile]",
+   "1fb0"
+  ],
+  [
+   "TU117GLM [Quadro T400 Mobile]",
+   "1fb2"
+  ],
+  [
    "TU117GLM [Quadro T2000 Mobile / Max-Q]",
    "1fb8"
   ],
@@ -4214,6 +4266,10 @@
    "1ff9"
   ],
   [
+   "GA100 [CMP 170HX]",
+   "2082"
+  ],
+  [
    "GA100 [A100 SXM4 40GB]",
    "20b0"
   ],
@@ -4226,8 +4282,32 @@
    "20b2"
   ],
   [
+   "GA100 [A100-SXM-64GB]",
+   "20b3"
+  ],
+  [
+   "GA100 [A100 PCIe 80GB]",
+   "20b5"
+  ],
+  [
+   "GA100GL [PG506-232]",
+   "20b6"
+  ],
+  [
    "GA100GL [A30 PCIe]",
    "20b7"
+  ],
+  [
+   "GA100 [A100X]",
+   "20b8"
+  ],
+  [
+   "GA100 [A30X]",
+   "20b9"
+  ],
+  [
+   "GA100 [DRIVE A100 PROD]",
+   "20bb"
   ],
   [
    "GA100 [GRID A100A]",
@@ -4238,8 +4318,32 @@
    "20bf"
   ],
   [
+   "GA100 [CMP 170HX]",
+   "20c2"
+  ],
+  [
+   "GA100 [A100-PG506-207]",
+   "20f0"
+  ],
+  [
    "GA100 [A100 PCIe 40GB]",
    "20f1"
+  ],
+  [
+   "GA100 [A100-PG506-217]",
+   "20f2"
+  ],
+  [
+   "GA100 [A800-SXM4-80GB]",
+   "20f3"
+  ],
+  [
+   "GA100 [A800 80GB PCIe]",
+   "20f5"
+  ],
+  [
+   "GA100 [A800 40GB PCIe]",
+   "20f6"
   ],
   [
    "TU116 [GeForce GTX 1660 Ti]",
@@ -4274,11 +4378,15 @@
    "21d1"
   ],
   [
+   "GA102 [GeForce RTX 3090 Ti]",
+   "2203"
+  ],
+  [
    "GA102 [GeForce RTX 3090]",
    "2204"
   ],
   [
-   "GA102 [GeForce RTX 3080 20GB]",
+   "GA102 [GeForce RTX 3080 Ti 20GB]",
    "2205"
   ],
   [
@@ -4286,8 +4394,20 @@
    "2206"
   ],
   [
+   "GA102 [GeForce RTX 3070 Ti]",
+   "2207"
+  ],
+  [
    "GA102 [GeForce RTX 3080 Ti]",
    "2208"
+  ],
+  [
+   "GA102 [GeForce RTX 3080 12GB]",
+   "220a"
+  ],
+  [
+   "GA102 [GeForce RTX 3080 Lite Hash Rate]",
+   "2216"
   ],
   [
    "GA102 [GeForce RTX 3090 Engineering Sample]",
@@ -4302,8 +4422,16 @@
    "2230"
   ],
   [
-   "GA102GL",
+   "GA102GL [RTX A5000]",
    "2231"
+  ],
+  [
+   "GA102GL [RTX A4500]",
+   "2232"
+  ],
+  [
+   "GA102GL [RTX A5500]",
+   "2233"
   ],
   [
    "GA102GL [A40]",
@@ -4314,8 +4442,12 @@
    "2236"
   ],
   [
-   "GA102GL",
+   "GA102GL [A10G]",
    "2237"
+  ],
+  [
+   "GA102GL [A10M]",
+   "2238"
   ],
   [
    "GA102GL",
@@ -4324,6 +4456,30 @@
   [
    "GA104 High Definition Audio Controller",
    "228b"
+  ],
+  [
+   "GA106 High Definition Audio Controller",
+   "228e"
+  ],
+  [
+   "AD102 High Definition Audio Controller",
+   "22ba"
+  ],
+  [
+   "GA103 [GeForce RTX 3060 Ti]",
+   "2414"
+  ],
+  [
+   "GA103M [GeForce RTX 3080 Ti Mobile]",
+   "2420"
+  ],
+  [
+   "GA103GLM [RTX A5500 Laptop GPU]",
+   "2438"
+  ],
+  [
+   "GA103M [GeForce RTX 3080 Ti Laptop GPU]",
+   "2460"
   ],
   [
    "GA104 [GeForce RTX 3070 Ti]",
@@ -4338,12 +4494,28 @@
    "2486"
   ],
   [
+   "GA104 [GeForce RTX 3060]",
+   "2487"
+  ],
+  [
+   "GA104 [GeForce RTX 3070 Lite Hash Rate]",
+   "2488"
+  ],
+  [
+   "GA104 [GeForce RTX 3060 Ti Lite Hash Rate]",
+   "2489"
+  ],
+  [
    "GA104M [GeForce RTX 3080 Mobile / Max-Q 8GB/16GB]",
    "249c"
   ],
   [
    "GA104M [GeForce RTX 3070 Mobile / Max-Q]",
    "249d"
+  ],
+  [
+   "GA104 [Geforce RTX 3070 Ti Laptop GPU]",
+   "24a0"
   ],
   [
    "GA104 [GeForce RTX 30x0 Engineering Sample]",
@@ -4358,8 +4530,44 @@
    "24af"
   ],
   [
+   "GA104GL [RTX A4000]",
+   "24b0"
+  ],
+  [
+   "GA104GL [RTX A4000H]",
+   "24b1"
+  ],
+  [
+   "GA104GLM [RTX A5000 Mobile]",
+   "24b6"
+  ],
+  [
+   "GA104GLM [RTX A4000 Mobile]",
+   "24b7"
+  ],
+  [
+   "GA104GLM [RTX A3000 Mobile]",
+   "24b8"
+  ],
+  [
+   "GA104GLM [RTX A3000 12GB Laptop GPU]",
+   "24b9"
+  ],
+  [
+   "GA104GLM [RTX A4500 Laptop GPU]",
+   "24ba"
+  ],
+  [
+   "GA104GLM [RTX A3000 Laptop GPU]",
+   "24bb"
+  ],
+  [
    "GA104 [GeForce RTX 3070 Engineering Sample]",
    "24bf"
+  ],
+  [
+   "GA104 [GeForce RTX 3060 Ti]",
+   "24c9"
   ],
   [
    "GA104M [GeForce RTX 3080 Mobile / Max-Q 8GB/16GB]",
@@ -4370,6 +4578,14 @@
    "24dd"
   ],
   [
+   "GA104M [Geforce RTX 3070 Ti Laptop GPU]",
+   "24e0"
+  ],
+  [
+   "GA104 [RTX A4500 Embedded GPU ]",
+   "24fa"
+  ],
+  [
    "GA106 [GeForce RTX 3060]",
    "2501"
   ],
@@ -4378,19 +4594,67 @@
    "2503"
   ],
   [
+   "GA106 [GeForce RTX 3060 Lite Hash Rate]",
+   "2504"
+  ],
+  [
+   "GA106 [Geforce RTX 3050]",
+   "2507"
+  ],
+  [
+   "GA106 [GeForce RTX 3050 OEM]",
+   "2508"
+  ],
+  [
+   "GA106 [GeForce RTX 3060 12GB Rev. 2]",
+   "2509"
+  ],
+  [
    "GA106M [GeForce RTX 3060 Mobile / Max-Q]",
    "2520"
+  ],
+  [
+   "GA106M [GeForce RTX 3060 Laptop GPU]",
+   "2521"
+  ],
+  [
+   "GA106M [GeForce RTX 3050 Ti Mobile / Max-Q]",
+   "2523"
   ],
   [
    "GA106 [GeForce RTX 3060 Engineering Sample]",
    "252f"
   ],
   [
+   "GA106 [RTX A2000]",
+   "2531"
+  ],
+  [
+   "GA106 [GeForce RTX 3060]",
+   "2544"
+  ],
+  [
    "GA106M [GeForce RTX 3060 Mobile / Max-Q]",
    "2560"
   ],
   [
-   "GA107 [GeForce RTX 3050]",
+   "GA106M [GeForce RTX 3060 Laptop GPU]",
+   "2561"
+  ],
+  [
+   "GA106M [GeForce RTX 3050 Ti Mobile / Max-Q]",
+   "2563"
+  ],
+  [
+   "GA106 [RTX A2000 12GB]",
+   "2571"
+  ],
+  [
+   "GA107 [GeForce RTX 3050 8GB]",
+   "2582"
+  ],
+  [
+   "GA107 [GeForce RTX 3050 4GB]",
    "2583"
   ],
   [
@@ -4402,12 +4666,176 @@
    "25a2"
   ],
   [
+   "GA107M [GeForce RTX 3050 Mobile]",
+   "25a5"
+  ],
+  [
+   "GA107M [GeForce MX570]",
+   "25a6"
+  ],
+  [
+   "GA107M [GeForce MX570]",
+   "25a7"
+  ],
+  [
+   "GA107M [GeForce RTX 2050]",
+   "25a9"
+  ],
+  [
+   "GA107M [GeForce MX570 A]",
+   "25aa"
+  ],
+  [
+   "GA107M [GeForce RTX 3050 4GB Laptop GPU]",
+   "25ab"
+  ],
+  [
+   "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+   "25ac"
+  ],
+  [
+   "GA107 [GeForce RTX 2050]",
+   "25ad"
+  ],
+  [
    "GA107 [GeForce RTX 3050 Engineering Sample]",
    "25af"
   ],
   [
    "GA107GLM [RTX A4 Mobile]",
    "25b5"
+  ],
+  [
+   "GA107GL [A2 / A16]",
+   "25b6"
+  ],
+  [
+   "GA107GLM [RTX A2000 Mobile]",
+   "25b8"
+  ],
+  [
+   "GA107GLM [RTX A1000 Laptop GPU]",
+   "25b9"
+  ],
+  [
+   "GA107GLM [RTX A2000 8GB Laptop GPU]",
+   "25ba"
+  ],
+  [
+   "GA107GLM [RTX A500 Laptop GPU]",
+   "25bb"
+  ],
+  [
+   "GA107GLM [RTX A1000 6GB Laptop GPU]",
+   "25bc"
+  ],
+  [
+   "GA107BM [GeForce RTX 3050 Ti Mobile]",
+   "25e0"
+  ],
+  [
+   "GA107BM [GeForce RTX 3050 Mobile]",
+   "25e2"
+  ],
+  [
+   "GA107BM [GeForce RTX 3050 Mobile]",
+   "25e5"
+  ],
+  [
+   "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+   "25ec"
+  ],
+  [
+   "GA107 [GeForce RTX 2050]",
+   "25ed"
+  ],
+  [
+   "GA107 [RTX A1000 Embedded GPU ]",
+   "25f9"
+  ],
+  [
+   "GA107 [RTX A2000 Embedded GPU]",
+   "25fa"
+  ],
+  [
+   "GA107 [RTX A500 Embedded GPU]",
+   "25fb"
+  ],
+  [
+   "AD102 [RTX TITAN Ada]",
+   "2681"
+  ],
+  [
+   "AD102 [GeForce RTX 4090]",
+   "2684"
+  ],
+  [
+   "AD102GL [L6000 / RTX 6000 Ada Generation]",
+   "26b1"
+  ],
+  [
+   "AD103 [GeForce RTX 4080]",
+   "2704"
+  ],
+  [
+   "GN21-X11 [GeForce RTX 4090 Laptop GPU]",
+   "2717"
+  ],
+  [
+   "AD103GLM [RTX 5000 Ada Generation Laptop GPU]",
+   "2730"
+  ],
+  [
+   "AD104 [GeForce RTX 4070 Ti]",
+   "2782"
+  ],
+  [
+   "AD104 [GeForce RTX 4070]",
+   "2786"
+  ],
+  [
+   "AD104M [GeForce RTX 4080 Max-Q / Mobile]",
+   "27a0"
+  ],
+  [
+   "AD104GLM [RTX 3500 Ada Generation Laptop GPU]",
+   "27bb"
+  ],
+  [
+   "AD104M [GeForce RTX 4080 Max-Q / Mobile]",
+   "27e0"
+  ],
+  [
+   "AD106M [GeForce RTX 4070 Max-Q / Mobile]",
+   "2820"
+  ],
+  [
+   "AD106GLM [RTX 3000 Ada Generation Laptop GPU]",
+   "2838"
+  ],
+  [
+   "AD106M [GeForce RTX 4070 Max-Q / Mobile]",
+   "2860"
+  ],
+  [
+   "AD107M [GeForce RTX 4060 Max-Q / Mobile]",
+   "28a0"
+  ],
+  [
+   "AD107M [GeForce RTX 4050 Max-Q / Mobile]",
+   "28a1"
+  ],
+  [
+   "AD107GLM [RTX 2000 Ada Generation Laptop GPU]",
+   "28b8"
+  ],
+  [
+   "AD107M [GeForce RTX 4060 Max-Q / Mobile]",
+   "28e0"
+  ],
+  [
+   "AD107M [GeForce RTX 4050 Max-Q / Mobile]",
+   "28e1"
   ]
  ],
  "8086": [
@@ -4476,7 +4904,7 @@
    "015e"
   ],
   [
-   "Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller",
+   "IvyBridge GT2 [HD Graphics 4000]",
    "0162"
   ],
   [
@@ -4744,6 +5172,10 @@
    "1906"
   ],
   [
+   "HD Graphics 510",
+   "190b"
+  ],
+  [
    "HD Graphics 530",
    "1912"
   ],
@@ -4766,6 +5198,10 @@
   [
    "HD Graphics 520",
    "1921"
+  ],
+  [
+   "HD Graphics 535",
+   "1923"
   ],
   [
    "Iris Graphics 540",
@@ -5024,12 +5460,16 @@
    "3e91"
   ],
   [
-   "CometLake-S GT2 [UHD Graphics 630]",
+   "CoffeeLake-S GT2 [UHD Graphics 630]",
    "3e92"
   ],
   [
    "CoffeeLake-S GT1 [UHD Graphics 610]",
    "3e93"
+  ],
+  [
+   "Coffee Lake-S GT2 [UHD Graphics P630]",
+   "3e94"
   ],
   [
    "CoffeeLake-S GT2 [UHD Graphics P630]",
@@ -5040,16 +5480,40 @@
    "3e98"
   ],
   [
+   "Coffee Lake-S GT2 [UHD Graphics P630]",
+   "3e9a"
+  ],
+  [
    "CoffeeLake-H GT2 [UHD Graphics 630]",
    "3e9b"
+  ],
+  [
+   "Coffee Lake-S GT1 [UHD Graphics 610]",
+   "3e9c"
   ],
   [
    "WhiskeyLake-U GT2 [UHD Graphics 620]",
    "3ea0"
   ],
   [
+   "Whiskey Lake-U GT1 [UHD Graphics 610]",
+   "3ea1"
+  ],
+  [
    "CoffeeLake-U GT3e [Iris Plus Graphics 655]",
    "3ea5"
+  ],
+  [
+   "Coffee Lake-U GT3 [Iris Plus Graphics 645]",
+   "3ea6"
+  ],
+  [
+   "Coffee Lake-U GT3 [Iris Plus Graphics 655]",
+   "3ea8"
+  ],
+  [
+   "Coffee Lake-U GT2 [UHD Graphics 620]",
+   "3ea9"
   ],
   [
    "Moorestown Graphics and Video",
@@ -5088,6 +5552,130 @@
    "410f"
   ],
   [
+   "Elkhart Lake [UHD Graphics Gen11 16EU]",
+   "4555"
+  ],
+  [
+   "Elkhart Lake [UHD Graphics Gen11 32EU]",
+   "4571"
+  ],
+  [
+   "Alder Lake-P Integrated Graphics Controller",
+   "4626"
+  ],
+  [
+   "Alder Lake-UP3 GT2 [UHD Graphics]",
+   "4628"
+  ],
+  [
+   "AlderLake-P [UHD Graphics]",
+   "462a"
+  ],
+  [
+   "AlderLake-P [UHD Graphics]",
+   "4636"
+  ],
+  [
+   "AlderLake-P [UHD Graphics]",
+   "4638"
+  ],
+  [
+   "AlderLake-P [UHD Graphics]",
+   "463a"
+  ],
+  [
+   "Alder Lake-S GT1 [UHD Graphics 730]",
+   "4682"
+  ],
+  [
+   "Alder Lake-HX GT1 [UHD Graphics 770]",
+   "4688"
+  ],
+  [
+   "Alder Lake-S [UHD Graphics]",
+   "468a"
+  ],
+  [
+   "Alder Lake-S [UHD Graphics]",
+   "468b"
+  ],
+  [
+   "Alder Lake-S GT1 [UHD Graphics 770]",
+   "4690"
+  ],
+  [
+   "Alder Lake-S GT1 [UHD Graphics 730]",
+   "4692"
+  ],
+  [
+   "Alder Lake-S GT1 [UHD Graphics 710]",
+   "4693"
+  ],
+  [
+   "UHD Graphics",
+   "46a1"
+  ],
+  [
+   "Alder Lake-P GT1 [UHD Graphics]",
+   "46a3"
+  ],
+  [
+   "Alder Lake-P Integrated Graphics Controller",
+   "46a6"
+  ],
+  [
+   "Alder Lake-UP3 GT2 [Iris Xe Graphics]",
+   "46a8"
+  ],
+  [
+   "Alder Lake-UP4 GT2 [Iris Xe Graphics]",
+   "46aa"
+  ],
+  [
+   "AlderLake-P [Iris Xe Graphics]",
+   "46b0"
+  ],
+  [
+   "AlderLake-P [Iris Xe Graphics]",
+   "46b1"
+  ],
+  [
+   "Alder Lake-UP3 GT1 [UHD Graphics]",
+   "46b3"
+  ],
+  [
+   "AlderLake-P [Iris Xe Graphics]",
+   "46b6"
+  ],
+  [
+   "AlderLake-P [Iris Xe Graphics]",
+   "46b8"
+  ],
+  [
+   "AlderLake-P [Iris Xe Graphics]",
+   "46ba"
+  ],
+  [
+   "AlderLake-M [Iris Xe Graphics]",
+   "46c1"
+  ],
+  [
+   "Alder Lake-UP4 GT1 [UHD Graphics]",
+   "46c3"
+  ],
+  [
+   "Alder Lake-N [UHD Graphics]",
+   "46d0"
+  ],
+  [
+   "Alder Lake-N [UHD Graphics]",
+   "46d1"
+  ],
+  [
+   "Alder Lake-N [UHD Graphics]",
+   "46d2"
+  ],
+  [
    "DG1 [Iris Xe MAX Graphics]",
    "4905"
   ],
@@ -5098,6 +5686,10 @@
   [
    "DG1 [Iris Xe Graphics]",
    "4908"
+  ],
+  [
+   "DG1 [Iris Xe MAX 100]",
+   "4909"
   ],
   [
    "RocketLake-S GT1 [UHD Graphics 750]",
@@ -5132,8 +5724,20 @@
    "5002"
   ],
   [
+   "DG2 [Iris Xe MAX A200M]",
+   "5695"
+  ],
+  [
    "HD Graphics 610",
    "5902"
+  ],
+  [
+   "HD Graphics 610",
+   "5906"
+  ],
+  [
+   "HD Graphics 610",
+   "590b"
   ],
   [
    "HD Graphics 630",
@@ -5164,6 +5768,10 @@
    "591e"
   ],
   [
+   "HD Graphics 620",
+   "5921"
+  ],
+  [
    "HD Graphics 635",
    "5923"
   ],
@@ -5176,7 +5784,7 @@
    "5927"
   ],
   [
-   "Celeron N3350/Pentium N4200/Atom E3900 Series Integrated Graphics Controller",
+   "Apollo Lake [HD Graphics 505]",
    "5a84"
   ],
   [
@@ -5240,6 +5848,10 @@
    "87c0"
   ],
   [
+   "UHD Graphics 617",
+   "87ca"
+  ],
+  [
    "Iris Plus Graphics G7 (Ice Lake)",
    "8a51"
   ],
@@ -5248,8 +5860,16 @@
    "8a52"
   ],
   [
+   "Iris Plus Graphics G7",
+   "8a53"
+  ],
+  [
    "Iris Plus Graphics G1 (Ice Lake)",
    "8a56"
+  ],
+  [
+   "Ice Lake-Y GT1 [UHD Graphics G1]",
+   "8a58"
   ],
   [
    "Iris Plus Graphics G4 (Ice Lake)",
@@ -5258,6 +5878,18 @@
   [
    "Iris Plus Graphics G4 (Ice Lake)",
    "8a5c"
+  ],
+  [
+   "Lakefield GT2 [UHD Graphics]",
+   "9840"
+  ],
+  [
+   "Lakefield GT1.5 [UHD Graphics]",
+   "9841"
+  ],
+  [
+   "Tiger Lake-UP4 GT2 [Iris Xe Graphics]",
+   "9a40"
   ],
   [
    "TigerLake-LP GT2 [Iris Xe Graphics]",
@@ -5272,8 +5904,36 @@
    "9a68"
   ],
   [
+   "Tiger Lake-H GT1 [UHD Graphics]",
+   "9a70"
+  ],
+  [
+   "Tiger Lake-LP GT2 [UHD Graphics G4]",
+   "9a78"
+  ],
+  [
+   "Comet Lake-U GT2 [UHD Graphics 620]",
+   "9b21"
+  ],
+  [
    "CometLake-U GT2 [UHD Graphics]",
    "9b41"
+  ],
+  [
+   "Comet Lake-H GT1 [UHD Graphics 610]",
+   "9ba4"
+  ],
+  [
+   "CometLake-S GT1 [UHD Graphics 610]",
+   "9ba8"
+  ],
+  [
+   "Comet Lake UHD Graphics",
+   "9baa"
+  ],
+  [
+   "Comet Lake UHD Graphics",
+   "9bac"
   ],
   [
    "CometLake-H GT2 [UHD Graphics]",
@@ -5284,12 +5944,28 @@
    "9bc5"
   ],
   [
+   "Comet Lake-S GT2 [UHD Graphics P630]",
+   "9bc6"
+  ],
+  [
    "CometLake-S GT2 [UHD Graphics 630]",
    "9bc8"
   ],
   [
    "Comet Lake UHD Graphics",
    "9bca"
+  ],
+  [
+   "Comet Lake UHD Graphics",
+   "9bcc"
+  ],
+  [
+   "Comet Lake-S GT2 [UHD Graphics P630]",
+   "9be6"
+  ],
+  [
+   "Coffee Lake-S GT2 [UHD Graphics P630]",
+   "9bf6"
   ],
   [
    "Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller",
@@ -5306,6 +5982,62 @@
   [
    "Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller",
    "a012"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a720"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a721"
+  ],
+  [
+   "Raptor Lake-S GT1 [UHD Graphics 770]",
+   "a780"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a781"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a782"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a783"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a788"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a789"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a78a"
+  ],
+  [
+   "Raptor Lake-S UHD Graphics",
+   "a78b"
+  ],
+  [
+   "Raptor Lake-P [Iris Xe Graphics]",
+   "a7a0"
+  ],
+  [
+   "Raptor Lake-P [Iris Xe Graphics]",
+   "a7a1"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a7a8"
+  ],
+  [
+   "Raptor Lake-P [UHD Graphics]",
+   "a7a9"
   ]
  ],
  "1002": [
@@ -5378,12 +6110,32 @@
    "154c"
   ],
   [
+   "Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]",
+   "15d8"
+  ],
+  [
    "Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]",
    "15dd"
   ],
   [
    "Raven/Raven2/Fenghuang HDMI/DP Audio Controller",
    "15de"
+  ],
+  [
+   "Renoir Radeon High Definition Audio Controller",
+   "1637"
+  ],
+  [
+   "Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]",
+   "1638"
+  ],
+  [
+   "Rembrandt Radeon High Definition Audio Controller",
+   "1640"
+  ],
+  [
+   "Rembrandt [Radeon 680M]",
+   "1681"
   ],
   [
    "BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]",
@@ -6006,8 +6758,12 @@
    "6611"
   ],
   [
-   "Oland PRO [Radeon R7 240/340]",
+   "Oland PRO [Radeon R7 240/340 / Radeon 520]",
    "6613"
+  ],
+  [
+   "Oland LE [Radeon R7 240]",
+   "6617"
   ],
   [
    "Saturn XT [FirePro M6100]",
@@ -6062,7 +6818,7 @@
    "6664"
   ],
   [
-   "Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520 Mobile]",
+   "Jet PRO [Radeon R5 M230 / R7 M260DX / Radeon 520/610 Mobile]",
    "6665"
   ],
   [
@@ -6078,7 +6834,7 @@
    "66a0"
   ],
   [
-   "Vega 20 WKS GL-XE [Radeon Pro VII]",
+   "Vega 20 [Radeon Pro VII/Radeon Instinct MI50 32GB]",
    "66a1"
   ],
   [
@@ -6314,6 +7070,10 @@
    "67d0"
   ],
   [
+   "Ellesmere [Radeon Pro WX 7100 / Barco MXRT-8700]",
+   "67d4"
+  ],
+  [
    "Ellesmere [Radeon Pro WX 5100 / Barco MXRT-6700]",
    "67d7"
   ],
@@ -6458,7 +7218,7 @@
    "6843"
   ],
   [
-   "Vega 10 [Radeon Instinct MI25]",
+   "Vega 10 [Instinct MI25/MI25x2/V340/V320]",
    "6860"
   ],
   [
@@ -6474,7 +7234,7 @@
    "6863"
   ],
   [
-   "Vega 10 [Radeon Pro V340]",
+   "Vega 10 [Radeon Pro V340/Instinct MI25x2]",
    "6864"
   ],
   [
@@ -6498,7 +7258,7 @@
    "686b"
   ],
   [
-   "Vega 10 [Radeon Instinct MI25 MxGPU]",
+   "Vega 10 [Instinct MI25 MxGPU/MI25x2 MxGPU/V340 MxGPU/V340L MxGPU]",
    "686c"
   ],
   [
@@ -6728,6 +7488,10 @@
   [
    "Lexa [Radeon 540X/550X/630 / RX 640 / E9171 MCM]",
    "6987"
+  ],
+  [
+   "Lexa XT [Radeon PRO WX 3100 / Barco MXRT 4700]",
+   "698f"
   ],
   [
    "Lexa XT [Radeon PRO WX 2100]",
@@ -7054,6 +7818,14 @@
    "7312"
   ],
   [
+   "Navi 10 [Radeon Pro 5700 XT]",
+   "7319"
+  ],
+  [
+   "Navi 10 [Radeon Pro 5700]",
+   "731b"
+  ],
+  [
    "Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]",
    "731f"
   ],
@@ -7074,16 +7846,44 @@
    "734f"
   ],
   [
-   "Navi 12 [Radeon Pro 5600M / V520]",
+   "Navi 12 [Radeon Pro 5600M/V520/BC-160]",
    "7360"
   ],
   [
-   "Navi 12 [Radeon Pro V520]",
+   "Navi 12 [Radeon Pro V520/V540]",
    "7362"
   ],
   [
-   "Arcturus GL-XL [AMD Instinct MI100]",
+   "Arcturus GL-XL [Instinct MI100]",
    "738c"
+  ],
+  [
+   "Arcturus GL-XL [Instinct MI100]",
+   "738e"
+  ],
+  [
+   "Navi 21 [Radeon Pro V620]",
+   "73a1"
+  ],
+  [
+   "Navi 21 Pro-XTA [Radeon Pro W6900X]",
+   "73a2"
+  ],
+  [
+   "Navi 21 GL-XL [Radeon PRO W6800]",
+   "73a3"
+  ],
+  [
+   "Navi 21 [Radeon RX 6950 XT]",
+   "73a5"
+  ],
+  [
+   "Navi 21 Pro-XLA [Radeon Pro W6800X/Radeon Pro W6800X Duo]",
+   "73ab"
+  ],
+  [
+   "Navi 21 [Radeon Pro V620 MxGPU]",
+   "73ae"
   ],
   [
    "Navi 21 [Radeon RX 6900 XT]",
@@ -7094,12 +7894,68 @@
    "73bf"
   ],
   [
-   "Navi 22 [Radeon RX 6700/6700 XT / 6800M]",
+   "Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]",
    "73df"
   ],
   [
-   "Navi 23 [Radeon RX 6600/6600 XT]",
+   "Navi 23 WKS-XM [Radeon PRO W6600M]",
+   "73e1"
+  ],
+  [
+   "Navi 23 WKS-XL [Radeon PRO W6600]",
+   "73e3"
+  ],
+  [
+   "Navi 23 [Radeon RX 6650 XT / 6700S / 6800S]",
+   "73ef"
+  ],
+  [
+   "Navi 23 [Radeon RX 6600/6600 XT/6600M]",
    "73ff"
+  ],
+  [
+   "Aldebaran/MI200 [Instinct MI250X]",
+   "7408"
+  ],
+  [
+   "Aldebaran/MI200 [Instinct MI250X/MI250]",
+   "740c"
+  ],
+  [
+   "Aldebaran/MI200 [Instinct MI210]",
+   "740f"
+  ],
+  [
+   "Navi 24 [Radeon PRO W6500M]",
+   "7421"
+  ],
+  [
+   "Navi 24 [Radeon PRO W6400]",
+   "7422"
+  ],
+  [
+   "Navi 24 [Radeon PRO W6300/W6300M]",
+   "7423"
+  ],
+  [
+   "Navi 24 [Radeon RX 6300]",
+   "7424"
+  ],
+  [
+   "Navi 24 [Radeon RX 6400/6500 XT/6500M]",
+   "743f"
+  ],
+  [
+   "Navi 31 [Radeon RX 7900 XT/7900 XTX]",
+   "744c"
+  ],
+  [
+   "Navi 33 [Radeon RX 7600S]",
+   "7480"
+  ],
+  [
+   "Navi 33 [Radeon RX 7600M/7600M XT]",
+   "7483"
   ],
   [
    "RS350 [Radeon 9100 PRO/XT IGP]",
@@ -7366,15 +8222,15 @@
    "9552"
   ],
   [
-   "RV710/M92 [Mobility Radeon HD 4530/4570/545v]",
+   "RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]",
    "9553"
   ],
   [
-   "RV710/M92 [Mobility Radeon HD 4350/4550]",
+   "RV711/M93 [Mobility Radeon HD 4350/4550/530v/540v/545v / FirePro RG220]",
    "9555"
   ],
   [
-   "RV711 GL [FirePro RG220]",
+   "RV711/M93 GL [FirePro RG220]",
    "9557"
   ],
   [
@@ -7982,7 +8838,7 @@
    "ab20"
   ],
   [
-   "Navi 21 HDMI Audio [Radeon RX 6800/6800 XT / 6900 XT]",
+   "Navi 21/23 HDMI/DP Audio Controller",
    "ab28"
   ],
   [
@@ -8046,6 +8902,14 @@
   [
    "MT2910 Family [ConnectX-7 Secure Flash Recovery]",
    "0219"
+  ],
+  [
+   "CX8 Family [ConnectX-8 Flash Recovery]",
+   "021e"
+  ],
+  [
+   "CX8 Family [ConnectX-8 Secure Flash Recovery]",
+   "021f"
   ],
   [
    "MT27710 [ConnectX-4 Lx Programmable] EN",
@@ -8128,6 +8992,10 @@
    "1021"
   ],
   [
+   "CX8 Family [ConnectX-8]",
+   "1023"
+  ],
+  [
    "MT28800 Family [ConnectX-5 PCIe Bridge]",
    "1974"
   ],
@@ -8142,6 +9010,22 @@
   [
    "MT2910 Family [ConnectX-7 PCIe Bridge]",
    "1979"
+  ],
+  [
+   "ConnectX/BlueField Family mlx5Gen PCIe Bridge [PCIe Bridge]",
+   "197c"
+  ],
+  [
+   "MT2892 Family [ConnectX-6 Dx Emulated PCIe Bridge]",
+   "2020"
+  ],
+  [
+   "MT2910 Family [ConnectX-7 Emulated PCIe Bridge]",
+   "2023"
+  ],
+  [
+   "ConnectX/BlueField Family mlx5Gen Emulated PCIe Bridge [Emulated PCIe Bridge]",
+   "2025"
   ],
   [
    "MT25408A0-FCC-SI ConnectX, Dual Port 10Gb/s InfiniBand / 10GigE Adapter IC with PCIe 2.0 x8 2.5GT/s Interface",
