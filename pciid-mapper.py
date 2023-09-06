@@ -41,6 +41,7 @@ VENDOR_KEYWORDS = {"10de": ["Tesla", "GeForce", "Quadro", "Audio", "RTX", "GTX",
 VENDOR_WATCHLIST = {k: [] for k in VENDOR_KEYWORDS.keys()}
 VENDOR_DATA = {}
 MODELS_DATA = {}
+PCI_JS_DATA = []
 
 
 def main():
@@ -65,10 +66,27 @@ def main():
 
     VENDOR_DATA['0000'] = "None"
     MODELS_DATA['0000'] = []
+    PCI_JS_DATA.append(
+        {
+            "name": "None",
+            "id": "0000",
+            "models": [
+                {
+                    "name": "None",
+                    "id": "0000"
+                }
+            ]
+        }
+    )
 
     for (vendor_id, metadata) in VENDOR_WATCHLIST.items():
         VENDOR_DATA[vendor_id] = metadata[2]
         MODELS_DATA[vendor_id] = []
+        JS_VENDOR = {
+            "name": metadata[2],
+            "id": vendor_id,
+            "models": []
+        }
         limits = metadata[0:2]
         for line in data[limits[0] + 1:limits[1]]:
             line = line.replace('\t', '', 1)
@@ -78,12 +96,21 @@ def main():
                 desc = ' '.join(parts[1:])
                 if any(keyword in desc for keyword in VENDOR_KEYWORDS[vendor_id]):
                     MODELS_DATA[vendor_id].append([desc, mod])
+                JS_VENDOR["models"].append({
+                    "name": desc,
+                    "id": mod
+                })
+        PCI_JS_DATA.append(JS_VENDOR)
+
 
     with open('vendors.json', 'w') as f:
         json.dump(VENDOR_DATA, f, indent=2)
 
     with open('models.json', 'w') as f:
         json.dump(MODELS_DATA, f, indent=1)
+
+    with open('javascript_vendor_models.json', 'w') as f:
+        json.dump(PCI_JS_DATA, f, indent=2)
 
 
 if __name__ == "__main__":
