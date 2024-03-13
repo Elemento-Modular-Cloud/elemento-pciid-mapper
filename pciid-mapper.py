@@ -14,10 +14,11 @@ VENDOR_WATCHLIST = {k: [] for k in VENDOR_KEYWORDS.keys()}
 VENDOR_DATA = {}
 MODELS_DATA = {}
 PCI_JS_DATA = []
-
+HEADERS={"User-Agent": "Elemento/www.elemento.cloud/hello@elemento.cloud/AtomOS",
+         "Accept-Encoding":"gzip"}
 
 def main():
-    req = requests.get(REMOTE)
+    req = requests.get(REMOTE, headers=HEADERS)
 
     data = req.content.decode("utf-8").splitlines()
 
