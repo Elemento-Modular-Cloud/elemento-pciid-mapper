@@ -2,6 +2,10 @@
  "0000": [],
  "10de": [
   [
+   "NV5 [Vanta / Vanta LT]",
+   "002c"
+  ],
+  [
    "MCP04 AC'97 Audio Controller",
    "003a"
   ],
@@ -1740,6 +1744,10 @@
   [
    "G98 [Quadro NVS 295]",
    "06fd"
+  ],
+  [
+   "G98 [HICx16 + Graphics]",
+   "06ff"
   ],
   [
    "MCP78S [GeForce 8200] Memory Controller",
@@ -3638,6 +3646,10 @@
    "1b06"
   ],
   [
+   "GP102 [P102-100]",
+   "1b07"
+  ],
+  [
    "GP102GL [Quadro P6000]",
    "1b30"
   ],
@@ -3668,6 +3680,10 @@
   [
    "GP104 [GeForce GTX 1060 3GB]",
    "1b84"
+  ],
+  [
+   "GP104 [P104-100]",
+   "1b87"
   ],
   [
    "GP104M [GeForce GTX 1080 Mobile]",
@@ -3726,6 +3742,10 @@
    "1bbb"
   ],
   [
+   "GP104 [P104-101]",
+   "1bc7"
+  ],
+  [
    "GP104BM [GeForce GTX 1080 Mobile]",
    "1be0"
   ],
@@ -3748,6 +3768,14 @@
   [
    "GP106 [GeForce GTX 1060 6GB Rev. 2]",
    "1c06"
+  ],
+  [
+   "GP106 [P106-100]",
+   "1c07"
+  ],
+  [
+   "GP106 [P106-090]",
+   "1c09"
   ],
   [
    "GP106M [GeForce GTX 1060 Mobile]",
@@ -3776,6 +3804,10 @@
   [
    "GP106M [Quadro P2000 Mobile / DRIVE PX 2 AutoChauffeur]",
    "1c35"
+  ],
+  [
+   "GP106 [P106M]",
+   "1c36"
   ],
   [
    "GP106BM [GeForce GTX 1060 Mobile 6GB]",
@@ -4080,6 +4112,10 @@
   [
    "TU104GL [Tesla T4]",
    "1eb8"
+  ],
+  [
+   "TU104GL [PG189 SKU600]",
+   "1eba"
   ],
   [
    "TU104 [GeForce RTX 2070 SUPER]",
@@ -4502,8 +4538,60 @@
    "228e"
   ],
   [
+   "GH100 [H100 NVSwitch]",
+   "22a3"
+  ],
+  [
    "AD102 High Definition Audio Controller",
    "22ba"
+  ],
+  [
+   "GH100 [H100 CNX]",
+   "2313"
+  ],
+  [
+   "GH100 [H100L 94GB]",
+   "2321"
+  ],
+  [
+   "GH100 [H800 PCIe]",
+   "2322"
+  ],
+  [
+   "GH100 [H800]",
+   "2324"
+  ],
+  [
+   "GH100 [H100 SXM5 80GB]",
+   "2330"
+  ],
+  [
+   "GH100 [H100 PCIe]",
+   "2331"
+  ],
+  [
+   "GH100 [H100]",
+   "2336"
+  ],
+  [
+   "GH100 [H100 SXM5 64GB]",
+   "2337"
+  ],
+  [
+   "GH100 [H100 SXM5 96GB]",
+   "2338"
+  ],
+  [
+   "GH100 [H100 SXM5 94GB]",
+   "2339"
+  ],
+  [
+   "GH100 [H800L 94GB]",
+   "233a"
+  ],
+  [
+   "GH100 [H100 96GB]",
+   "233d"
   ],
   [
    "GA103 [GeForce RTX 3060 Ti]",
@@ -4842,6 +4930,30 @@
    "26b3"
   ],
   [
+   "AD102GL [L40]",
+   "26b5"
+  ],
+  [
+   "AD102GL [L20]",
+   "26b7"
+  ],
+  [
+   "AD102GL [L40G]",
+   "26b8"
+  ],
+  [
+   "AD102GL [L40S]",
+   "26b9"
+  ],
+  [
+   "AD102GL [L20]",
+   "26ba"
+  ],
+  [
+   "AD102GL [L40 CNX]",
+   "26f5"
+  ],
+  [
    "AD103 [GeForce RTX 4080 SUPER]",
    "2702"
   ],
@@ -4900,6 +5012,18 @@
   [
    "AD104GL [RTX 4000 Ada Generation]",
    "27b2"
+  ],
+  [
+   "AD104GL [L2]",
+   "27b6"
+  ],
+  [
+   "AD104GL [L16]",
+   "27b7"
+  ],
+  [
+   "AD104GL [L4]",
+   "27b8"
   ],
   [
    "AD104GLM [RTX 4000 Ada Generation Laptop GPU]",
