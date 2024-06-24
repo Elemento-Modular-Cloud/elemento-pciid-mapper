@@ -34,7 +34,7 @@ import requests
 import json
 
 REMOTE = "https://pci-ids.ucw.cz/v2.2/pci.ids"
-VENDOR_KEYWORDS = {"10de": ["Tesla", "GeForce", "Quadro", "Audio", "RTX", "GTX", "GA102GL", "GA100", "[A"],
+VENDOR_KEYWORDS = {"10de": ["Tesla", "GeForce", "Quadro", "Fermi", "Kepler", "Maxwell", "Pascal", "Volta", "Turing", "Ampere", "Hopper", "Ada Lovelace", "Audio", "RTX", "GTX", "GA102GL", "GA100", "[A", "[H", "[V", "[L", "[P"],
                    "8086": ["Iris", "Graphics"],
                    "1002": ["Radeon", "Instinct", "FirePro", "Vega", "Audio"],
                    "15b3": ["ConnectX"]}
@@ -42,10 +42,11 @@ VENDOR_WATCHLIST = {k: [] for k in VENDOR_KEYWORDS.keys()}
 VENDOR_DATA = {}
 MODELS_DATA = {}
 PCI_JS_DATA = []
-
+HEADERS={"User-Agent": "Elemento/www.elemento.cloud/hello@elemento.cloud/AtomOS",
+         "Accept-Encoding":"gzip"}
 
 def main():
-    req = requests.get(REMOTE)
+    req = requests.get(REMOTE, headers=HEADERS)
 
     data = req.content.decode("utf-8").splitlines()
 

@@ -2,6 +2,10 @@
  "0000": [],
  "10de": [
   [
+   "NV5 [Vanta / Vanta LT]",
+   "002c"
+  ],
+  [
    "MCP04 AC'97 Audio Controller",
    "003a"
   ],
@@ -1740,6 +1744,10 @@
   [
    "G98 [Quadro NVS 295]",
    "06fd"
+  ],
+  [
+   "G98 [HICx16 + Graphics]",
+   "06ff"
   ],
   [
    "MCP78S [GeForce 8200] Memory Controller",
@@ -3650,6 +3658,10 @@
    "1b06"
   ],
   [
+   "GP102 [P102-100]",
+   "1b07"
+  ],
+  [
    "GP102GL [Quadro P6000]",
    "1b30"
   ],
@@ -3680,6 +3692,10 @@
   [
    "GP104 [GeForce GTX 1060 3GB]",
    "1b84"
+  ],
+  [
+   "GP104 [P104-100]",
+   "1b87"
   ],
   [
    "GP104M [GeForce GTX 1080 Mobile]",
@@ -3738,6 +3754,10 @@
    "1bbb"
   ],
   [
+   "GP104 [P104-101]",
+   "1bc7"
+  ],
+  [
    "GP104BM [GeForce GTX 1080 Mobile]",
    "1be0"
   ],
@@ -3760,6 +3780,14 @@
   [
    "GP106 [GeForce GTX 1060 6GB Rev. 2]",
    "1c06"
+  ],
+  [
+   "GP106 [P106-100]",
+   "1c07"
+  ],
+  [
+   "GP106 [P106-090]",
+   "1c09"
   ],
   [
    "GP106M [GeForce GTX 1060 Mobile]",
@@ -3788,6 +3816,10 @@
   [
    "GP106M [Quadro P2000 Mobile / DRIVE PX 2 AutoChauffeur]",
    "1c35"
+  ],
+  [
+   "GP106 [P106M]",
+   "1c36"
   ],
   [
    "GP106BM [GeForce GTX 1060 Mobile 6GB]",
@@ -4100,6 +4132,10 @@
   [
    "TU104GL [Tesla T4]",
    "1eb8"
+  ],
+  [
+   "TU104GL [PG189 SKU600]",
+   "1eba"
   ],
   [
    "TU104 [GeForce RTX 2070 SUPER]",
@@ -4520,6 +4556,10 @@
   [
    "GA106 High Definition Audio Controller",
    "228e"
+  ],
+  [
+   "GH100 [H100 NVSwitch]",
+   "22a3"
   ],
   [
    "AD102 High Definition Audio Controller",
