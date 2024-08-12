@@ -2522,6 +2522,10 @@
    "0fc9"
   ],
   [
+   "GK107 [GeForce GT 720]",
+   "0fcc"
+  ],
+  [
    "GK107M [GeForce GT 755M]",
    "0fcd"
   ],
@@ -2548,6 +2552,10 @@
   [
    "GK107M [GeForce GT 650M Mac Edition]",
    "0fd5"
+  ],
+  [
+   "GK107 [GK107-GTX]",
+   "0fd7"
   ],
   [
    "GK107M [GeForce GT 640M Mac Edition]",
@@ -3574,6 +3582,10 @@
    "15f9"
   ],
   [
+   "GP100GL [Tesla P100-DGXS-16GB]",
+   "15fc"
+  ],
+  [
    "GM204M [GeForce GTX 980M]",
    "1617"
   ],
@@ -3958,6 +3970,10 @@
    "1d56"
   ],
   [
+   "GV100GL [Tesla GV100 SXM2-16GB SKU 890]",
+   "1db0"
+  ],
+  [
    "GV100GL [Tesla V100 SXM2 16GB]",
    "1db1"
   ],
@@ -4040,6 +4056,10 @@
   [
    "TU102GL [Quadro RTX 6000/8000]",
    "1e30"
+  ],
+  [
+   "TU102GL [Tesla T10]",
+   "1e35"
   ],
   [
    "TU102GL [Quadro RTX 6000]",
@@ -4546,6 +4566,14 @@
    "22ba"
   ],
   [
+   "AD104 High Definition Audio Controller",
+   "22bc"
+  ],
+  [
+   "AD106M High Definition Audio Controller",
+   "22bd"
+  ],
+  [
    "GH100 [H100 CNX]",
    "2313"
   ],
@@ -4562,12 +4590,20 @@
    "2324"
   ],
   [
+   "GH100 [H20]",
+   "2329"
+  ],
+  [
    "GH100 [H100 SXM5 80GB]",
    "2330"
   ],
   [
    "GH100 [H100 PCIe]",
    "2331"
+  ],
+  [
+   "GH100 [H200 SXM 141GB]",
+   "2335"
   ],
   [
    "GH100 [H100]",
@@ -4632,6 +4668,18 @@
   [
    "GA104 [GeForce RTX 3060 Ti Lite Hash Rate]",
    "2489"
+  ],
+  [
+   "GA104 [GeForce RTX 3070 Ti]",
+   "248c"
+  ],
+  [
+   "GA104 [GeForce RTX 3070]",
+   "248d"
+  ],
+  [
+   "GA104 [GeForce RTX 3060 Ti]",
+   "248e"
   ],
   [
    "GA104M [GeForce RTX 3080 Mobile / Max-Q 8GB/16GB]",
@@ -4842,6 +4890,14 @@
    "25af"
   ],
   [
+   "GA107GL [RTX A1000]",
+   "25b0"
+  ],
+  [
+   "GA107GL [RTX A400]",
+   "25b2"
+  ],
+  [
    "GA107GLM [RTX A4 Mobile]",
    "25b5"
   ],
@@ -4918,6 +4974,10 @@
    "2685"
   ],
   [
+   "AD102 [GeForce RTX 4070 Ti SUPER]",
+   "2689"
+  ],
+  [
    "AD102GL [RTX 6000 Ada Generation]",
    "26b1"
   ],
@@ -4970,6 +5030,10 @@
    "2705"
   ],
   [
+   "AD103 [GeForce RTX 4070]",
+   "2709"
+  ],
+  [
    "GN21-X11 [GeForce RTX 4090 Laptop GPU]",
    "2717"
   ],
@@ -4996,6 +5060,10 @@
   [
    "AD104 [GeForce RTX 4070]",
    "2786"
+  ],
+  [
+   "AD104 [GeForce RTX 4060 Ti]",
+   "2788"
   ],
   [
    "AD104M [GeForce RTX 4080 Max-Q / Mobile]",
@@ -5054,6 +5122,10 @@
    "2805"
   ],
   [
+   "AD106 [GeForce RTX 4060]",
+   "2808"
+  ],
+  [
    "AD106M [GeForce RTX 4070 Max-Q / Mobile]",
    "2820"
   ],
@@ -5082,8 +5154,24 @@
    "28a1"
   ],
   [
+   "AD107GL [RTX 2000 / 2000E Ada Generation]",
+   "28b0"
+  ],
+  [
    "AD107GLM [RTX 2000 Ada Generation Laptop GPU]",
    "28b8"
+  ],
+  [
+   "AD107GLM [RTX 1000 Ada Generation Laptop GPU]",
+   "28b9"
+  ],
+  [
+   "AD107GLM [RTX 500 Ada Generation Laptop GPU]",
+   "28ba"
+  ],
+  [
+   "AD107GLM [RTX 500 Ada Generation Laptop GPU]",
+   "28bb"
   ],
   [
    "AD107M [GeForce RTX 4060 Max-Q / Mobile]",
@@ -5936,6 +6024,14 @@
    "46d2"
   ],
   [
+   "Alder Lake-N [Intel Graphics]",
+   "46d3"
+  ],
+  [
+   "Alder Lake-N [Intel Graphics]",
+   "46d4"
+  ],
+  [
    "DG1 [Iris Xe MAX Graphics]",
    "4905"
   ],
@@ -6072,6 +6168,14 @@
    "56bd"
   ],
   [
+   "DG2 [Arc Graphics A750E]",
+   "56be"
+  ],
+  [
+   "DG2 [Arc Graphics A580E]",
+   "56bf"
+  ],
+  [
    "HD Graphics 610",
    "5902"
   ],
@@ -6192,6 +6296,10 @@
    "7d40"
   ],
   [
+   "Arrow Lake-U [Intel Graphics]",
+   "7d41"
+  ],
+  [
    "Meteor Lake-P [Intel Graphics]",
    "7d45"
   ],
@@ -6208,7 +6316,7 @@
    "7d60"
   ],
   [
-   "Arrow Lake [Intel Graphics]",
+   "Arrow Lake-U [Intel Graphics]",
    "7d67"
   ],
   [
@@ -6372,6 +6480,10 @@
    "a012"
   ],
   [
+   "Raptor Lake PCI Express 5.0 Graphics Port (PEG010)",
+   "a70d"
+  ],
+  [
    "Raptor Lake-P [UHD Graphics]",
    "a720"
   ],
@@ -6446,6 +6558,26 @@
   [
    "Raptor Lake-U [Intel Graphics]",
    "a7ad"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e202"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e20b"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e20c"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e20d"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e212"
   ]
  ],
  "1002": [
@@ -6530,7 +6662,7 @@
    "15de"
   ],
   [
-   "Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]",
+   "Renoir [Radeon Vega Series / Radeon Vega Mobile Series]",
    "1636"
   ],
   [
@@ -8378,6 +8510,10 @@
    "745e"
   ],
   [
+   "7460 Navi32 GL-XL [AMD Radeon PRO V710]",
+   "7460"
+  ],
+  [
    "Navi 32 [Radeon PRO W7700]",
    "7470"
   ],
@@ -8386,7 +8522,7 @@
    "747e"
   ],
   [
-   "Navi 33 [Radeon RX 7700S/7600/7600S/7600M XT/PRO W7600]",
+   "Navi 33 [Radeon RX 7600/7600 XT/7600M XT/7600S/7700S / PRO W7600]",
    "7480"
   ],
   [
@@ -9364,6 +9500,22 @@
    "021f"
   ],
   [
+   "CX8 PCIe Switch Family [ConnectX-8 PCIe Switch Flash Recovery]",
+   "0222"
+  ],
+  [
+   "CX8 PCIe Switch Family [ConnectX-8 PCIe Switch Secure Flash Recovery-RMA]",
+   "0223"
+  ],
+  [
+   "CX9 Family [ConnectX-9 Flash Recovery]",
+   "0224"
+  ],
+  [
+   "CX9 Family [ConnectX-9 Secure Flash Recovery-RMA]",
+   "0225"
+  ],
+  [
    "MT27710 [ConnectX-4 Lx Programmable] EN",
    "0262"
   ],
@@ -9448,6 +9600,14 @@
    "1023"
   ],
   [
+   "CX8 PCIe Switch Family [ConnectX-8 PCIe Switch]",
+   "1024"
+  ],
+  [
+   "CX9 Family [ConnectX-9]",
+   "1025"
+  ],
+  [
    "MT28800 Family [ConnectX-5 PCIe Bridge]",
    "1974"
   ],
@@ -9466,6 +9626,14 @@
   [
    "ConnectX/BlueField Family mlx5Gen PCIe Bridge [PCIe Bridge]",
    "197c"
+  ],
+  [
+   "CX8 Family [ConnectX-8 PCIe Bridge]",
+   "197d"
+  ],
+  [
+   "CX9 Family [ConnectX-9 PCIe Bridge]",
+   "197e"
   ],
   [
    "MT2892 Family [ConnectX-6 Dx Emulated PCIe Bridge]",
