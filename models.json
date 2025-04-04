@@ -4558,6 +4558,10 @@
    "228e"
   ],
   [
+   "GA107 High Definition Audio Controller",
+   "2291"
+  ],
+  [
    "GH100 [H100 NVSwitch]",
    "22a3"
   ],
@@ -4572,6 +4576,14 @@
   [
    "AD106M High Definition Audio Controller",
    "22bd"
+  ],
+  [
+   "AD107 High Definition Audio Controller",
+   "22be"
+  ],
+  [
+   "GH100 [H20 NVL16]",
+   "230e"
   ],
   [
    "GH100 [H100 CNX]",
@@ -4590,8 +4602,16 @@
    "2324"
   ],
   [
+   "GH100 [H20B]",
+   "2328"
+  ],
+  [
    "GH100 [H20]",
    "2329"
+  ],
+  [
+   "GH100 [H20 HBM3e]",
+   "232c"
   ],
   [
    "GH100 [H100 SXM5 80GB]",
@@ -4624,6 +4644,10 @@
   [
    "GH100 [H800L 94GB]",
    "233a"
+  ],
+  [
+   "GH100 [H200 NVL]",
+   "233b"
   ],
   [
    "GH100 [H100 96GB]",
@@ -4878,7 +4902,7 @@
    "25ab"
   ],
   [
-   "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+   "GA107BM / GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
    "25ac"
   ],
   [
@@ -4942,7 +4966,7 @@
    "25e5"
   ],
   [
-   "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+   "GA107BM / GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
    "25ec"
   ],
   [
@@ -4978,6 +5002,10 @@
    "2689"
   ],
   [
+   "AD102 [PG137]",
+   "26af"
+  ],
+  [
    "AD102GL [RTX 6000 Ada Generation]",
    "26b1"
   ],
@@ -5010,6 +5038,10 @@
    "26ba"
   ],
   [
+   "AD102GL [L30]",
+   "26bb"
+  ],
+  [
    "AD102GL [L40 CNX]",
    "26f5"
   ],
@@ -5034,12 +5066,16 @@
    "2709"
   ],
   [
-   "GN21-X11 [GeForce RTX 4090 Laptop GPU]",
+   "AD103M / GN21-X11 [GeForce RTX 4090 Laptop GPU]",
    "2717"
   ],
   [
    "AD103GLM [RTX 5000 Ada Generation Laptop GPU]",
    "2730"
+  ],
+  [
+   "AD103M / GN21-X11 [GeForce RTX 4090 Laptop GPU]",
+   "2757"
   ],
   [
    "AD103GLM [RTX 5000 Ada Generation Embedded GPU]",
@@ -5130,6 +5166,10 @@
    "2820"
   ],
   [
+   "AD106M [GeForce RTX 3050 A Laptop GPU]",
+   "2822"
+  ],
+  [
    "AD106GLM [RTX 3000 Ada Generation Laptop GPU]",
    "2838"
   ],
@@ -5152,6 +5192,10 @@
   [
    "AD107M [GeForce RTX 4050 Max-Q / Mobile]",
    "28a1"
+  ],
+  [
+   "AD107M [GeForce RTX 3050 A Laptop GPU]",
+   "28a3"
   ],
   [
    "AD107GL [RTX 2000 / 2000E Ada Generation]",
@@ -5182,8 +5226,84 @@
    "28e1"
   ],
   [
+   "AD107M [GeForce RTX 3050 A Laptop GPU]",
+   "28e3"
+  ],
+  [
    "AD107GLM [RTX 2000 Ada Generation Embedded GPU]",
    "28f8"
+  ],
+  [
+   "GB100 [HGX GB200]",
+   "2941"
+  ],
+  [
+   "GB202 [GeForce RTX 5090]",
+   "2b85"
+  ],
+  [
+   "GB202 [GeForce RTX 5090 D]",
+   "2b87"
+  ],
+  [
+   "GB203 [GeForce RTX 5080]",
+   "2c02"
+  ],
+  [
+   "GB203 [GeForce RTX 5070 Ti]",
+   "2c05"
+  ],
+  [
+   "GB203M / GN22 [GeForce RTX 5090 Max-Q / Mobile]",
+   "2c18"
+  ],
+  [
+   "GB203M / GN22 [GeForce RTX 5080 Max-Q / Mobile]",
+   "2c19"
+  ],
+  [
+   "GB203M / GN22-X11 [GeForce RTX 5090 Max-Q / Mobile]",
+   "2c58"
+  ],
+  [
+   "GB203M / GN22-X9 [GeForce RTX 5080 Max-Q / Mobile]",
+   "2c59"
+  ],
+  [
+   "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+   "2d18"
+  ],
+  [
+   "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+   "2d19"
+  ],
+  [
+   "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+   "2d58"
+  ],
+  [
+   "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+   "2d59"
+  ],
+  [
+   "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+   "2d98"
+  ],
+  [
+   "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+   "2dd8"
+  ],
+  [
+   "GN22 [GeForce RTX 5070]",
+   "2f04"
+  ],
+  [
+   "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+   "2f18"
+  ],
+  [
+   "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+   "2f58"
   ]
  ],
  "8086": [
@@ -5582,6 +5702,10 @@
   [
    "Iris Pro Graphics P580",
    "193d"
+  ],
+  [
+   "Timna CPU Graphics",
+   "1a12"
   ],
   [
    "Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller",
@@ -6152,30 +6276,6 @@
    "56a9"
   ],
   [
-   "DG2 [Intel Graphics]",
-   "56ba"
-  ],
-  [
-   "DG2 [Intel Graphics]",
-   "56bb"
-  ],
-  [
-   "DG2 [Intel Graphics]",
-   "56bc"
-  ],
-  [
-   "DG2 [Intel Graphics]",
-   "56bd"
-  ],
-  [
-   "DG2 [Arc Graphics A750E]",
-   "56be"
-  ],
-  [
-   "DG2 [Arc Graphics A580E]",
-   "56bf"
-  ],
-  [
    "HD Graphics 610",
    "5902"
   ],
@@ -6244,7 +6344,7 @@
    "6420"
   ],
   [
-   "Lunar Lake [Intel Graphics]",
+   "Lunar Lake [Intel Arc Graphics 130V / 140V]",
    "64a0"
   ],
   [
@@ -6316,7 +6416,7 @@
    "7d60"
   ],
   [
-   "Arrow Lake-U [Intel Graphics]",
+   "Arrow Lake-S [Intel Graphics]",
    "7d67"
   ],
   [
@@ -6560,16 +6660,44 @@
    "a7ad"
   ],
   [
+   "Panther Lake [Intel Graphics]",
+   "b080"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b081"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b082"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b083"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b08f"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b090"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b0a0"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b0b0"
+  ],
+  [
+   "Arrow Lake-H [Intel Graphics]",
+   "b640"
+  ],
+  [
    "Battlemage G21 [Intel Graphics]",
    "e202"
-  ],
-  [
-   "Battlemage G21 [Intel Graphics]",
-   "e20b"
-  ],
-  [
-   "Battlemage G21 [Intel Graphics]",
-   "e20c"
   ],
   [
    "Battlemage G21 [Intel Graphics]",
@@ -6577,10 +6705,26 @@
   ],
   [
    "Battlemage G21 [Intel Graphics]",
+   "e210"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
    "e212"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e215"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e216"
   ]
  ],
  "1002": [
+  [
+   "Krackan [Radeon 840M / 860M Graphics]",
+   "1114"
+  ],
   [
    "Kaveri HDMI/DP Audio Controller",
    "1308"
@@ -6646,8 +6790,20 @@
    "131d"
   ],
   [
+   "Granite Ridge [Radeon Graphics]",
+   "13c0"
+  ],
+  [
+   "Strix [Radeon 880M / 890M]",
+   "150e"
+  ],
+  [
    "Kryptos [Radeon RX 350]",
    "154c"
+  ],
+  [
+   "Strix Halo [Radeon Graphics / Radeon 8050S Graphics / Radeon 8060S Graphics]",
+   "1586"
   ],
   [
    "Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]",
@@ -8502,7 +8658,11 @@
    "7448"
   ],
   [
-   "Navi 31 [Radeon RX 7900 XT/7900 XTX/7900M]",
+   "Navi 31 [Radeon Pro W7900 Dual Slot]",
+   "744a"
+  ],
+  [
+   "Navi 31 [Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M]",
    "744c"
   ],
   [
@@ -8510,8 +8670,12 @@
    "745e"
   ],
   [
-   "7460 Navi32 GL-XL [AMD Radeon PRO V710]",
+   "Navi32 GL-XL [AMD Radeon PRO V710]",
    "7460"
+  ],
+  [
+   "Navi 32 [AMD Radeon PRO V710]",
+   "7461"
   ],
   [
    "Navi 32 [Radeon PRO W7700]",
@@ -8526,12 +8690,28 @@
    "7480"
   ],
   [
+   "Navi 33 [Radeon Graphics]",
+   "7481"
+  ],
+  [
    "Navi 33 [Radeon RX 7600M/7600M XT]",
    "7483"
   ],
   [
+   "Navi 33 [Radeon Graphics]",
+   "7487"
+  ],
+  [
    "Navi 33 [Radeon Pro W7500]",
    "7489"
+  ],
+  [
+   "Navi 33 [Radeon Graphics]",
+   "748b"
+  ],
+  [
+   "Navi 33 [Radeon RX 7400/7300/Pro W7400]",
+   "7499"
   ],
   [
    "Aqua Vanjaram [Instinct MI300A]",
@@ -8540,6 +8720,26 @@
   [
    "Aqua Vanjaram [Instinct MI300X]",
    "74a1"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI308X]",
+   "74a2"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI325X]",
+   "74a5"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI300X HF]",
+   "74a9"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI300X VF]",
+   "74b5"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI300X HF]",
+   "74bd"
   ],
   [
    "RS350 [Radeon 9100 PRO/XT IGP]",
@@ -9098,7 +9298,7 @@
    "9840"
   ],
   [
-   "Mullins [Radeon R3 Graphics]",
+   "Mullins [Radeon R2/R3 Graphics]",
    "9850"
   ],
   [
@@ -9296,10 +9496,6 @@
   [
    "R600 HDMI Audio [Radeon HD 2900 GT/PRO/XT]",
    "aa00"
-  ],
-  [
-   "RV635 HDMI Audio [Radeon HD 3650/3730/3750]",
-   "aa01"
   ],
   [
    "RV630 HDMI Audio [Radeon HD 2600 PRO/XT / HD 3610]",
@@ -9516,6 +9712,22 @@
    "0225"
   ],
   [
+   "CX10 Family [ConnectX-10 Flash Recovery]",
+   "0226"
+  ],
+  [
+   "CX10 Family [ConnectX-10 Secure Flash Recovery-RMA]",
+   "0227"
+  ],
+  [
+   "CX9 PCIe Switch Family [ConnectX-9 PCIe Switch Flash Recovery]",
+   "0228"
+  ],
+  [
+   "CX9 PCIe Switch Family [ConnectX-9 PCIe Switch Secure Flash Recovery-RMA]",
+   "0229"
+  ],
+  [
    "MT27710 [ConnectX-4 Lx Programmable] EN",
    "0262"
   ],
@@ -9608,6 +9820,10 @@
    "1025"
   ],
   [
+   "CX10 Family [ConnectX-10]",
+   "1027"
+  ],
+  [
    "MT28800 Family [ConnectX-5 PCIe Bridge]",
    "1974"
   ],
@@ -9634,6 +9850,10 @@
   [
    "CX9 Family [ConnectX-9 PCIe Bridge]",
    "197e"
+  ],
+  [
+   "CX10 Family [ConnectX-10 PCIe Bridge]",
+   "197f"
   ],
   [
    "MT2892 Family [ConnectX-6 Dx Emulated PCIe Bridge]",

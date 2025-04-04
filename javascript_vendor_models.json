@@ -6746,6 +6746,10 @@
         "id": "228e"
       },
       {
+        "name": "GA107 High Definition Audio Controller",
+        "id": "2291"
+      },
+      {
         "name": "Tegra PCIe Endpoint Virtual Network",
         "id": "2296"
       },
@@ -6766,8 +6770,16 @@
         "id": "22bd"
       },
       {
+        "name": "AD107 High Definition Audio Controller",
+        "id": "22be"
+      },
+      {
         "name": "GH100",
         "id": "2302"
+      },
+      {
+        "name": "GH100 [H20 NVL16]",
+        "id": "230e"
       },
       {
         "name": "GH100 [H100 CNX]",
@@ -6786,8 +6798,16 @@
         "id": "2324"
       },
       {
+        "name": "GH100 [H20B]",
+        "id": "2328"
+      },
+      {
         "name": "GH100 [H20]",
         "id": "2329"
+      },
+      {
+        "name": "GH100 [H20 HBM3e]",
+        "id": "232c"
       },
       {
         "name": "GH100 [H100 SXM5 80GB]",
@@ -6822,6 +6842,10 @@
         "id": "233a"
       },
       {
+        "name": "GH100 [H200 NVL]",
+        "id": "233b"
+      },
+      {
         "name": "GH100 [H100 96GB]",
         "id": "233d"
       },
@@ -6836,6 +6860,10 @@
       {
         "name": "GH100 [GH100-88K-A1]",
         "id": "2345"
+      },
+      {
+        "name": "GH100 [GH200 144G HBM3e]",
+        "id": "2348"
       },
       {
         "name": "GH100 [Skinny Joe]",
@@ -7138,7 +7166,7 @@
         "id": "25ab"
       },
       {
-        "name": "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+        "name": "GA107BM / GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
         "id": "25ac"
       },
       {
@@ -7202,7 +7230,7 @@
         "id": "25e5"
       },
       {
-        "name": "GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
+        "name": "GA107BM / GN20-P0-R-K2 [GeForce RTX 3050 6GB Laptop GPU]",
         "id": "25ec"
       },
       {
@@ -7238,6 +7266,10 @@
         "id": "2689"
       },
       {
+        "name": "AD102 [PG137]",
+        "id": "26af"
+      },
+      {
         "name": "AD102GL [RTX 6000 Ada Generation]",
         "id": "26b1"
       },
@@ -7270,6 +7302,10 @@
         "id": "26ba"
       },
       {
+        "name": "AD102GL [L30]",
+        "id": "26bb"
+      },
+      {
         "name": "AD102GL [L40 CNX]",
         "id": "26f5"
       },
@@ -7294,7 +7330,7 @@
         "id": "2709"
       },
       {
-        "name": "GN21-X11 [GeForce RTX 4090 Laptop GPU]",
+        "name": "AD103M / GN21-X11 [GeForce RTX 4090 Laptop GPU]",
         "id": "2717"
       },
       {
@@ -7302,7 +7338,7 @@
         "id": "2730"
       },
       {
-        "name": "GN21-X11",
+        "name": "AD103M / GN21-X11 [GeForce RTX 4090 Laptop GPU]",
         "id": "2757"
       },
       {
@@ -7394,6 +7430,10 @@
         "id": "2820"
       },
       {
+        "name": "AD106M [GeForce RTX 3050 A Laptop GPU]",
+        "id": "2822"
+      },
+      {
         "name": "AD106GLM [RTX 3000 Ada Generation Laptop GPU]",
         "id": "2838"
       },
@@ -7416,6 +7456,10 @@
       {
         "name": "AD107M [GeForce RTX 4050 Max-Q / Mobile]",
         "id": "28a1"
+      },
+      {
+        "name": "AD107M [GeForce RTX 3050 A Laptop GPU]",
+        "id": "28a3"
       },
       {
         "name": "AD107GL [RTX 2000 / 2000E Ada Generation]",
@@ -7446,8 +7490,128 @@
         "id": "28e1"
       },
       {
+        "name": "AD107M [GeForce RTX 3050 A Laptop GPU]",
+        "id": "28e3"
+      },
+      {
         "name": "AD107GLM [RTX 2000 Ada Generation Embedded GPU]",
         "id": "28f8"
+      },
+      {
+        "name": "GB100 [Reserved Dev ID A]",
+        "id": "2900"
+      },
+      {
+        "name": "GB100 [B200]",
+        "id": "2901"
+      },
+      {
+        "name": "GB100 [TS4]",
+        "id": "2920"
+      },
+      {
+        "name": "GB100 [Reserved Dev ID B]",
+        "id": "2940"
+      },
+      {
+        "name": "GB100 [HGX GB200]",
+        "id": "2941"
+      },
+      {
+        "name": "GB102 [Reserved Dev ID A]",
+        "id": "2980"
+      },
+      {
+        "name": "GB102 [B100]",
+        "id": "29bc"
+      },
+      {
+        "name": "GB102 [Reserved Dev ID B]",
+        "id": "29c0"
+      },
+      {
+        "name": "GB202 [GeForce RTX 5090]",
+        "id": "2b85"
+      },
+      {
+        "name": "GB202 [GeForce RTX 5090 D]",
+        "id": "2b87"
+      },
+      {
+        "name": "GB203 [GeForce RTX 5080]",
+        "id": "2c02"
+      },
+      {
+        "name": "GB203 [GeForce RTX 5070 Ti]",
+        "id": "2c05"
+      },
+      {
+        "name": "GB203M / GN22 [GeForce RTX 5090 Max-Q / Mobile]",
+        "id": "2c18"
+      },
+      {
+        "name": "GB203M / GN22 [GeForce RTX 5080 Max-Q / Mobile]",
+        "id": "2c19"
+      },
+      {
+        "name": "GB6-256(N22W-ES-A1)",
+        "id": "2c2c"
+      },
+      {
+        "name": "GB203M / GN22-X11 [GeForce RTX 5090 Max-Q / Mobile]",
+        "id": "2c58"
+      },
+      {
+        "name": "GB203M / GN22-X9 [GeForce RTX 5080 Max-Q / Mobile]",
+        "id": "2c59"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+        "id": "2d18"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+        "id": "2d19"
+      },
+      {
+        "name": "GB6-128 (N22Y-ES-A1)",
+        "id": "2d2c"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+        "id": "2d58"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+        "id": "2d59"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+        "id": "2d98"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+        "id": "2dd8"
+      },
+      {
+        "name": "GN22 [GeForce RTX 5070]",
+        "id": "2f04"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+        "id": "2f18"
+      },
+      {
+        "name": "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+        "id": "2f58"
+      },
+      {
+        "name": "GB110",
+        "id": "31c0"
+      },
+      {
+        "name": "GB120",
+        "id": "3340"
       }
     ]
   },
@@ -8088,6 +8252,10 @@
         "id": "068d"
       },
       {
+        "name": "WM490 Chipset LPC/eSPI Controller",
+        "id": "068e"
+      },
+      {
         "name": "Comet Lake PCH SMBus Controller",
         "id": "06a3"
       },
@@ -8120,6 +8288,10 @@
         "id": "06b0"
       },
       {
+        "name": "Comet Lake PCIe Root Port #1",
+        "id": "06b8"
+      },
+      {
         "name": "Comet Lake PCI Express Root Port #1",
         "id": "06ba"
       },
@@ -8130,6 +8302,10 @@
       {
         "name": "Comet Lake PCIe Port #6",
         "id": "06bd"
+      },
+      {
+        "name": "Comet Lake PCIe Root Port #7",
+        "id": "06be"
       },
       {
         "name": "Comet Lake PCIe Port #8",
@@ -8198,6 +8374,10 @@
       {
         "name": "Comet Lake PCH Serial IO SPI Controller #2",
         "id": "06fb"
+      },
+      {
+        "name": "Comet Lake PCH Integrated Sensor Solution",
+        "id": "06fc"
       },
       {
         "name": "CE Media Processor A/V Bridge",
@@ -10724,15 +10904,15 @@
         "id": "12da"
       },
       {
-        "name": "Ethernet Controller E830-XXV for backplane",
+        "name": "Ethernet Controller E830-L for backplane",
         "id": "12dc"
       },
       {
-        "name": "Ethernet Controller E830-XXV for QSFP",
+        "name": "Ethernet Controller E830-L for QSFP",
         "id": "12dd"
       },
       {
-        "name": "Ethernet Controller E830-XXV for SFP",
+        "name": "Ethernet Controller E830-L for SFP",
         "id": "12de"
       },
       {
@@ -10746,6 +10926,10 @@
       {
         "name": "Infrastructure Data Path Function",
         "id": "1452"
+      },
+      {
+        "name": "NVMe Data Path Function",
+        "id": "1457"
       },
       {
         "name": "Infrastructure Data Path Function",
@@ -11404,11 +11588,11 @@
         "id": "15ec"
       },
       {
-        "name": "JHL7540 Thunderbolt 3 Bridge [Titan Ridge DD 2018]",
+        "name": "JHL7440 Thunderbolt 3 Bridge [Titan Ridge DD 2018]",
         "id": "15ef"
       },
       {
-        "name": "JHL7540 Thunderbolt 3 USB Controller [Titan Ridge DD 2018]",
+        "name": "JHL7440 Thunderbolt 3 USB Controller [Titan Ridge DD 2018]",
         "id": "15f0"
       },
       {
@@ -12012,6 +12196,10 @@
         "id": "19d8"
       },
       {
+        "name": "Atom Processor C3000 Series SD Host Controller",
+        "id": "19db"
+      },
+      {
         "name": "Atom Processor C3000 Series LPC or eSPI",
         "id": "19dc"
       },
@@ -12038,6 +12226,10 @@
       {
         "name": "Atom Processor C3000 Series QuickAssist Technology Virtual Function",
         "id": "19e3"
+      },
+      {
+        "name": "Timna CPU Graphics",
+        "id": "1a12"
       },
       {
         "name": "Ethernet Connection (17) I219-LM",
@@ -17028,6 +17220,10 @@
         "id": "3192"
       },
       {
+        "name": "Unknown P2SB serial controller",
+        "id": "3196"
+      },
+      {
         "name": "Celeron/Pentium Silver Processor PCI-default ISA-bridge",
         "id": "3197"
       },
@@ -19192,6 +19388,10 @@
         "id": "43bc"
       },
       {
+        "name": "11th Gen Core Processor PCIe Root Port #7",
+        "id": "43be"
+      },
+      {
         "name": "Tiger Lake-H PCIe Root Port #17",
         "id": "43c0"
       },
@@ -19210,6 +19410,10 @@
       {
         "name": "Tiger Lake-H Management Engine Interface",
         "id": "43e0"
+      },
+      {
+        "name": "Tiger Lake AMT SOL Redirection",
+        "id": "43e3"
       },
       {
         "name": "Tiger Lake-H Serial IO I2C Controller #0",
@@ -19266,6 +19470,18 @@
       {
         "name": "12th Gen Core Processor PCI Express x16 Controller #1",
         "id": "460d"
+      },
+      {
+        "name": "Core i9/i7/i5/i3 Host Bridge/DRAM Registers",
+        "id": "4619"
+      },
+      {
+        "name": "Alder Lake-N Processor Host Bridge/DRAM Registers",
+        "id": "461b"
+      },
+      {
+        "name": "Alder Lake-N Processor Host Bridge/DRAM Registers",
+        "id": "461c"
       },
       {
         "name": "Alder Lake Innovation Platform Framework Processor Participant",
@@ -19366,6 +19582,10 @@
       {
         "name": "Platform Monitoring Technology",
         "id": "467d"
+      },
+      {
+        "name": "GNA Scoring Accelerator",
+        "id": "467e"
       },
       {
         "name": "Volume Management Device NVMe RAID Controller",
@@ -19696,7 +19916,7 @@
         "id": "4def"
       },
       {
-        "name": "Wi-Fi 6 AX201 160MHz",
+        "name": "Jasper Lake PCH CNVi WiFi",
         "id": "4df0"
       },
       {
@@ -19708,8 +19928,16 @@
         "id": "4e03"
       },
       {
+        "name": "Gaussian Mixture Model and Neural Network Accelerator (GNA)",
+        "id": "4e11"
+      },
+      {
         "name": "JasperLake IPU",
         "id": "4e19"
+      },
+      {
+        "name": "Processor Transaction Router SKU 2 Core",
+        "id": "4e22"
       },
       {
         "name": "JasperLake [UHD Graphics]",
@@ -20016,8 +20244,20 @@
         "id": "51b1"
       },
       {
+        "name": "Alder Lake PCI Express x1 Root Port #11",
+        "id": "51b2"
+      },
+      {
+        "name": "Alder Lake PCI Express Root Port #12",
+        "id": "51b3"
+      },
+      {
         "name": "Alder Lake-P PCH PCIe Root Port #4",
         "id": "51bb"
+      },
+      {
+        "name": "Alder Lake PCI Express x4 Root Port #5",
+        "id": "51bc"
       },
       {
         "name": "Alder Lake-P PCH PCIe Root Port #6",
@@ -20148,6 +20388,26 @@
         "id": "54b3"
       },
       {
+        "name": "Alder Lake-N PCI Express Root Port #1",
+        "id": "54b8"
+      },
+      {
+        "name": "Alder Lake-N PCI Express Root Port #2",
+        "id": "54b9"
+      },
+      {
+        "name": "Alder Lake-N PCI Express Root Port #3",
+        "id": "54ba"
+      },
+      {
+        "name": "Alder Lake-N PCI Express Root Port #4",
+        "id": "54bb"
+      },
+      {
+        "name": "Alder Lake-N PCI Express Root Port #7",
+        "id": "54be"
+      },
+      {
         "name": "Alder Lake-N PCH High Definition Audio Controller",
         "id": "54c8"
       },
@@ -20268,27 +20528,27 @@
         "id": "56b3"
       },
       {
-        "name": "DG2 [Intel Graphics]",
+        "name": "DG2 [Arc A380E]",
         "id": "56ba"
       },
       {
-        "name": "DG2 [Intel Graphics]",
+        "name": "DG2 [Arc A310E]",
         "id": "56bb"
       },
       {
-        "name": "DG2 [Intel Graphics]",
+        "name": "DG2 [Arc A370E]",
         "id": "56bc"
       },
       {
-        "name": "DG2 [Intel Graphics]",
+        "name": "DG2 [Arc A350E]",
         "id": "56bd"
       },
       {
-        "name": "DG2 [Arc Graphics A750E]",
+        "name": "DG2 [Arc A750E]",
         "id": "56be"
       },
       {
-        "name": "DG2 [Arc Graphics A580E]",
+        "name": "DG2 [Arc A580E]",
         "id": "56bf"
       },
       {
@@ -20336,6 +20596,10 @@
         "id": "5787"
       },
       {
+        "name": "Granite Rapids Chipset LPC Controller",
+        "id": "5795"
+      },
+      {
         "name": "Ethernet Connection E825-C for backplane",
         "id": "579c"
       },
@@ -20348,12 +20612,20 @@
         "id": "579e"
       },
       {
+        "name": "Ethernet Connection E825-C 10GbE",
+        "id": "579f"
+      },
+      {
         "name": "Thunderbolt Bridge [Barlow Ridge Hub 40G 2023]",
         "id": "57a4"
       },
       {
         "name": "Thunderbolt USB Controller [Barlow Ridge Hub 40G 2023]",
         "id": "57a5"
+      },
+      {
+        "name": "E610 Virtual Function",
+        "id": "57ad"
       },
       {
         "name": "Ethernet Controller E610 Backplane",
@@ -20636,7 +20908,7 @@
         "id": "643e"
       },
       {
-        "name": "Lunar Lake [Intel Graphics]",
+        "name": "Lunar Lake [Intel Arc Graphics 130V / 140V]",
         "id": "64a0"
       },
       {
@@ -21544,6 +21816,54 @@
         "id": "7603"
       },
       {
+        "name": "Arrow Lake-H [PCH Serial IO UART Host Controller]",
+        "id": "7725"
+      },
+      {
+        "name": "Arrow Lake-H PCH Serial IO UART Host Controller]",
+        "id": "7726"
+      },
+      {
+        "name": "Arrow Lake-H [LPC/eSPI Controller]",
+        "id": "7727"
+      },
+      {
+        "name": "Arrow Lake-H [LPC/eSPI Controller]",
+        "id": "7730"
+      },
+      {
+        "name": "Arrow Lake-H [LPC/eSPI Controller]",
+        "id": "7746"
+      },
+      {
+        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "id": "7750"
+      },
+      {
+        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "id": "7751"
+      },
+      {
+        "name": "Arrow Lake-H [PCH Serial IO UART Host Controller]",
+        "id": "7752"
+      },
+      {
+        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "id": "7778"
+      },
+      {
+        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "id": "7779"
+      },
+      {
+        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "id": "777a"
+      },
+      {
+        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "id": "777b"
+      },
+      {
         "name": "82740 (i740) AGP Graphics Accelerator",
         "id": "7800"
       },
@@ -21632,7 +21952,7 @@
         "id": "7a84"
       },
       {
-        "name": "Alder Lake-S PCH PCI Express Root Port #?????",
+        "name": "LPC Controller/eSPI Controller (H670)",
         "id": "7a85"
       },
       {
@@ -21720,6 +22040,10 @@
         "id": "7ae0"
       },
       {
+        "name": "Alder Lake-S PCH USB 3.2 Gen 1x1 xDCI Controller",
+        "id": "7ae1"
+      },
+      {
         "name": "Alder Lake-S PCH SATA Controller [AHCI Mode]",
         "id": "7ae2"
       },
@@ -21728,8 +22052,16 @@
         "id": "7ae8"
       },
       {
+        "name": "Alder Lake-S Keyboard and Text (KT) Redirection",
+        "id": "7aeb"
+      },
+      {
         "name": "Alder Lake-S PCH CNVi WiFi",
         "id": "7af0"
+      },
+      {
+        "name": "Alder Lake-S Integrated Sensor Hub",
+        "id": "7af8"
       },
       {
         "name": "Alder Lake-S PCH Serial IO I2C Controller #4",
@@ -21784,7 +22116,7 @@
         "id": "7d60"
       },
       {
-        "name": "Arrow Lake-U [Intel Graphics]",
+        "name": "Arrow Lake-S [Intel Graphics]",
         "id": "7d67"
       },
       {
@@ -21918,6 +22250,10 @@
       {
         "name": "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #3",
         "id": "7ec7"
+      },
+      {
+        "name": "Arrow Lake-S PCH CNVi WiFi",
+        "id": "7f70"
       },
       {
         "name": "Trusted Execution Technology Registers",
@@ -22996,8 +23332,24 @@
         "id": "9a01"
       },
       {
+        "name": "Tiger Lake-UP4 2 cores Host Bridge/DRAM Registers",
+        "id": "9a02"
+      },
+      {
         "name": "TigerLake-LP Dynamic Tuning Processor Participant",
         "id": "9a03"
+      },
+      {
+        "name": "Tiger Lake-UP3 2 cores Host Bridge/DRAM Registers",
+        "id": "9a04"
+      },
+      {
+        "name": "11th Gen Core Processor PCIe Controller #2",
+        "id": "9a05"
+      },
+      {
+        "name": "11th Gen Core Processor PCIe Controller #3",
+        "id": "9a07"
       },
       {
         "name": "11th Gen Core Processor PCIe Controller",
@@ -23020,16 +23372,28 @@
         "id": "9a11"
       },
       {
+        "name": "Tiger Lake-UP4 4 cores Host Bridge/DRAM Registers",
+        "id": "9a12"
+      },
+      {
         "name": "Tiger Lake-LP Thunderbolt 4 USB Controller",
         "id": "9a13"
       },
       {
-        "name": "11th Gen Core Processor Host Bridge/DRAM Registers",
+        "name": "Tiger Lake-UP3/H35 4 cores Host Bridge/DRAM Registers",
         "id": "9a14"
+      },
+      {
+        "name": "Tiger Lake xDCI Controller",
+        "id": "9a15"
       },
       {
         "name": "Tiger Lake-H Thunderbolt 4 USB Controller",
         "id": "9a17"
+      },
+      {
+        "name": "Tiger Lake IPU6",
+        "id": "9a19"
       },
       {
         "name": "Tiger Lake-LP Thunderbolt 4 NHI #0",
@@ -23056,7 +23420,7 @@
         "id": "9a25"
       },
       {
-        "name": "11th Gen Core Processor Host Bridge/DRAM Registers",
+        "name": "Tiger Lake-H 6 cores Host Bridge/DRAM Registers",
         "id": "9a26"
       },
       {
@@ -23088,8 +23452,12 @@
         "id": "9a33"
       },
       {
-        "name": "11th Gen Core Processor Host Bridge/DRAM Registers",
+        "name": "Tiger Lake-H 8 cores Host Bridge/DRAM Registers",
         "id": "9a36"
+      },
+      {
+        "name": "Tiger Lake H IPU6-Slim",
+        "id": "9a39"
       },
       {
         "name": "Tiger Lake-UP4 GT2 [Iris Xe Graphics]",
@@ -25112,6 +25480,10 @@
         "id": "a71e"
       },
       {
+        "name": "Raptor Lake-P Thunderbolt 4 PCI Express Root Port #1",
+        "id": "a71f"
+      },
+      {
         "name": "Raptor Lake-P [UHD Graphics]",
         "id": "a720"
       },
@@ -25138,6 +25510,10 @@
       {
         "name": "GNA Scoring Accelerator module",
         "id": "a74f"
+      },
+      {
+        "name": "Raptor Lake IPU",
+        "id": "a75d"
       },
       {
         "name": "Raptor Lake-P Thunderbolt 4 NHI #1",
@@ -25292,6 +25668,10 @@
         "id": "a83d"
       },
       {
+        "name": "BE201 320MHz",
+        "id": "a840"
+      },
+      {
         "name": "Lunar Lake-M Integrated Sensor Hub",
         "id": "a845"
       },
@@ -25348,6 +25728,38 @@
         "id": "b03e"
       },
       {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b080"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b081"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b082"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b083"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b08f"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b090"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b0a0"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b0b0"
+      },
+      {
         "name": "21152 PCI-to-PCI Bridge",
         "id": "b152"
       },
@@ -25358,6 +25770,10 @@
       {
         "name": "21555 Non transparent PCI-to-PCI Bridge",
         "id": "b555"
+      },
+      {
+        "name": "Arrow Lake-H [Intel Graphics]",
+        "id": "b640"
       },
       {
         "name": "Core Processor DMI",
@@ -25436,11 +25852,11 @@
         "id": "e202"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G21 [Arc B580]",
         "id": "e20b"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G21 [Arc B570]",
         "id": "e20c"
       },
       {
@@ -25449,7 +25865,19 @@
       },
       {
         "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e210"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
         "id": "e212"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e215"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e216"
       },
       {
         "name": "SSD 600P Series",
@@ -25481,6 +25909,10 @@
     "name": "Advanced Micro Devices, Inc. [AMD/ATI]",
     "id": "1002",
     "models": [
+      {
+        "name": "Krackan [Radeon 840M / 860M Graphics]",
+        "id": "1114"
+      },
       {
         "name": "Kaveri",
         "id": "1304"
@@ -25578,6 +26010,10 @@
         "id": "131d"
       },
       {
+        "name": "Granite Ridge [Radeon Graphics]",
+        "id": "13c0"
+      },
+      {
         "name": "Ariel/Navi10Lite",
         "id": "13e9"
       },
@@ -25610,6 +26046,10 @@
         "id": "1506"
       },
       {
+        "name": "Strix [Radeon 880M / 890M]",
+        "id": "150e"
+      },
+      {
         "name": "Kryptos [Radeon RX 350]",
         "id": "154c"
       },
@@ -25628,6 +26068,10 @@
       {
         "name": "Anubis",
         "id": "1561"
+      },
+      {
+        "name": "Strix Halo [Radeon Graphics / Radeon 8050S Graphics / Radeon 8060S Graphics]",
+        "id": "1586"
       },
       {
         "name": "Phoenix1",
@@ -28742,7 +29186,11 @@
         "id": "7448"
       },
       {
-        "name": "Navi 31 [Radeon RX 7900 XT/7900 XTX/7900M]",
+        "name": "Navi 31 [Radeon Pro W7900 Dual Slot]",
+        "id": "744a"
+      },
+      {
+        "name": "Navi 31 [Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M]",
         "id": "744c"
       },
       {
@@ -28750,8 +29198,12 @@
         "id": "745e"
       },
       {
-        "name": "7460 Navi32 GL-XL [AMD Radeon PRO V710]",
+        "name": "Navi32 GL-XL [AMD Radeon PRO V710]",
         "id": "7460"
+      },
+      {
+        "name": "Navi 32 [AMD Radeon PRO V710]",
+        "id": "7461"
       },
       {
         "name": "Navi 32 [Radeon PRO W7700]",
@@ -28766,12 +29218,28 @@
         "id": "7480"
       },
       {
+        "name": "Navi 33 [Radeon Graphics]",
+        "id": "7481"
+      },
+      {
         "name": "Navi 33 [Radeon RX 7600M/7600M XT]",
         "id": "7483"
       },
       {
+        "name": "Navi 33 [Radeon Graphics]",
+        "id": "7487"
+      },
+      {
         "name": "Navi 33 [Radeon Pro W7500]",
         "id": "7489"
+      },
+      {
+        "name": "Navi 33 [Radeon Graphics]",
+        "id": "748b"
+      },
+      {
+        "name": "Navi 33 [Radeon RX 7400/7300/Pro W7400]",
+        "id": "7499"
       },
       {
         "name": "Aqua Vanjaram [Instinct MI300A]",
@@ -28780,6 +29248,30 @@
       {
         "name": "Aqua Vanjaram [Instinct MI300X]",
         "id": "74a1"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI308X]",
+        "id": "74a2"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI325X]",
+        "id": "74a5"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI300X HF]",
+        "id": "74a9"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI300X VF]",
+        "id": "74b5"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI300X HF]",
+        "id": "74bd"
+      },
+      {
+        "name": "Navi 48 [RX 9070/9070 XT]",
+        "id": "7550"
       },
       {
         "name": "RS350 Host Bridge",
@@ -29458,7 +29950,7 @@
         "id": "9840"
       },
       {
-        "name": "Mullins [Radeon R3 Graphics]",
+        "name": "Mullins [Radeon R2/R3 Graphics]",
         "id": "9850"
       },
       {
@@ -29724,10 +30216,6 @@
       {
         "name": "R600 HDMI Audio [Radeon HD 2900 GT/PRO/XT]",
         "id": "aa00"
-      },
-      {
-        "name": "RV635 HDMI Audio [Radeon HD 3650/3730/3750]",
-        "id": "aa01"
       },
       {
         "name": "RV630 HDMI Audio [Radeon HD 2600 PRO/XT / HD 3610]",
@@ -30072,6 +30560,22 @@
         "id": "0225"
       },
       {
+        "name": "CX10 Family [ConnectX-10 Flash Recovery]",
+        "id": "0226"
+      },
+      {
+        "name": "CX10 Family [ConnectX-10 Secure Flash Recovery-RMA]",
+        "id": "0227"
+      },
+      {
+        "name": "CX9 PCIe Switch Family [ConnectX-9 PCIe Switch Flash Recovery]",
+        "id": "0228"
+      },
+      {
+        "name": "CX9 PCIe Switch Family [ConnectX-9 PCIe Switch Secure Flash Recovery-RMA]",
+        "id": "0229"
+      },
+      {
         "name": "MT53100 [Spectrum-2, Flash recovery mode]",
         "id": "024e"
       },
@@ -30152,7 +30656,7 @@
         "id": "0270"
       },
       {
-        "name": "Spectrum-4L, RMA",
+        "name": "Spectrum-5 RMA",
         "id": "0271"
       },
       {
@@ -30160,11 +30664,11 @@
         "id": "0274"
       },
       {
-        "name": "Spectrum-4C RMA",
+        "name": "Spectrum-6 RMA",
         "id": "0275"
       },
       {
-        "name": "Spectrum-4TOR RMA",
+        "name": "Spectrum-6 Tile",
         "id": "0277"
       },
       {
@@ -30174,6 +30678,18 @@
       {
         "name": "Quantum-4 RMA",
         "id": "0279"
+      },
+      {
+        "name": "Eros Chiplet",
+        "id": "027a"
+      },
+      {
+        "name": "Quantum-5 in Flash Recovery Mode",
+        "id": "027c"
+      },
+      {
+        "name": "Quantum-5 RMA",
+        "id": "027d"
       },
       {
         "name": "NPS-600 Flash Recovery",
@@ -30210,6 +30726,34 @@
       {
         "name": "Arcus2 RMA",
         "id": "0289"
+      },
+      {
+        "name": "SagittaZ",
+        "id": "0290"
+      },
+      {
+        "name": "Arcus3 Flash Recovery",
+        "id": "0292"
+      },
+      {
+        "name": "Arcus3 RMA",
+        "id": "0293"
+      },
+      {
+        "name": "Quantum-6 in Flash Recovery Mode",
+        "id": "02a0"
+      },
+      {
+        "name": "Quantum-6 RMA",
+        "id": "02a1"
+      },
+      {
+        "name": "Spectrum-7 in Flash Recovery Mode",
+        "id": "02a2"
+      },
+      {
+        "name": "Spectrum-7 RMA",
+        "id": "02a3"
       },
       {
         "name": "MT25400 Family [ConnectX-2 Virtual Function]",
@@ -30348,6 +30892,10 @@
         "id": "1025"
       },
       {
+        "name": "CX10 Family [ConnectX-10]",
+        "id": "1027"
+      },
+      {
         "name": "MT28800 Family [ConnectX-5 PCIe Bridge]",
         "id": "1974"
       },
@@ -30390,6 +30938,10 @@
       {
         "name": "CX9 Family [ConnectX-9 PCIe Bridge]",
         "id": "197e"
+      },
+      {
+        "name": "CX10 Family [ConnectX-10 PCIe Bridge]",
+        "id": "197f"
       },
       {
         "name": "MT2892 Family [ConnectX-6 Dx Emulated PCIe Bridge]",
@@ -30616,6 +31168,10 @@
         "id": "b202"
       },
       {
+        "name": "Arcus3",
+        "id": "b203"
+      },
+      {
         "name": "BlueField DPU Family Auxiliary Communication Channel [BlueField Family]",
         "id": "c2d1"
       },
@@ -30680,12 +31236,16 @@
         "id": "cf80"
       },
       {
-        "name": "Spectrum-4L",
+        "name": "Spectrum-5",
         "id": "cf82"
       },
       {
-        "name": "Spectrum-4C",
+        "name": "Spectrum-6",
         "id": "cf84"
+      },
+      {
+        "name": "Spectrum-7",
+        "id": "cf86"
       },
       {
         "name": "Quantum HDR (200Gbps) switch",
@@ -30706,6 +31266,14 @@
       {
         "name": "Quantum-4",
         "id": "d2f8"
+      },
+      {
+        "name": "Quantum-5",
+        "id": "d2fa"
+      },
+      {
+        "name": "Quantum-6",
+        "id": "d2fc"
       }
     ]
   }
