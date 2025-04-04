@@ -33,7 +33,7 @@ jobs:
         
     - name: Run mapping script
       run: |
-        python models.py
+        python pciid-mapper.py
         
     - name: Commit and push if changes
       run: |
