@@ -4118,6 +4118,14 @@
         "id": "0fa7"
       },
       {
+        "name": "Tegra X1 PCIe x4 Root Complex",
+        "id": "0fae"
+      },
+      {
+        "name": "Tegra X1 PCIe x1 Root Complex",
+        "id": "0faf"
+      },
+      {
         "name": "GM200 High Definition Audio",
         "id": "0fb0"
       },
@@ -4644,6 +4652,14 @@
       {
         "name": "GT218 [NVS 300]",
         "id": "10d8"
+      },
+      {
+        "name": "Parker PCIe x4 Root Complex",
+        "id": "10e5"
+      },
+      {
+        "name": "Parker PCIe x1 Root Complex",
+        "id": "10e6"
       },
       {
         "name": "GP102 HDMI Audio Controller",
@@ -5634,7 +5650,7 @@
         "id": "1af1"
       },
       {
-        "name": "GP102 [TITAN X]",
+        "name": "GP102 [TITAN X Pascal]",
         "id": "1b00"
       },
       {
@@ -6754,6 +6770,18 @@
         "id": "2296"
       },
       {
+        "name": "Orin PCIe x8 Root Complex",
+        "id": "229a"
+      },
+      {
+        "name": "Orin PCIe x4/x8 Endpoint/Root Complex",
+        "id": "229c"
+      },
+      {
+        "name": "Orin PCIe x1 Root Complex",
+        "id": "229e"
+      },
+      {
         "name": "GH100 [H100 NVSwitch]",
         "id": "22a3"
       },
@@ -7506,8 +7534,20 @@
         "id": "2901"
       },
       {
-        "name": "GB100 [TS4]",
+        "name": "GB100 [TS4 / B100]",
         "id": "2920"
+      },
+      {
+        "name": "GB100",
+        "id": "2924"
+      },
+      {
+        "name": "GB100",
+        "id": "2925"
+      },
+      {
+        "name": "GB100",
+        "id": "293d"
       },
       {
         "name": "GB100 [Reserved Dev ID B]",
@@ -7516,6 +7556,10 @@
       {
         "name": "GB100 [HGX GB200]",
         "id": "2941"
+      },
+      {
+        "name": "GB100",
+        "id": "297e"
       },
       {
         "name": "GB102 [Reserved Dev ID A]",
@@ -7530,12 +7574,32 @@
         "id": "29c0"
       },
       {
+        "name": "GB102",
+        "id": "29f1"
+      },
+      {
         "name": "GB202 [GeForce RTX 5090]",
         "id": "2b85"
       },
       {
         "name": "GB202 [GeForce RTX 5090 D]",
         "id": "2b87"
+      },
+      {
+        "name": "GB202GL [RTX PRO 6000 Blackwell Workstation Edition]",
+        "id": "2bb1"
+      },
+      {
+        "name": "GB202GL [RTX PRO 5000 Blackwell]",
+        "id": "2bb3"
+      },
+      {
+        "name": "GB202GL [RTX PRO 6000 Blackwell Max-Q Workstation Edition]",
+        "id": "2bb4"
+      },
+      {
+        "name": "GB202GL [RTX PRO 6000 Blackwell Server Edition]",
+        "id": "2bb5"
       },
       {
         "name": "GB203 [GeForce RTX 5080]",
@@ -7566,11 +7630,19 @@
         "id": "2c59"
       },
       {
-        "name": "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+        "name": "GB206 [GeForce RTX 5060 Ti]",
+        "id": "2d04"
+      },
+      {
+        "name": "GB206 [GeForce RTX 5060]",
+        "id": "2d05"
+      },
+      {
+        "name": "GB206M [GeForce RTX 5070 Max-Q / Mobile]",
         "id": "2d18"
       },
       {
-        "name": "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+        "name": "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
         "id": "2d19"
       },
       {
@@ -7578,31 +7650,35 @@
         "id": "2d2c"
       },
       {
-        "name": "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+        "name": "GB206M [GeForce RTX 5070 Max-Q / Mobile]",
         "id": "2d58"
       },
       {
-        "name": "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+        "name": "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
         "id": "2d59"
       },
       {
-        "name": "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+        "name": "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
         "id": "2d98"
       },
       {
-        "name": "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+        "name": "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
         "id": "2dd8"
       },
       {
-        "name": "GN22 [GeForce RTX 5070]",
+        "name": "GB20B",
+        "id": "2e2a"
+      },
+      {
+        "name": "GB205 [GeForce RTX 5070]",
         "id": "2f04"
       },
       {
-        "name": "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+        "name": "GB205M [GeForce RTX 5070 Ti Mobile]",
         "id": "2f18"
       },
       {
-        "name": "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+        "name": "GB205M [GeForce RTX 5070 Ti Mobile]",
         "id": "2f58"
       },
       {
@@ -9164,6 +9240,10 @@
         "id": "0d01"
       },
       {
+        "name": "Crystal Well Dynamic Platform and Thermal Framework Processor Participant",
+        "id": "0d03"
+      },
+      {
         "name": "Crystal Well DRAM Controller",
         "id": "0d04"
       },
@@ -9181,7 +9261,15 @@
       },
       {
         "name": "Crystal Well Integrated Graphics Controller",
+        "id": "0d12"
+      },
+      {
+        "name": "Crystal Well Integrated Graphics Controller",
         "id": "0d16"
+      },
+      {
+        "name": "Crystal Well Integrated Iris Pro Graphics 5200",
+        "id": "0d22"
       },
       {
         "name": "Crystal Well Integrated Graphics Controller",
@@ -10662,6 +10750,18 @@
       {
         "name": "82815 Chipset Graphics Controller (CGC)",
         "id": "1132"
+      },
+      {
+        "name": "Thunderbolt 4 Bridge [Maple Ridge 2C 2020]",
+        "id": "1133"
+      },
+      {
+        "name": "Thunderbolt 4 NHI [Maple Ridge 2C 2020]",
+        "id": "1134"
+      },
+      {
+        "name": "Thunderbolt 4 USB Controller [Maple Ridge 2C 2020]",
+        "id": "1135"
       },
       {
         "name": "Thunderbolt 4 Bridge [Maple Ridge 4C 2020]",
@@ -18780,6 +18880,14 @@
         "id": "3c40"
       },
       {
+        "name": "Sandy Bridge QPI Port 0 Performance Monitor",
+        "id": "3c41"
+      },
+      {
+        "name": "Sandy Bridge QPI Port 1 Performance Monitor",
+        "id": "3c42"
+      },
+      {
         "name": "Xeon E5/Core i7 Ring to PCI Express Performance Monitor",
         "id": "3c43"
       },
@@ -18812,6 +18920,10 @@
         "id": "3c84"
       },
       {
+        "name": "Sandy Bridge QPI Port 0 DFX Link",
+        "id": "3c86"
+      },
+      {
         "name": "Xeon E5/Core i7 QPI Link 1",
         "id": "3c90"
       },
@@ -18822,6 +18934,10 @@
       {
         "name": "Xeon E5/Core i7 QPI Link Reut 1",
         "id": "3c94"
+      },
+      {
+        "name": "Sandy Bridge QPI Port 1 DFX Link",
+        "id": "3c96"
       },
       {
         "name": "Xeon E5/Core i7 Processor Home Agent",
@@ -18976,6 +19092,10 @@
         "id": "3e1f"
       },
       {
+        "name": "i9 Core / Xeon E 2200M Coffee Lake Host Bridge / DRAM Registers",
+        "id": "3e20"
+      },
+      {
         "name": "8th/9th Gen Core 8-core Desktop Processor Host Bridge/DRAM Registers [Coffee Lake S]",
         "id": "3e30"
       },
@@ -19072,7 +19192,7 @@
         "id": "3ec2"
       },
       {
-        "name": "8th Gen Core Processor Host Bridge/DRAM Registers",
+        "name": "8th/9th Gen Core Processor Host Bridge / DRAM Registers",
         "id": "3ec4"
       },
       {
@@ -20900,12 +21020,24 @@
         "id": "5af0"
       },
       {
+        "name": "Lunar Lake-M Dynamic Tuning Technology",
+        "id": "641d"
+      },
+      {
         "name": "Lunar Lake [Intel Graphics]",
         "id": "6420"
       },
       {
         "name": "Lunar Lake NPU",
         "id": "643e"
+      },
+      {
+        "name": "Lunar Lake IPU",
+        "id": "645d"
+      },
+      {
+        "name": "Lunar Lake-M Crashlog and Telemetry",
+        "id": "647d"
       },
       {
         "name": "Lunar Lake [Intel Arc Graphics 130V / 140V]",
@@ -24916,6 +25048,10 @@
         "id": "a1ed"
       },
       {
+        "name": "Lewisburg MROM 0",
+        "id": "a1f0"
+      },
+      {
         "name": "Lewisburg IE: HECI #1",
         "id": "a1f8"
       },
@@ -25204,24 +25340,36 @@
         "id": "a306"
       },
       {
-        "name": "300 Series Chipset Family LPC Controller",
+        "name": "Q360 Chipset LPC/eSPI Controller",
+        "id": "a307"
+      },
+      {
+        "name": "B360 Chipset LPC/eSPI Controller",
         "id": "a308"
       },
       {
-        "name": "Cannon Point-LP LPC Controller",
+        "name": "C246 Chipset LPC/eSPI Controller",
         "id": "a309"
+      },
+      {
+        "name": "C242 Chipset LPC/eSPI Controller",
+        "id": "a30a"
       },
       {
         "name": "QM370 Chipset LPC/eSPI Controller",
         "id": "a30c"
       },
       {
-        "name": "HM470 Chipset LPC/eSPI Controller",
+        "name": "HM370 Chipset LPC/eSPI Controller",
         "id": "a30d"
       },
       {
-        "name": "Cannon Lake LPC Controller",
+        "name": "CM246 Chipset LPC/eSPI Controller",
         "id": "a30e"
+      },
+      {
+        "name": "Cannon Lake LPC/eSPI Controller",
+        "id": "a313"
       },
       {
         "name": "Cannon Lake PCH SMBus Controller",
@@ -25680,6 +25828,22 @@
         "id": "a847"
       },
       {
+        "name": "Lunar Lake-M Touch Host Controller #0 ID1",
+        "id": "a848"
+      },
+      {
+        "name": "Lunar Lake-M Touch Host Controller #0 ID2",
+        "id": "a849"
+      },
+      {
+        "name": "Lunar Lake-M Touch Host Controller #1 ID1",
+        "id": "a84a"
+      },
+      {
+        "name": "Lunar Lake-M Touch Host Controller #1 ID2",
+        "id": "a84b"
+      },
+      {
         "name": "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #0",
         "id": "a84e"
       },
@@ -25690,6 +25854,14 @@
       {
         "name": "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #2",
         "id": "a860"
+      },
+      {
+        "name": "Lunar Lake-M CSME HECI #1",
+        "id": "a870"
+      },
+      {
+        "name": "Lunar Lake-M Keyboard and Text (KT) Redirection",
+        "id": "a873"
       },
       {
         "name": "Lunar Lake-M Serial IO I2C Controller #0",
@@ -25710,6 +25882,10 @@
       {
         "name": "Lunar Lake-M USB 3.2 Gen 2x1 xHCI Host Controller",
         "id": "a87d"
+      },
+      {
+        "name": "Lunar Lake-M Shared SRAM",
+        "id": "a87f"
       },
       {
         "name": "Omni-Path Fabric Switch Silicon 100 Series",
@@ -25869,6 +26045,10 @@
       },
       {
         "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e211"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
         "id": "e212"
       },
       {
@@ -25878,6 +26058,22 @@
       {
         "name": "Battlemage G21 [Intel Graphics]",
         "id": "e216"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e220"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e221"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e222"
+      },
+      {
+        "name": "Battlemage G21 [Intel Graphics]",
+        "id": "e223"
       },
       {
         "name": "SSD 600P Series",
@@ -26126,7 +26322,7 @@
         "id": "163f"
       },
       {
-        "name": "Rembrandt Radeon High Definition Audio Controller",
+        "name": "Radeon High Definition Audio Controller [Rembrandt/Strix]",
         "id": "1640"
       },
       {
@@ -30738,6 +30934,10 @@
       {
         "name": "Arcus3 RMA",
         "id": "0293"
+      },
+      {
+        "name": "Ophy 2.1 (SagittaZ)",
+        "id": "0294"
       },
       {
         "name": "Quantum-6 in Flash Recovery Mode",

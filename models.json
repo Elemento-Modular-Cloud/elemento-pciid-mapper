@@ -3650,6 +3650,10 @@
    "1af1"
   ],
   [
+   "GP102 [TITAN X Pascal]",
+   "1b00"
+  ],
+  [
    "GP102 [GeForce GTX 1080 Ti 10GB]",
    "1b01"
   ],
@@ -5246,6 +5250,22 @@
    "2b87"
   ],
   [
+   "GB202GL [RTX PRO 6000 Blackwell Workstation Edition]",
+   "2bb1"
+  ],
+  [
+   "GB202GL [RTX PRO 5000 Blackwell]",
+   "2bb3"
+  ],
+  [
+   "GB202GL [RTX PRO 6000 Blackwell Max-Q Workstation Edition]",
+   "2bb4"
+  ],
+  [
+   "GB202GL [RTX PRO 6000 Blackwell Server Edition]",
+   "2bb5"
+  ],
+  [
    "GB203 [GeForce RTX 5080]",
    "2c02"
   ],
@@ -5270,39 +5290,47 @@
    "2c59"
   ],
   [
-   "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+   "GB206 [GeForce RTX 5060 Ti]",
+   "2d04"
+  ],
+  [
+   "GB206 [GeForce RTX 5060]",
+   "2d05"
+  ],
+  [
+   "GB206M [GeForce RTX 5070 Max-Q / Mobile]",
    "2d18"
   ],
   [
-   "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+   "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
    "2d19"
   ],
   [
-   "AD108M [GeForce RTX 5070 Max-Q / Mobile]",
+   "GB206M [GeForce RTX 5070 Max-Q / Mobile]",
    "2d58"
   ],
   [
-   "AD108M [GeForce RTX 5060 Max-Q / Mobile]",
+   "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
    "2d59"
   ],
   [
-   "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+   "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
    "2d98"
   ],
   [
-   "AD108M [GeForce RTX 5050 Max-Q / Mobile]",
+   "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
    "2dd8"
   ],
   [
-   "GN22 [GeForce RTX 5070]",
+   "GB205 [GeForce RTX 5070]",
    "2f04"
   ],
   [
-   "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+   "GB205M [GeForce RTX 5070 Ti Mobile]",
    "2f18"
   ],
   [
-   "AD108M [GeForce RTX 5070 Ti Max-Q / Mobile]",
+   "GB205M [GeForce RTX 5070 Ti Mobile]",
    "2f58"
   ]
  ],
@@ -5513,7 +5541,15 @@
   ],
   [
    "Crystal Well Integrated Graphics Controller",
+   "0d12"
+  ],
+  [
+   "Crystal Well Integrated Graphics Controller",
    "0d16"
+  ],
+  [
+   "Crystal Well Integrated Iris Pro Graphics 5200",
+   "0d22"
   ],
   [
    "Crystal Well Integrated Graphics Controller",
@@ -6709,6 +6745,10 @@
   ],
   [
    "Battlemage G21 [Intel Graphics]",
+   "e211"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
    "e212"
   ],
   [
@@ -6718,6 +6758,22 @@
   [
    "Battlemage G21 [Intel Graphics]",
    "e216"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e220"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e221"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e222"
+  ],
+  [
+   "Battlemage G21 [Intel Graphics]",
+   "e223"
   ]
  ],
  "1002": [
@@ -6830,7 +6886,7 @@
    "1638"
   ],
   [
-   "Rembrandt Radeon High Definition Audio Controller",
+   "Radeon High Definition Audio Controller [Rembrandt/Strix]",
    "1640"
   ],
   [
