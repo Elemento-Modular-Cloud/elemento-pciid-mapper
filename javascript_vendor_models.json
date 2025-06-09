@@ -7622,6 +7622,14 @@
         "id": "2c2c"
       },
       {
+        "name": "GB203GLM [RTX PRO 5000 Blackwell Generation Laptop GPU]",
+        "id": "2c38"
+      },
+      {
+        "name": "GB203GLM [RTX PRO 4000 Blackwell Generation Laptop GPU]",
+        "id": "2c39"
+      },
+      {
         "name": "GB203M / GN22-X11 [GeForce RTX 5090 Max-Q / Mobile]",
         "id": "2c58"
       },
@@ -7650,6 +7658,10 @@
         "id": "2d2c"
       },
       {
+        "name": "GB206GLM [RTX PRO 2000 Blackwell Generation Laptop GPU]",
+        "id": "2d39"
+      },
+      {
         "name": "GB206M [GeForce RTX 5070 Max-Q / Mobile]",
         "id": "2d58"
       },
@@ -7660,6 +7672,14 @@
       {
         "name": "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
         "id": "2d98"
+      },
+      {
+        "name": "GB207GLM [RTX PRO 1000 Blackwell Generation Laptop GPU]",
+        "id": "2db8"
+      },
+      {
+        "name": "GB207GLM [RTX PRO 500 Blackwell Generation Laptop GPU]",
+        "id": "2db9"
       },
       {
         "name": "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
@@ -7676,6 +7696,10 @@
       {
         "name": "GB205M [GeForce RTX 5070 Ti Mobile]",
         "id": "2f18"
+      },
+      {
+        "name": "GB205GLM [RTX PRO 3000 Blackwell Generation Laptop GPU]",
+        "id": "2f38"
       },
       {
         "name": "GB205M [GeForce RTX 5070 Ti Mobile]",
@@ -15196,6 +15220,10 @@
         "id": "2850"
       },
       {
+        "name": "Ice Lake DDRIO Registers",
+        "id": "2880"
+      },
+      {
         "name": "Volume Management Device NVMe RAID Controller",
         "id": "28c0"
       },
@@ -17668,8 +17696,112 @@
         "id": "3441"
       },
       {
+        "name": "Ice Lake UPI Phy0 Registers",
+        "id": "3442"
+      },
+      {
+        "name": "Ice Lake UPI Mesh Stop Registers",
+        "id": "3445"
+      },
+      {
+        "name": "Ice Lake UPI PMON0 Registers",
+        "id": "3446"
+      },
+      {
+        "name": "Ice Lake UPI PMON1 Registers",
+        "id": "3447"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "3448"
+      },
+      {
+        "name": "Ice Lake Integrated Memory Controller",
+        "id": "344a"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "344b"
+      },
+      {
+        "name": "Ice Lake CHA Registers",
+        "id": "344c"
+      },
+      {
+        "name": "Ice Lake CHA Registers",
+        "id": "344d"
+      },
+      {
+        "name": "Ice Lake CHA Registers",
+        "id": "344f"
+      },
+      {
+        "name": "Ice Lake Ubox Registers",
+        "id": "3450"
+      },
+      {
+        "name": "Ice Lake Ubox Registers",
+        "id": "3451"
+      },
+      {
+        "name": "Ice Lake Ubox Registers",
+        "id": "3452"
+      },
+      {
+        "name": "Ice Lake Ubox Registers",
+        "id": "3455"
+      },
+      {
         "name": "Ice Lake NorthPeak",
         "id": "3456"
+      },
+      {
+        "name": "Ice Lake CHA Registers",
+        "id": "3457"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "3458"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "3459"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "345a"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "345b"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "345c"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "345d"
+      },
+      {
+        "name": "Ice Lake PCU Registers",
+        "id": "345e"
+      },
+      {
+        "name": "Ice Lake PCI Express Root Port A",
+        "id": "347a"
+      },
+      {
+        "name": "Ice Lake PCI Express Root Port B",
+        "id": "347b"
+      },
+      {
+        "name": "Ice Lake PCI Express Root Port C",
+        "id": "347c"
+      },
+      {
+        "name": "Ice Lake PCI Express Root Port D",
+        "id": "347d"
       },
       {
         "name": "Ice Lake Xeon Non-Transparent Bridge",
@@ -20684,35 +20816,35 @@
         "id": "56c2"
       },
       {
-        "name": "Thunderbolt 80/120G Bridge [Barlow Ridge Host 80G 2023]",
+        "name": "JHL9580 Thunderbolt 5 80/120G Bridge [Barlow Ridge Host 80G 2023]",
         "id": "5780"
       },
       {
-        "name": "Thunderbolt 80/120G NHI [Barlow Ridge Host 80G 2023]",
+        "name": "JHL9580 Thunderbolt 5 80/120G NHI [Barlow Ridge Host 80G 2023]",
         "id": "5781"
       },
       {
-        "name": "Thunderbolt 80/120G USB Controller [Barlow Ridge Host 80G 2023]",
+        "name": "JHL9580 Thunderbolt 5 80/120G USB Controller [Barlow Ridge Host 80G 2023]",
         "id": "5782"
       },
       {
-        "name": "Thunderbolt Bridge [Barlow Ridge Host 40G 2023]",
+        "name": "JHL9540 Thunderbolt 4 Bridge [Barlow Ridge Host 40G 2023]",
         "id": "5783"
       },
       {
-        "name": "Thunderbolt NHI [Barlow Ridge Host 40G 2023]",
+        "name": "JHL9540 Thunderbolt 4 NHI [Barlow Ridge Host 40G 2023]",
         "id": "5784"
       },
       {
-        "name": "Thunderbolt USB Controller [Barlow Ridge Host 40G 2023]",
+        "name": "JHL9540 Thunderbolt 4 USB Controller [Barlow Ridge Host 40G 2023]",
         "id": "5785"
       },
       {
-        "name": "Thunderbolt 80/120G Bridge [Barlow Ridge Hub 80G 2023]",
+        "name": "JHL9480 Thunderbolt 5 80/120G Bridge [Barlow Ridge Hub 80G 2023]",
         "id": "5786"
       },
       {
-        "name": "Thunderbolt 80/120G USB Controller [Barlow Ridge Hub 80G 2023]",
+        "name": "JHL9480 Thunderbolt 5 80/120G USB Controller [Barlow Ridge Hub 80G 2023]",
         "id": "5787"
       },
       {
@@ -20736,11 +20868,11 @@
         "id": "579f"
       },
       {
-        "name": "Thunderbolt Bridge [Barlow Ridge Hub 40G 2023]",
+        "name": "JHL9440 Thunderbolt 4 Bridge [Barlow Ridge Hub 40G 2023]",
         "id": "57a4"
       },
       {
-        "name": "Thunderbolt USB Controller [Barlow Ridge Hub 40G 2023]",
+        "name": "JHL9440 Thunderbolt 4 USB Controller [Barlow Ridge Hub 40G 2023]",
         "id": "57a5"
       },
       {
@@ -25080,6 +25212,74 @@
         "id": "a206"
       },
       {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a210"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a211"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a212"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a213"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a214"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a215"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a216"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a217"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a218"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a219"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a21a"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a21b"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a21c"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a21d"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a21e"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a21f"
+      },
+      {
+        "name": "Lewisburg Power Management Controller",
+        "id": "a221"
+      },
+      {
         "name": "Lewisburg SMBus",
         "id": "a223"
       },
@@ -25102,6 +25302,22 @@
       {
         "name": "Lewisburg SSATA Controller [RAID mode]",
         "id": "a256"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a267"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a268"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a269"
+      },
+      {
+        "name": "Lewisburg PCI Express Root Port",
+        "id": "a26a"
       },
       {
         "name": "200 Series PCH SATA controller [AHCI mode]",
@@ -25918,6 +26134,22 @@
       {
         "name": "Panther Lake [Intel Graphics]",
         "id": "b083"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b084"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b085"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b086"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b087"
       },
       {
         "name": "Panther Lake [Intel Graphics]",
@@ -29462,12 +29694,20 @@
         "id": "74b5"
       },
       {
+        "name": "Aqua Vanjaram [Instinct MI325X VF]",
+        "id": "74b9"
+      },
+      {
         "name": "Aqua Vanjaram [Instinct MI300X HF]",
         "id": "74bd"
       },
       {
         "name": "Navi 48 [RX 9070/9070 XT]",
         "id": "7550"
+      },
+      {
+        "name": "Navi 44 [RX 9060 XT]",
+        "id": "7590"
       },
       {
         "name": "RS350 Host Bridge",
@@ -30544,6 +30784,10 @@
       {
         "name": "Navi 10 HDMI Audio",
         "id": "ab38"
+      },
+      {
+        "name": "Navi 48 HDMI/DP Audio Controller",
+        "id": "ab40"
       },
       {
         "name": "Theater 506 World-Wide Analog Decoder",

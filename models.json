@@ -5282,6 +5282,14 @@
    "2c19"
   ],
   [
+   "GB203GLM [RTX PRO 5000 Blackwell Generation Laptop GPU]",
+   "2c38"
+  ],
+  [
+   "GB203GLM [RTX PRO 4000 Blackwell Generation Laptop GPU]",
+   "2c39"
+  ],
+  [
    "GB203M / GN22-X11 [GeForce RTX 5090 Max-Q / Mobile]",
    "2c58"
   ],
@@ -5306,6 +5314,10 @@
    "2d19"
   ],
   [
+   "GB206GLM [RTX PRO 2000 Blackwell Generation Laptop GPU]",
+   "2d39"
+  ],
+  [
    "GB206M [GeForce RTX 5070 Max-Q / Mobile]",
    "2d58"
   ],
@@ -5318,6 +5330,14 @@
    "2d98"
   ],
   [
+   "GB207GLM [RTX PRO 1000 Blackwell Generation Laptop GPU]",
+   "2db8"
+  ],
+  [
+   "GB207GLM [RTX PRO 500 Blackwell Generation Laptop GPU]",
+   "2db9"
+  ],
+  [
    "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
    "2dd8"
   ],
@@ -5328,6 +5348,10 @@
   [
    "GB205M [GeForce RTX 5070 Ti Mobile]",
    "2f18"
+  ],
+  [
+   "GB205GLM [RTX PRO 3000 Blackwell Generation Laptop GPU]",
+   "2f38"
   ],
   [
    "GB205M [GeForce RTX 5070 Ti Mobile]",
@@ -6710,6 +6734,22 @@
   [
    "Panther Lake [Intel Graphics]",
    "b083"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b084"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b085"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b086"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b087"
   ],
   [
    "Panther Lake [Intel Graphics]",
@@ -8794,6 +8834,10 @@
    "74b5"
   ],
   [
+   "Aqua Vanjaram [Instinct MI325X VF]",
+   "74b9"
+  ],
+  [
    "Aqua Vanjaram [Instinct MI300X HF]",
    "74bd"
   ],
@@ -9684,6 +9728,10 @@
   [
    "Navi 10 HDMI Audio",
    "ab38"
+  ],
+  [
+   "Navi 48 HDMI/DP Audio Controller",
+   "ab40"
   ]
  ],
  "15b3": [
