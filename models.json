@@ -6800,20 +6800,28 @@
    "e216"
   ],
   [
-   "Battlemage G21 [Intel Graphics]",
+   "Battlemage G31 [Intel Graphics]",
    "e220"
   ],
   [
-   "Battlemage G21 [Intel Graphics]",
+   "Battlemage G31 [Intel Graphics]",
    "e221"
   ],
   [
-   "Battlemage G21 [Intel Graphics]",
+   "Battlemage G31 [Intel Graphics]",
    "e222"
   ],
   [
-   "Battlemage G21 [Intel Graphics]",
+   "Battlemage G31 [Intel Graphics]",
    "e223"
+  ],
+  [
+   "Wildcat Lake [Intel Graphics]",
+   "fd80"
+  ],
+  [
+   "Wildcat Lake [Intel Graphics]",
+   "fd81"
   ]
  ],
  "1002": [
@@ -8810,6 +8818,10 @@
    "7499"
   ],
   [
+   "Navi 33 [Radeon RX 7500]",
+   "749f"
+  ],
+  [
    "Aqua Vanjaram [Instinct MI300A]",
    "74a0"
   ],
@@ -8840,6 +8852,18 @@
   [
    "Aqua Vanjaram [Instinct MI300X HF]",
    "74bd"
+  ],
+  [
+   "Navi 48 [Radeon RX 9070/9070 XT/9070 GRE]",
+   "7550"
+  ],
+  [
+   "Navi 48 [Radeon AI PRO R9700]",
+   "7551"
+  ],
+  [
+   "Navi 44 [Radeon RX 9060 XT]",
+   "7590"
   ],
   [
    "RS350 [Radeon 9100 PRO/XT IGP]",

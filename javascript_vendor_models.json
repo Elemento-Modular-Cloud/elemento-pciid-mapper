@@ -22336,6 +22336,10 @@
         "id": "7afd"
       },
       {
+        "name": "Meteor Lake-H 6p+8e cores Host Bridge/DRAM Controller",
+        "id": "7d01"
+      },
+      {
         "name": "Meteor Lake-P Dynamic Tuning Technology",
         "id": "7d03"
       },
@@ -22396,6 +22400,10 @@
         "id": "7e01"
       },
       {
+        "name": "Meteor Lake-H eSPI Controller",
+        "id": "7e02"
+      },
+      {
         "name": "Meteor Lake-P SMBus Controller",
         "id": "7e22"
       },
@@ -22428,6 +22436,10 @@
         "id": "7e30"
       },
       {
+        "name": "Meteor Lake-H/U PCIe Root Port #8",
+        "id": "7e3f"
+      },
+      {
         "name": "Meteor Lake PCH CNVi WiFi",
         "id": "7e40"
       },
@@ -22442,6 +22454,10 @@
       {
         "name": "Meteor Lake-P Gaussian & Neural-Network Accelerator",
         "id": "7e4c"
+      },
+      {
+        "name": "Meteor Lake-H/U PCIe Root Port #9",
+        "id": "7e4d"
       },
       {
         "name": "Meteor Lake-P Serial IO I2C Controller #4",
@@ -22488,6 +22504,10 @@
         "id": "7e7e"
       },
       {
+        "name": "Meteor Lake-H/U Shared SRAM",
+        "id": "7e7f"
+      },
+      {
         "name": "Meteor Lake-P Thunderbolt 4 USB Controller",
         "id": "7ec0"
       },
@@ -22514,6 +22534,14 @@
       {
         "name": "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #3",
         "id": "7ec7"
+      },
+      {
+        "name": "Meteor Lake-H/U PCIe Root Port #10",
+        "id": "7eca"
+      },
+      {
+        "name": "Meteor Lake-H PCIe Root Port #12",
+        "id": "7ecc"
       },
       {
         "name": "Arrow Lake-S PCH CNVi WiFi",
@@ -25180,7 +25208,7 @@
         "id": "a1ed"
       },
       {
-        "name": "Lewisburg MROM 0",
+        "name": "C62x HD Audio Controller",
         "id": "a1f0"
       },
       {
@@ -26292,19 +26320,19 @@
         "id": "e216"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G31 [Intel Graphics]",
         "id": "e220"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G31 [Intel Graphics]",
         "id": "e221"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G31 [Intel Graphics]",
         "id": "e222"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G31 [Intel Graphics]",
         "id": "e223"
       },
       {
@@ -26330,6 +26358,14 @@
       {
         "name": "SSD 665p Series [Neptune Harbor Refresh]",
         "id": "faf0"
+      },
+      {
+        "name": "Wildcat Lake [Intel Graphics]",
+        "id": "fd80"
+      },
+      {
+        "name": "Wildcat Lake [Intel Graphics]",
+        "id": "fd81"
       }
     ]
   },
@@ -26582,12 +26618,16 @@
         "id": "1714"
       },
       {
-        "name": "Phoenix3",
+        "name": "HawkPoint1",
         "id": "1900"
       },
       {
-        "name": "Phoenix4",
+        "name": "HawkPoint2",
         "id": "1901"
+      },
+      {
+        "name": "Krackan2",
+        "id": "1902"
       },
       {
         "name": "RV380/M24 [Mobility Radeon X600]",
@@ -29670,6 +29710,10 @@
         "id": "7499"
       },
       {
+        "name": "Navi 33 [Radeon RX 7500]",
+        "id": "749f"
+      },
+      {
         "name": "Aqua Vanjaram [Instinct MI300A]",
         "id": "74a0"
       },
@@ -29702,11 +29746,15 @@
         "id": "74bd"
       },
       {
-        "name": "Navi 48 [RX 9070/9070 XT]",
+        "name": "Navi 48 [Radeon RX 9070/9070 XT/9070 GRE]",
         "id": "7550"
       },
       {
-        "name": "Navi 44 [RX 9060 XT]",
+        "name": "Navi 48 [Radeon AI PRO R9700]",
+        "id": "7551"
+      },
+      {
+        "name": "Navi 44 [Radeon RX 9060 XT]",
         "id": "7590"
       },
       {
