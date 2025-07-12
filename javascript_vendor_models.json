@@ -6802,6 +6802,14 @@
         "id": "22be"
       },
       {
+        "name": "THOR Processor PCI Express Root Port",
+        "id": "22d8"
+      },
+      {
+        "name": "THOR Processor PCI Express x16 Controller",
+        "id": "22e6"
+      },
+      {
         "name": "GH100",
         "id": "2302"
       },
@@ -7578,6 +7586,10 @@
         "id": "29f1"
       },
       {
+        "name": "TA1090SA [THOR]",
+        "id": "2b00"
+      },
+      {
         "name": "GB202 [GeForce RTX 5090]",
         "id": "2b85"
       },
@@ -7620,6 +7632,14 @@
       {
         "name": "GB6-256(N22W-ES-A1)",
         "id": "2c2c"
+      },
+      {
+        "name": "GB203GL [RTX PRO 4500 Blackwell]",
+        "id": "2c31"
+      },
+      {
+        "name": "GB203GL [RTX PRO 4000 Blackwell]",
+        "id": "2c34"
       },
       {
         "name": "GB203GLM [RTX PRO 5000 Blackwell Generation Laptop GPU]",
@@ -7668,6 +7688,10 @@
       {
         "name": "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
         "id": "2d59"
+      },
+      {
+        "name": "GB207 [GeForce RTX 5050]",
+        "id": "2d83"
       },
       {
         "name": "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
@@ -18340,7 +18364,27 @@
         "id": "373f"
       },
       {
-        "name": "C62x Chipset QuickAssist Technology",
+        "name": "C62x chipset series PCIe x16/x8 Upstream Port",
+        "id": "37c0"
+      },
+      {
+        "name": "C62x chipset series PCIe Virtual Switch Port 0",
+        "id": "37c2"
+      },
+      {
+        "name": "C62x chipset series PCIe Virtual Switch Port 1",
+        "id": "37c3"
+      },
+      {
+        "name": "C62x chipset series PCIe Virtual Switch Port 2",
+        "id": "37c4"
+      },
+      {
+        "name": "C62x chipset series PCIe Virtual Switch Port 3",
+        "id": "37c5"
+      },
+      {
+        "name": "C62x Chipset series QuickAssist Technology Physical Function 0~2",
         "id": "37c8"
       },
       {
@@ -20612,6 +20656,14 @@
         "id": "5481"
       },
       {
+        "name": "Alder Lake-N P2SB Bridge",
+        "id": "54a0"
+      },
+      {
+        "name": "Alder Lake-N Power Management Controller (PMC)",
+        "id": "54a1"
+      },
+      {
         "name": "Alder Lake-N SMBus",
         "id": "54a3"
       },
@@ -20620,8 +20672,24 @@
         "id": "54a4"
       },
       {
+        "name": "Alder Lake-N Intel Trace Hub",
+        "id": "54a6"
+      },
+      {
         "name": "Alder Lake-N Serial IO UART Host Controller",
         "id": "54a8"
+      },
+      {
+        "name": "Alder Lake-N UART Controller",
+        "id": "54a9"
+      },
+      {
+        "name": "Alder Lake-N Generic SPI (GSPI) Controller #0",
+        "id": "54aa"
+      },
+      {
+        "name": "Alder Lake-N Generic SPI (GSPI) Controller #1",
+        "id": "54ab"
       },
       {
         "name": "Alder Lake-N PCI Express Root Port #9",
@@ -20660,28 +20728,112 @@
         "id": "54be"
       },
       {
+        "name": "Alder Lake-N eMMC Controller",
+        "id": "54c4"
+      },
+      {
+        "name": "Alder Lake-N I2C Controller #4",
+        "id": "54c5"
+      },
+      {
+        "name": "Alder Lake-N I2C Controller #5",
+        "id": "54c6"
+      },
+      {
+        "name": "Alder Lake-N UART Controller #2",
+        "id": "54c7"
+      },
+      {
         "name": "Alder Lake-N PCH High Definition Audio Controller",
         "id": "54c8"
+      },
+      {
+        "name": "Alder Lake-N Touch Host Controller #0 (THC #0)",
+        "id": "54d0"
+      },
+      {
+        "name": "Alder Lake-N Touch Host Controller #1 (THC #1)",
+        "id": "54d1"
       },
       {
         "name": "Alder Lake-N SATA AHCI Controller",
         "id": "54d3"
       },
       {
+        "name": "Alder Lake-N UART Controller #3",
+        "id": "54da"
+      },
+      {
         "name": "Alder Lake-N PCH HECI Controller",
         "id": "54e0"
       },
       {
-        "name": "Alder Lake-N PCH USB 3.2 xHCI Host Controller",
+        "name": "Alder Lake-N PCH HECI Controller",
+        "id": "54e1"
+      },
+      {
+        "name": "Alder Lake-N PCH HECI Controller",
+        "id": "54e4"
+      },
+      {
+        "name": "Alder Lake-N PCH HECI Controller",
+        "id": "54e5"
+      },
+      {
+        "name": "Alder Lake-N PCH I2C Controller",
+        "id": "54e8"
+      },
+      {
+        "name": "Alder Lake-N PCH I2C Controller",
+        "id": "54e9"
+      },
+      {
+        "name": "Alder Lake-N PCH I2C Controller",
+        "id": "54ea"
+      },
+      {
+        "name": "Alder Lake-N PCH I2C Controller",
+        "id": "54eb"
+      },
+      {
+        "name": "Alder Lake-N PCH USB 3.2 Gen 2x1 (10 Gb/s) xHCI Host Controller",
         "id": "54ed"
+      },
+      {
+        "name": "Alder Lake-N USB 3.2 Gen 1x1 (5 Gb/s) Device Controller (xDCI)",
+        "id": "54ee"
       },
       {
         "name": "Alder Lake-N PCH Shared SRAM",
         "id": "54ef"
       },
       {
-        "name": "CNVi: Wi-Fi",
+        "name": "Alder Lake-N PCH CNVi WiFi",
         "id": "54f0"
+      },
+      {
+        "name": "Alder Lake-N PCH CNVi WiFi",
+        "id": "54f1"
+      },
+      {
+        "name": "Alder Lake-N PCH CNVi WiFi",
+        "id": "54f2"
+      },
+      {
+        "name": "Alder Lake-N PCH CNVi WiFi",
+        "id": "54f3"
+      },
+      {
+        "name": "Alder Lake-N Generic SPI (GSPI) Controller #2",
+        "id": "54fb"
+      },
+      {
+        "name": "Alder Lake-N Integrated Sensor Hub",
+        "id": "54fc"
+      },
+      {
+        "name": "Alder Lake-N UFS Controller",
+        "id": "54ff"
       },
       {
         "name": "Ethernet Controller (2) I225-LMvP",
@@ -26578,7 +26730,7 @@
         "id": "1636"
       },
       {
-        "name": "Renoir Radeon High Definition Audio Controller",
+        "name": "Renoir/Cezanne HDMI/DP Audio Controller",
         "id": "1637"
       },
       {
@@ -31230,6 +31382,22 @@
       {
         "name": "Ophy 2.1 (SagittaZ)",
         "id": "0294"
+      },
+      {
+        "name": "OPHY2.6",
+        "id": "0296"
+      },
+      {
+        "name": "OPHY3.0",
+        "id": "0298"
+      },
+      {
+        "name": "OPHY3.1",
+        "id": "029a"
+      },
+      {
+        "name": "OPHY3.5",
+        "id": "029c"
       },
       {
         "name": "Quantum-6 in Flash Recovery Mode",

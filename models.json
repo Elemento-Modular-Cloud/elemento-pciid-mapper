@@ -5282,6 +5282,14 @@
    "2c19"
   ],
   [
+   "GB203GL [RTX PRO 4500 Blackwell]",
+   "2c31"
+  ],
+  [
+   "GB203GL [RTX PRO 4000 Blackwell]",
+   "2c34"
+  ],
+  [
    "GB203GLM [RTX PRO 5000 Blackwell Generation Laptop GPU]",
    "2c38"
   ],
@@ -5324,6 +5332,10 @@
   [
    "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
    "2d59"
+  ],
+  [
+   "GB207 [GeForce RTX 5050]",
+   "2d83"
   ],
   [
    "GB207M [GeForce RTX 5050 Max-Q / Mobile]",
@@ -6926,7 +6938,7 @@
    "1636"
   ],
   [
-   "Renoir Radeon High Definition Audio Controller",
+   "Renoir/Cezanne HDMI/DP Audio Controller",
    "1637"
   ],
   [
