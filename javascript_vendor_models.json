@@ -5522,6 +5522,10 @@
         "id": "15ff"
       },
       {
+        "name": "GM204GL [GRID M60 Service Provider]",
+        "id": "1613"
+      },
+      {
         "name": "GM204M [GeForce GTX 980M]",
         "id": "1617"
       },
@@ -5540,6 +5544,10 @@
       {
         "name": "GM204M [GeForce GTX 965M]",
         "id": "1667"
+      },
+      {
+        "name": "GM204GLM [Quadro M2200 Mobile]",
+        "id": "1676"
       },
       {
         "name": "GP100",
@@ -6626,6 +6634,10 @@
         "id": "2184"
       },
       {
+        "name": "TU116 [PG160 SKU18]",
+        "id": "2186"
+      },
+      {
         "name": "TU116 [GeForce GTX 1650 SUPER]",
         "id": "2187"
       },
@@ -6790,6 +6802,10 @@
         "id": "22ba"
       },
       {
+        "name": "AD103 High Definition Audio Controller",
+        "id": "22bb"
+      },
+      {
         "name": "AD104 High Definition Audio Controller",
         "id": "22bc"
       },
@@ -6808,6 +6824,22 @@
       {
         "name": "THOR Processor PCI Express x16 Controller",
         "id": "22e6"
+      },
+      {
+        "name": "GB202 High Definition Audio Controller",
+        "id": "22e8"
+      },
+      {
+        "name": "GB203 High Definition Audio Controller",
+        "id": "22e9"
+      },
+      {
+        "name": "GB206 High Definition Audio Controller",
+        "id": "22eb"
+      },
+      {
+        "name": "GB207 High Definition Audio Controller",
+        "id": "22ec"
       },
       {
         "name": "GH100",
@@ -6900,6 +6932,10 @@
       {
         "name": "GH100 [GH200 144G HBM3e]",
         "id": "2348"
+      },
+      {
+        "name": "GH100 [H100 GH3]",
+        "id": "237e"
       },
       {
         "name": "GH100 [Skinny Joe]",
@@ -7574,6 +7610,10 @@
         "id": "2980"
       },
       {
+        "name": "GB102 [DRIVE P2021]",
+        "id": "29bb"
+      },
+      {
         "name": "GB102 [B100]",
         "id": "29bc"
       },
@@ -7586,7 +7626,7 @@
         "id": "29f1"
       },
       {
-        "name": "TA1090SA [THOR]",
+        "name": "GB10B [Jetson AGX Thor]",
         "id": "2b00"
       },
       {
@@ -7598,8 +7638,16 @@
         "id": "2b87"
       },
       {
+        "name": "GB202 [GeForce RTX 5090 D V2]",
+        "id": "2b8c"
+      },
+      {
         "name": "GB202GL [RTX PRO 6000 Blackwell Workstation Edition]",
         "id": "2bb1"
+      },
+      {
+        "name": "GB202GL [RTX PRO 6000D Blackwell Workstation Edition]",
+        "id": "2bb2"
       },
       {
         "name": "GB202GL [RTX PRO 5000 Blackwell]",
@@ -7612,6 +7660,14 @@
       {
         "name": "GB202GL [RTX PRO 6000 Blackwell Server Edition]",
         "id": "2bb5"
+      },
+      {
+        "name": "GB202GL [RTX 6000D]",
+        "id": "2bb9"
+      },
+      {
+        "name": "GB202GL [RTX PRO 6000D Blackwell Max-Q Workstation Edition]",
+        "id": "2bbc"
       },
       {
         "name": "GB203 [GeForce RTX 5080]",
@@ -7638,6 +7694,10 @@
         "id": "2c31"
       },
       {
+        "name": "GB203GL [RTX PRO 4000 Blackwell SFF Edition]",
+        "id": "2c33"
+      },
+      {
         "name": "GB203GL [RTX PRO 4000 Blackwell]",
         "id": "2c34"
       },
@@ -7656,6 +7716,14 @@
       {
         "name": "GB203M / GN22-X9 [GeForce RTX 5080 Max-Q / Mobile]",
         "id": "2c59"
+      },
+      {
+        "name": "GB203GLM [RTX PRO 5000 Blackwell Embedded GPU]",
+        "id": "2c77"
+      },
+      {
+        "name": "GB203GLM [RTX PRO 4000 Blackwell Embedded GPU]",
+        "id": "2c79"
       },
       {
         "name": "GB206 [GeForce RTX 5060 Ti]",
@@ -7678,6 +7746,10 @@
         "id": "2d2c"
       },
       {
+        "name": "GB206GL [RTX PRO 2000 Blackwell]",
+        "id": "2d30"
+      },
+      {
         "name": "GB206GLM [RTX PRO 2000 Blackwell Generation Laptop GPU]",
         "id": "2d39"
       },
@@ -7688,6 +7760,10 @@
       {
         "name": "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
         "id": "2d59"
+      },
+      {
+        "name": "GB206GLM [RTX PRO 2000 Blackwell Embedded GPU]",
+        "id": "2d79"
       },
       {
         "name": "GB207 [GeForce RTX 5050]",
@@ -7710,7 +7786,15 @@
         "id": "2dd8"
       },
       {
-        "name": "GB20B",
+        "name": "GB207GLM [RTX PRO 500 Blackwell Embedded GPU]",
+        "id": "2df9"
+      },
+      {
+        "name": "GB20B [GB10]",
+        "id": "2e12"
+      },
+      {
+        "name": "GB20B [JMJWOA-Generic-GPU]",
         "id": "2e2a"
       },
       {
@@ -7730,8 +7814,44 @@
         "id": "2f58"
       },
       {
+        "name": "GB205 High Definition Audio Controller",
+        "id": "2f80"
+      },
+      {
+        "name": "GB110 [Reserved Dev ID A]",
+        "id": "3180"
+      },
+      {
+        "name": "GB110 [B300 SXM6 AC]",
+        "id": "3182"
+      },
+      {
         "name": "GB110",
+        "id": "31a1"
+      },
+      {
+        "name": "GB110 [Reserved Dev ID B]",
         "id": "31c0"
+      },
+      {
+        "name": "GB110 [GB300]",
+        "id": "31c2"
+      },
+      {
+        "name": "GB110",
+        "id": "31fe"
+      },
+      {
+        "name": "GB112",
+        "id": "3200"
+      },
+      {
+        "name": "GB112",
+        "id": "3224"
+      },
+      {
+        "name": "GB112",
+        "id": "323e"
       },
       {
         "name": "GB120",
@@ -8372,12 +8492,20 @@
         "id": "0687"
       },
       {
-        "name": "Comet Lake LPC Controller",
+        "name": "QM480 Chipset LPC/eSPI Controller",
+        "id": "068c"
+      },
+      {
+        "name": "HM470 Chipset LPC/eSPI Controller",
         "id": "068d"
       },
       {
         "name": "WM490 Chipset LPC/eSPI Controller",
         "id": "068e"
+      },
+      {
+        "name": "W480 Chipset LPC/eSPI Controller",
+        "id": "0697"
       },
       {
         "name": "Comet Lake PCH SMBus Controller",
@@ -8820,6 +8948,10 @@
         "id": "093a"
       },
       {
+        "name": "WiGig(802.11ad) wireless network connection",
+        "id": "093c"
+      },
+      {
         "name": "PCIe Data Center SSD",
         "id": "0953"
       },
@@ -8942,6 +9074,14 @@
       {
         "name": "Ice Lake CBDMA [QuickData Technology]",
         "id": "0b00"
+      },
+      {
+        "name": "Xeon Root Event Collector",
+        "id": "0b23"
+      },
+      {
+        "name": "Data Streaming Accelerator (DSA)",
+        "id": "0b25"
       },
       {
         "name": "Thunderbolt 4 Bridge [Goshen Ridge 2020]",
@@ -9278,6 +9418,10 @@
       {
         "name": "Ethernet Controller X710 Intel(R) FPGA Programmable Acceleration Card N3000 for Networking",
         "id": "0cf8"
+      },
+      {
+        "name": "In-Memory Analytics Accelerator (IAA)",
+        "id": "0cfe"
       },
       {
         "name": "Crystal Well DRAM Controller",
@@ -10988,6 +11132,18 @@
         "id": "1240"
       },
       {
+        "name": "Ethernet Controller E835-CC for backplane",
+        "id": "1248"
+      },
+      {
+        "name": "Ethernet Controller E835-CC for QSFP",
+        "id": "1249"
+      },
+      {
+        "name": "Ethernet Controller E835-CC for SFP",
+        "id": "124a"
+      },
+      {
         "name": "82380FB (MPCI2) Mobile Docking Controller",
         "id": "124b"
       },
@@ -11022,6 +11178,38 @@
       {
         "name": "Ethernet Controller I226-IT",
         "id": "125d"
+      },
+      {
+        "name": "Ethernet Controller E835-C for backplane",
+        "id": "1261"
+      },
+      {
+        "name": "Ethernet Controller E835-C for QSFP",
+        "id": "1262"
+      },
+      {
+        "name": "Ethernet Controller E835-C for SFP",
+        "id": "1263"
+      },
+      {
+        "name": "Ethernet Controller E835-L for backplane",
+        "id": "1265"
+      },
+      {
+        "name": "Ethernet Controller E835-L for QSFP",
+        "id": "1266"
+      },
+      {
+        "name": "Ethernet Controller E835-L for SFP",
+        "id": "1267"
+      },
+      {
+        "name": "60Cx8980 Series QAT",
+        "id": "128c"
+      },
+      {
+        "name": "60Cx8980 Series QAT \u2013 Virtual Function",
+        "id": "128d"
       },
       {
         "name": "Ethernet Controller E830-CC for backplane",
@@ -12428,7 +12616,95 @@
         "id": "1b48"
       },
       {
-        "name": "Emmitsburg (C740 Family) USB 3.2 Gen 1 xHCI Controller",
+        "name": "C740 Series (Emmitsburg) Chipsets eSPI Controller",
+        "id": "1b81"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets SATA0 Controller (AHCI)",
+        "id": "1ba2"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets SATA0 Controller (RAID)",
+        "id": "1ba6"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets UART0",
+        "id": "1bad"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets UART1",
+        "id": "1bae"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #8",
+        "id": "1bb0"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #9",
+        "id": "1bb1"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #10",
+        "id": "1bb2"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #11",
+        "id": "1bb3"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #12",
+        "id": "1bb4"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #13",
+        "id": "1bb5"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #0",
+        "id": "1bb8"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #1",
+        "id": "1bb9"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #2",
+        "id": "1bba"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #3",
+        "id": "1bbb"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #4",
+        "id": "1bbc"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #5",
+        "id": "1bbd"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #6",
+        "id": "1bbe"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets PCI Express Root Port #7",
+        "id": "1bbf"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets Power Management Controller",
+        "id": "1bc7"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets Audio",
+        "id": "1bc8"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets SMBus",
+        "id": "1bc9"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets USB 3.2 Gen 1 xHCI Controller",
         "id": "1bcd"
       },
       {
@@ -12436,8 +12712,16 @@
         "id": "1bd2"
       },
       {
+        "name": "C740 Series (Emmitsburg) Chipsets SATA2 Controller (RAID)",
+        "id": "1bd6"
+      },
+      {
         "name": "Sapphire Rapids SATA AHCI Controller",
         "id": "1bf2"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets SATA1 Controller (RAID)",
+        "id": "1bf6"
       },
       {
         "name": "6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3)",
@@ -13662,6 +13946,14 @@
       {
         "name": "Larrabee",
         "id": "2241"
+      },
+      {
+        "name": "Knights Ferry coprocessor",
+        "id": "2249"
+      },
+      {
+        "name": "Knights Ferry coprocessor",
+        "id": "224a"
       },
       {
         "name": "Xeon Phi coprocessor 5100 series",
@@ -14896,6 +15188,14 @@
         "id": "2701"
       },
       {
+        "name": "Dynamic Load Balancer 2.0 (DLB)",
+        "id": "2710"
+      },
+      {
+        "name": "Dynamic Load Balancer 2.5 (DLB)",
+        "id": "2714"
+      },
+      {
         "name": "Wi-Fi 6 AX200",
         "id": "2723"
       },
@@ -15166,6 +15466,10 @@
       {
         "name": "82801 Mobile SATA Controller [RAID mode]",
         "id": "282a"
+      },
+      {
+        "name": "C740 Series (Emmitsburg) Chipsets SATA2 Controller (RAID) Alternate ID",
+        "id": "282b"
       },
       {
         "name": "tSATA Controller [RAID Mode]",
@@ -17508,6 +17812,38 @@
         "id": "3200"
       },
       {
+        "name": "Power Control Unit (PCU) CR0",
+        "id": "3258"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR1",
+        "id": "3259"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR2",
+        "id": "325a"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR3",
+        "id": "325b"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR4",
+        "id": "325c"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR5",
+        "id": "325d"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR6",
+        "id": "325e"
+      },
+      {
+        "name": "Power Control Unit (PCU) CR7",
+        "id": "325f"
+      },
+      {
         "name": "IOP348 I/O Processor",
         "id": "3310"
       },
@@ -18014,6 +18350,22 @@
       {
         "name": "6310ESB PCI Express Downstream Port E3",
         "id": "3519"
+      },
+      {
+        "name": "PCI Express Gen5 Port A",
+        "id": "352a"
+      },
+      {
+        "name": "PCI Express Gen5 Port B",
+        "id": "352b"
+      },
+      {
+        "name": "PCI Express Gen5 Port C",
+        "id": "352c"
+      },
+      {
+        "name": "PCI Express Gen5 Port D",
+        "id": "352d"
       },
       {
         "name": "82830M/MG/MP Host Bridge",
@@ -19888,7 +20240,7 @@
         "id": "467f"
       },
       {
-        "name": "AlderLake-S GT1",
+        "name": "Alder Lake-S GT1 [UHD Graphics 770]",
         "id": "4680"
       },
       {
@@ -20052,6 +20404,14 @@
         "id": "4947"
       },
       {
+        "name": "6xxx Series QAT",
+        "id": "4948"
+      },
+      {
+        "name": "6xxx Series QAT Virtual Function",
+        "id": "4949"
+      },
+      {
         "name": "Elkhart Lake eSPI Controller",
         "id": "4b00"
       },
@@ -20106,6 +20466,14 @@
       {
         "name": "Elkhart Lake PMC SRAM",
         "id": "4b7f"
+      },
+      {
+        "name": "Elkhart Lake Controller Area Network (CAN) interface #0",
+        "id": "4bc1"
+      },
+      {
+        "name": "Elkhart Lake Controller Area Network (CAN) interface #1",
+        "id": "4bc2"
       },
       {
         "name": "Volume Management Device NVMe RAID Controller",
@@ -20840,6 +21208,10 @@
         "id": "5502"
       },
       {
+        "name": "Ethernet Connection (19) I219-V",
+        "id": "550d"
+      },
+      {
         "name": "DG2 [Arc A770M]",
         "id": "5690"
       },
@@ -21000,8 +21372,16 @@
         "id": "5787"
       },
       {
+        "name": "Granite Rapids SPI Controller",
+        "id": "5794"
+      },
+      {
         "name": "Granite Rapids Chipset LPC Controller",
         "id": "5795"
+      },
+      {
+        "name": "Granite Rapids SMBus Controller",
+        "id": "5796"
       },
       {
         "name": "Ethernet Connection E825-C for backplane",
@@ -21018,6 +21398,10 @@
       {
         "name": "Ethernet Connection E825-C 10GbE",
         "id": "579f"
+      },
+      {
+        "name": "Arrow Lake Gigabit vPRO Ethernet Controller",
+        "id": "57a0"
       },
       {
         "name": "JHL9440 Thunderbolt 4 Bridge [Barlow Ridge Hub 40G 2023]",
@@ -22232,6 +22616,14 @@
         "id": "7603"
       },
       {
+        "name": "Arrow Lake SMBus Controller",
+        "id": "7722"
+      },
+      {
+        "name": "Arrow Lake SPI Controller",
+        "id": "7723"
+      },
+      {
         "name": "Arrow Lake-H [PCH Serial IO UART Host Controller]",
         "id": "7725"
       },
@@ -22244,12 +22636,28 @@
         "id": "7727"
       },
       {
+        "name": "Arrow Lake cAVS",
+        "id": "7728"
+      },
+      {
         "name": "Arrow Lake-H [LPC/eSPI Controller]",
         "id": "7730"
       },
       {
+        "name": "Arrow Lake CNVi WiFi",
+        "id": "7740"
+      },
+      {
+        "name": "Arrow Lake Integrated Sensor Hub",
+        "id": "7745"
+      },
+      {
         "name": "Arrow Lake-H [LPC/eSPI Controller]",
         "id": "7746"
+      },
+      {
+        "name": "Arrow Lake Gaussian & Neural Accelerator",
+        "id": "774c"
       },
       {
         "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
@@ -22262,6 +22670,14 @@
       {
         "name": "Arrow Lake-H [PCH Serial IO UART Host Controller]",
         "id": "7752"
+      },
+      {
+        "name": "Arrow Lake HECI Controller #1",
+        "id": "7770"
+      },
+      {
+        "name": "Arrow Lake Keyboard and Text (KT) Redirection",
+        "id": "7773"
       },
       {
         "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
@@ -22280,15 +22696,55 @@
         "id": "777b"
       },
       {
+        "name": "Arrow Lake USB 3.2 xHCI Controller",
+        "id": "777d"
+      },
+      {
+        "name": "Arrow Lake Shared SRAM",
+        "id": "777f"
+      },
+      {
         "name": "82740 (i740) AGP Graphics Accelerator",
         "id": "7800"
       },
       {
-        "name": "Raptor Lake LPC/eSPI Controller",
+        "name": "Z790 Chipset LPC/eSPI Controller",
         "id": "7a04"
       },
       {
-        "name": "Raptor Lake-S PCH SMBus Controller",
+        "name": "H770 Chipset LPC/eSPI Controller",
+        "id": "7a05"
+      },
+      {
+        "name": "B760 Chipset LPC/eSPI Controller",
+        "id": "7a06"
+      },
+      {
+        "name": "HM770 Chipset LPC/eSPI Controller",
+        "id": "7a0c"
+      },
+      {
+        "name": "WM790 Chipset LPC/eSPI Controller",
+        "id": "7a0d"
+      },
+      {
+        "name": "C266 Chipset LPC/eSPI Controller",
+        "id": "7a13"
+      },
+      {
+        "name": "C262 Chipset LPC/eSPI Controller",
+        "id": "7a14"
+      },
+      {
+        "name": "700 Series Chipset P2SB",
+        "id": "7a20"
+      },
+      {
+        "name": "700 Series Chipset Power Management Controller",
+        "id": "7a21"
+      },
+      {
+        "name": "700 Series Chipset SMBus Controller",
         "id": "7a23"
       },
       {
@@ -22296,19 +22752,67 @@
         "id": "7a24"
       },
       {
-        "name": "Raptor Lake-S PCH Shared SRAM",
+        "name": "Raptor Lake PCH Shared SRAM",
         "id": "7a27"
+      },
+      {
+        "name": "700 Series Chipset Serial IO UART Controller #0",
+        "id": "7a28"
+      },
+      {
+        "name": "700 Series Chipset Serial IO UART Controller #1",
+        "id": "7a29"
+      },
+      {
+        "name": "700 Series Chipset Serial IO GSPI Controller #0",
+        "id": "7a2a"
+      },
+      {
+        "name": "700 Series Chipset Serial IO GSPI Controller #1",
+        "id": "7a2b"
       },
       {
         "name": "Raptor Lake PCI Express Root Port #9",
         "id": "7a30"
       },
       {
+        "name": "Raptor Lake PCI Express Root Port #10",
+        "id": "7a31"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #11",
+        "id": "7a32"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #12",
+        "id": "7a33"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #13",
+        "id": "7a34"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #14",
+        "id": "7a35"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #15",
+        "id": "7a36"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #16",
+        "id": "7a37"
+      },
+      {
         "name": "Raptor Lake PCI Express Root Port #1",
         "id": "7a38"
       },
       {
-        "name": "Raptor Point-S PCH - PCI Express Root Port 3",
+        "name": "Raptor Lake PCI Express Root Port #2",
+        "id": "7a39"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #3",
         "id": "7a3a"
       },
       {
@@ -22316,16 +22820,68 @@
         "id": "7a3b"
       },
       {
+        "name": "Raptor Lake PCI Express Root Port #5",
+        "id": "7a3c"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #6",
+        "id": "7a3d"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #7",
+        "id": "7a3e"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #8",
+        "id": "7a3f"
+      },
+      {
         "name": "Raptor Lake PCI Express Root Port #17",
         "id": "7a40"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #18",
+        "id": "7a41"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #19",
+        "id": "7a42"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #20",
+        "id": "7a43"
       },
       {
         "name": "Raptor Lake PCI Express Root Port #21",
         "id": "7a44"
       },
       {
+        "name": "Raptor Lake PCI Express Root Port #22",
+        "id": "7a45"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #23",
+        "id": "7a46"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #24",
+        "id": "7a47"
+      },
+      {
         "name": "Raptor Lake PCI Express Root Port #25",
         "id": "7a48"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #26",
+        "id": "7a49"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #27",
+        "id": "7a4a"
+      },
+      {
+        "name": "Raptor Lake PCI Express Root Port #28",
+        "id": "7a4b"
       },
       {
         "name": "Raptor Lake Serial IO I2C Host Controller #0",
@@ -22340,12 +22896,24 @@
         "id": "7a4e"
       },
       {
+        "name": "Raptor Lake Serial IO I2C Host Controller #3",
+        "id": "7a4f"
+      },
+      {
         "name": "Raptor Lake High Definition Audio Controller",
         "id": "7a50"
       },
       {
+        "name": "700 Series Chipset Serial IO UART Controller #3",
+        "id": "7a5c"
+      },
+      {
         "name": "Raptor Lake USB 3.2 Gen 2x2 (20 Gb/s) XHCI Host Controller",
         "id": "7a60"
+      },
+      {
+        "name": "Raptor Lake USB 3.2 Gen 1x1 (5 Gb/s) xDCI Device Controller",
+        "id": "7a61"
       },
       {
         "name": "Raptor Lake SATA AHCI Controller",
@@ -22360,16 +22928,76 @@
         "id": "7a69"
       },
       {
-        "name": "Raptor Lake-S PCH CNVi WiFi",
+        "name": "Raptor Lake CSME IDE Redirection",
+        "id": "7a6a"
+      },
+      {
+        "name": "Raptor Lake CSME Keyboard and Text (KT) Redirection",
+        "id": "7a6b"
+      },
+      {
+        "name": "Raptor Lake CSME HECI #3",
+        "id": "7a6c"
+      },
+      {
+        "name": "Raptor Lake CSME HECI #4",
+        "id": "7a6d"
+      },
+      {
+        "name": "700 Series Chipset CNVi WiFi",
         "id": "7a70"
+      },
+      {
+        "name": "700 Series Chipset Serial IO GSPI Controller #3",
+        "id": "7a79"
+      },
+      {
+        "name": "700 Series Chipset Serial IO GSPI Controller #2",
+        "id": "7a7b"
+      },
+      {
+        "name": "Raptor Lake Serial IO I2C Host Controller #4",
+        "id": "7a7c"
+      },
+      {
+        "name": "Raptor Lake Serial IO I2C Host Controller #5",
+        "id": "7a7d"
+      },
+      {
+        "name": "700 Series Chipset Serial IO UART Controller #2",
+        "id": "7a7e"
+      },
+      {
+        "name": "Q670 Chipset LPC/eSPI Controller",
+        "id": "7a83"
       },
       {
         "name": "Z690 Chipset LPC/eSPI Controller",
         "id": "7a84"
       },
       {
-        "name": "LPC Controller/eSPI Controller (H670)",
+        "name": "H670 Chipset LPC/eSPI Controller",
         "id": "7a85"
+      },
+      {
+        "name": "B660 Chipset LPC/eSPI Controller",
+        "id": "7a86"
+      },
+      {
+        "name": "H610 Chipset LPC/eSPI Controller",
+        "id": "7a87"
+      },
+      {
+        "name": "W680 Chipset LPC/eSPI Controller",
+        "id": "7a88"
+      },
+      {
+        "name": "HM670 Chipset LPC/eSPI Controller",
+        "id": "7a8c"
+      },
+      {
+        "name": "WM690 Chipset LPC/eSPI Controller",
+        "id": "7a8d"
       },
       {
         "name": "Alder Lake-S PCH SMBus Controller",
@@ -22496,6 +23124,10 @@
         "id": "7d03"
       },
       {
+        "name": "Arrow Lake-H 6p+8e cores Host Bridge/DRAM Controller",
+        "id": "7d06"
+      },
+      {
         "name": "Volume Management Device NVMe RAID Controller Intel Corporation",
         "id": "7d0b"
       },
@@ -22524,7 +23156,7 @@
         "id": "7d45"
       },
       {
-        "name": "Arrow Lake-P [Intel Graphics]",
+        "name": "Arrow Lake-P [Arc Pro 140T]",
         "id": "7d51"
       },
       {
@@ -24760,6 +25392,14 @@
         "id": "a0b3"
       },
       {
+        "name": "Tiger Lake-LP PCI Express Root Port #0",
+        "id": "a0b8"
+      },
+      {
+        "name": "Tiger Lake-LP PCI Express Root Port #3",
+        "id": "a0bb"
+      },
+      {
         "name": "Tiger Lake-LP PCI Express Root Port #5",
         "id": "a0bc"
       },
@@ -25997,6 +26637,10 @@
       },
       {
         "name": "Raptor Lake-S Host Bridge/DRAM Controller",
+        "id": "a700"
+      },
+      {
+        "name": "Raptor Lake-S Host Bridge/DRAM Controller",
         "id": "a703"
       },
       {
@@ -26048,7 +26692,7 @@
         "id": "a740"
       },
       {
-        "name": "Raptor Lake PCIe 4.0 Graphics Port",
+        "name": "Raptor Lake PCI Express 4.0 Graphics Port",
         "id": "a74d"
       },
       {
@@ -26072,7 +26716,7 @@
         "id": "a77d"
       },
       {
-        "name": "Volume Management Device NVMe RAID Controller Intel Corporation",
+        "name": "RST Volume Management Device Controller",
         "id": "a77f"
       },
       {
@@ -26312,7 +26956,7 @@
         "id": "b082"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc B370]",
         "id": "b083"
       },
       {
@@ -26436,6 +27080,30 @@
         "id": "d158"
       },
       {
+        "name": "NVL-S",
+        "id": "d740"
+      },
+      {
+        "name": "NVL-U",
+        "id": "d741"
+      },
+      {
+        "name": "NVL-H",
+        "id": "d742"
+      },
+      {
+        "name": "NVL-HX",
+        "id": "d743"
+      },
+      {
+        "name": "NVL-UL",
+        "id": "d744"
+      },
+      {
+        "name": "NVL-HX",
+        "id": "d745"
+      },
+      {
         "name": "Battlemage G21 [Intel Graphics]",
         "id": "e202"
       },
@@ -26456,11 +27124,11 @@
         "id": "e210"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G21 [Arc Pro B60]",
         "id": "e211"
       },
       {
-        "name": "Battlemage G21 [Intel Graphics]",
+        "name": "Battlemage G21 [Arc Pro B50]",
         "id": "e212"
       },
       {
@@ -26658,7 +27326,7 @@
         "id": "1479"
       },
       {
-        "name": "Mendocino",
+        "name": "Mendocino [Radeon 610M]",
         "id": "1506"
       },
       {
@@ -26688,6 +27356,10 @@
       {
         "name": "Strix Halo [Radeon Graphics / Radeon 8050S Graphics / Radeon 8060S Graphics]",
         "id": "1586"
+      },
+      {
+        "name": "Stoney HDMI/DP Audio Controller",
+        "id": "15b3"
       },
       {
         "name": "Phoenix1",
@@ -29810,6 +30482,10 @@
         "id": "744a"
       },
       {
+        "name": "Navi 31 [Radeon Pro W7900D]",
+        "id": "744b"
+      },
+      {
         "name": "Navi 31 [Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M]",
         "id": "744c"
       },
@@ -29908,6 +30584,14 @@
       {
         "name": "Navi 44 [Radeon RX 9060 XT]",
         "id": "7590"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI350X]",
+        "id": "75a0"
+      },
+      {
+        "name": "Aqua Vanjaram [Instinct MI355X]",
+        "id": "75a3"
       },
       {
         "name": "RS350 Host Bridge",
@@ -31324,11 +32008,11 @@
         "id": "027a"
       },
       {
-        "name": "Quantum-5 in Flash Recovery Mode",
+        "name": "Nvlink-7 Switch in Flash Recovery Mode",
         "id": "027c"
       },
       {
-        "name": "Quantum-5 RMA",
+        "name": "Nvlink-7 Switch RMA",
         "id": "027d"
       },
       {
@@ -31400,11 +32084,11 @@
         "id": "029c"
       },
       {
-        "name": "Quantum-6 in Flash Recovery Mode",
+        "name": "Nvlink-8 Switch in Flash Recovery Mode",
         "id": "02a0"
       },
       {
-        "name": "Quantum-6 RMA",
+        "name": "Nvlink-8 RMA",
         "id": "02a1"
       },
       {
@@ -31928,11 +32612,11 @@
         "id": "d2f8"
       },
       {
-        "name": "Quantum-5",
+        "name": "Nvlink-7 Switch",
         "id": "d2fa"
       },
       {
-        "name": "Quantum-6",
+        "name": "Nvlink-8 Switch",
         "id": "d2fc"
       }
     ]

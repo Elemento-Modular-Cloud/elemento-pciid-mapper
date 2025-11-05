@@ -3606,6 +3606,10 @@
    "1667"
   ],
   [
+   "GM204GLM [Quadro M2200 Mobile]",
+   "1676"
+  ],
+  [
    "GM108M [GeForce MX130]",
    "174d"
   ],
@@ -4454,6 +4458,10 @@
    "2184"
   ],
   [
+   "TU116 [PG160 SKU18]",
+   "2186"
+  ],
+  [
    "TU116 [GeForce GTX 1650 SUPER]",
    "2187"
   ],
@@ -4574,6 +4582,10 @@
    "22ba"
   ],
   [
+   "AD103 High Definition Audio Controller",
+   "22bb"
+  ],
+  [
    "AD104 High Definition Audio Controller",
    "22bc"
   ],
@@ -4584,6 +4596,22 @@
   [
    "AD107 High Definition Audio Controller",
    "22be"
+  ],
+  [
+   "GB202 High Definition Audio Controller",
+   "22e8"
+  ],
+  [
+   "GB203 High Definition Audio Controller",
+   "22e9"
+  ],
+  [
+   "GB206 High Definition Audio Controller",
+   "22eb"
+  ],
+  [
+   "GB207 High Definition Audio Controller",
+   "22ec"
   ],
   [
    "GH100 [H20 NVL16]",
@@ -4656,6 +4684,10 @@
   [
    "GH100 [H100 96GB]",
    "233d"
+  ],
+  [
+   "GH100 [H100 GH3]",
+   "237e"
   ],
   [
    "GA103 [GeForce RTX 3060 Ti]",
@@ -5250,8 +5282,16 @@
    "2b87"
   ],
   [
+   "GB202 [GeForce RTX 5090 D V2]",
+   "2b8c"
+  ],
+  [
    "GB202GL [RTX PRO 6000 Blackwell Workstation Edition]",
    "2bb1"
+  ],
+  [
+   "GB202GL [RTX PRO 6000D Blackwell Workstation Edition]",
+   "2bb2"
   ],
   [
    "GB202GL [RTX PRO 5000 Blackwell]",
@@ -5264,6 +5304,14 @@
   [
    "GB202GL [RTX PRO 6000 Blackwell Server Edition]",
    "2bb5"
+  ],
+  [
+   "GB202GL [RTX 6000D]",
+   "2bb9"
+  ],
+  [
+   "GB202GL [RTX PRO 6000D Blackwell Max-Q Workstation Edition]",
+   "2bbc"
   ],
   [
    "GB203 [GeForce RTX 5080]",
@@ -5286,6 +5334,10 @@
    "2c31"
   ],
   [
+   "GB203GL [RTX PRO 4000 Blackwell SFF Edition]",
+   "2c33"
+  ],
+  [
    "GB203GL [RTX PRO 4000 Blackwell]",
    "2c34"
   ],
@@ -5306,6 +5358,14 @@
    "2c59"
   ],
   [
+   "GB203GLM [RTX PRO 5000 Blackwell Embedded GPU]",
+   "2c77"
+  ],
+  [
+   "GB203GLM [RTX PRO 4000 Blackwell Embedded GPU]",
+   "2c79"
+  ],
+  [
    "GB206 [GeForce RTX 5060 Ti]",
    "2d04"
   ],
@@ -5322,6 +5382,10 @@
    "2d19"
   ],
   [
+   "GB206GL [RTX PRO 2000 Blackwell]",
+   "2d30"
+  ],
+  [
    "GB206GLM [RTX PRO 2000 Blackwell Generation Laptop GPU]",
    "2d39"
   ],
@@ -5332,6 +5396,10 @@
   [
    "GB206M [GeForce RTX 5060 Max-Q / Mobile]",
    "2d59"
+  ],
+  [
+   "GB206GLM [RTX PRO 2000 Blackwell Embedded GPU]",
+   "2d79"
   ],
   [
    "GB207 [GeForce RTX 5050]",
@@ -5354,6 +5422,10 @@
    "2dd8"
   ],
   [
+   "GB207GLM [RTX PRO 500 Blackwell Embedded GPU]",
+   "2df9"
+  ],
+  [
    "GB205 [GeForce RTX 5070]",
    "2f04"
   ],
@@ -5368,6 +5440,10 @@
   [
    "GB205M [GeForce RTX 5070 Ti Mobile]",
    "2f58"
+  ],
+  [
+   "GB205 High Definition Audio Controller",
+   "2f80"
   ]
  ],
  "8086": [
@@ -6128,6 +6204,10 @@
    "463a"
   ],
   [
+   "Alder Lake-S GT1 [UHD Graphics 770]",
+   "4680"
+  ],
+  [
    "Alder Lake-S GT1 [UHD Graphics 730]",
    "4682"
   ],
@@ -6476,10 +6556,6 @@
    "7d45"
   ],
   [
-   "Arrow Lake-P [Intel Graphics]",
-   "7d51"
-  ],
-  [
    "Meteor Lake-P [Intel Arc Graphics]",
    "7d55"
   ],
@@ -6664,7 +6740,7 @@
    "a721"
   ],
   [
-   "Raptor Lake PCIe 4.0 Graphics Port",
+   "Raptor Lake PCI Express 4.0 Graphics Port",
    "a74d"
   ],
   [
@@ -6745,10 +6821,6 @@
   ],
   [
    "Panther Lake [Intel Graphics]",
-   "b083"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
    "b084"
   ],
   [
@@ -6794,14 +6866,6 @@
   [
    "Battlemage G21 [Intel Graphics]",
    "e210"
-  ],
-  [
-   "Battlemage G21 [Intel Graphics]",
-   "e211"
-  ],
-  [
-   "Battlemage G21 [Intel Graphics]",
-   "e212"
   ],
   [
    "Battlemage G21 [Intel Graphics]",
@@ -6910,6 +6974,10 @@
    "13c0"
   ],
   [
+   "Mendocino [Radeon 610M]",
+   "1506"
+  ],
+  [
    "Strix [Radeon 880M / 890M]",
    "150e"
   ],
@@ -6920,6 +6988,10 @@
   [
    "Strix Halo [Radeon Graphics / Radeon 8050S Graphics / Radeon 8060S Graphics]",
    "1586"
+  ],
+  [
+   "Stoney HDMI/DP Audio Controller",
+   "15b3"
   ],
   [
    "Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]",
@@ -8778,6 +8850,10 @@
    "744a"
   ],
   [
+   "Navi 31 [Radeon Pro W7900D]",
+   "744b"
+  ],
+  [
    "Navi 31 [Radeon RX 7900 XT/7900 XTX/7900 GRE/7900M]",
    "744c"
   ],
@@ -8876,6 +8952,14 @@
   [
    "Navi 44 [Radeon RX 9060 XT]",
    "7590"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI350X]",
+   "75a0"
+  ],
+  [
+   "Aqua Vanjaram [Instinct MI355X]",
+   "75a3"
   ],
   [
    "RS350 [Radeon 9100 PRO/XT IGP]",
