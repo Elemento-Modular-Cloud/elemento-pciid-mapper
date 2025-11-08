@@ -17812,6 +17812,22 @@
         "id": "3200"
       },
       {
+        "name": "Xeon UPI Mesh Stop M2UPI Registers",
+        "id": "3245"
+      },
+      {
+        "name": "Xeon IMC0 Mesh to Mem Registers",
+        "id": "324a"
+      },
+      {
+        "name": "Xeon Unicast Group1 CHA Registers",
+        "id": "324c"
+      },
+      {
+        "name": "Xeon Unicast Group0 CHA Registers",
+        "id": "324d"
+      },
+      {
         "name": "Power Control Unit (PCU) CR0",
         "id": "3258"
       },
@@ -23140,6 +23156,10 @@
         "id": "7d19"
       },
       {
+        "name": "Arrow Lake-HX 8p+16e cores Host Bridge",
+        "id": "7d1c"
+      },
+      {
         "name": "Meteor Lake NPU",
         "id": "7d1d"
       },
@@ -23328,8 +23348,112 @@
         "id": "7ecc"
       },
       {
+        "name": "Q870 Chipset LPC/eSPI Controller",
+        "id": "7f03"
+      },
+      {
+        "name": "Z890 Chipset LPC/eSPI Controller",
+        "id": "7f04"
+      },
+      {
+        "name": "B860 Chipset LPC/eSPI Controller",
+        "id": "7f06"
+      },
+      {
+        "name": "H810 Chipset LPC/eSPI Controller",
+        "id": "7f07"
+      },
+      {
+        "name": "W880 Chipset LPC/eSPI Controller",
+        "id": "7f08"
+      },
+      {
+        "name": "HM870 Chipset LPC/eSPI Controller",
+        "id": "7f0c"
+      },
+      {
+        "name": "WM880 Chipset LPC/eSPI Controller",
+        "id": "7f0d"
+      },
+      {
+        "name": "800 Series PCH P2SB",
+        "id": "7f20"
+      },
+      {
+        "name": "800 Series PCH Power Management Controller",
+        "id": "7f21"
+      },
+      {
+        "name": "800 Series PCH SMBus Controller",
+        "id": "7f23"
+      },
+      {
+        "name": "800 Series PCH SPI (flash) Controller",
+        "id": "7f24"
+      },
+      {
+        "name": "800 Series PCH Shared SRAM",
+        "id": "7f27"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #9",
+        "id": "7f30"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #13",
+        "id": "7f34"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #15",
+        "id": "7f36"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #1",
+        "id": "7f38"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #7",
+        "id": "7f3e"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #17",
+        "id": "7f40"
+      },
+      {
+        "name": "800 Series PCH PCIe Root Port #21",
+        "id": "7f44"
+      },
+      {
+        "name": "800 Series PCH I2C Controller #0",
+        "id": "7f4c"
+      },
+      {
+        "name": "800 Series PCH I2C Controller #3",
+        "id": "7f4f"
+      },
+      {
+        "name": "800 Series ACE (Audio Context Engine)",
+        "id": "7f50"
+      },
+      {
+        "name": "800 Series PCH HECI #1",
+        "id": "7f68"
+      },
+      {
+        "name": "800 Series PCH USB 3.1 xHCI HC",
+        "id": "7f6e"
+      },
+      {
         "name": "Arrow Lake-S PCH CNVi WiFi",
         "id": "7f70"
+      },
+      {
+        "name": "800 Series PCH I2C Controller #4",
+        "id": "7f7a"
+      },
+      {
+        "name": "800 Series PCH I2C Controller #5",
+        "id": "7f7b"
       },
       {
         "name": "Trusted Execution Technology Registers",
@@ -26936,8 +27060,32 @@
         "id": "ad0b"
       },
       {
+        "name": "Arrow Lake-HX Crash Log & Telemetry",
+        "id": "ad0d"
+      },
+      {
         "name": "Arrow Lake NPU",
         "id": "ad1d"
+      },
+      {
+        "name": "Arrow Lake-HX Direct eSPI Controller",
+        "id": "ae10"
+      },
+      {
+        "name": "Arrow Lake-HX SPI (flash) Controller",
+        "id": "ae23"
+      },
+      {
+        "name": "Arrow Lake-HX Gauss Newton Algorithm (GNA)",
+        "id": "ae4c"
+      },
+      {
+        "name": "Arrow Lake-HX PCIe Root Port #13",
+        "id": "ae4d"
+      },
+      {
+        "name": "Arrow Lake-HX Shared SRAM (SOC-S)",
+        "id": "ae7f"
       },
       {
         "name": "Panther Lake NPU",
