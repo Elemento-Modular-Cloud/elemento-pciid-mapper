@@ -21224,8 +21224,36 @@
         "id": "5502"
       },
       {
+        "name": "Ethernet Connection (18) I219-LM",
+        "id": "550a"
+      },
+      {
+        "name": "Ethernet Connection (18) I219-LM",
+        "id": "550b"
+      },
+      {
+        "name": "Ethernet Connection (19) I219-LM",
+        "id": "550c"
+      },
+      {
         "name": "Ethernet Connection (19) I219-V",
         "id": "550d"
+      },
+      {
+        "name": "Ethernet Connection (20) I219-LM",
+        "id": "550e"
+      },
+      {
+        "name": "Ethernet Connection (20) I219-V",
+        "id": "550f"
+      },
+      {
+        "name": "Ethernet Connection (21) I219-LM",
+        "id": "5510"
+      },
+      {
+        "name": "Ethernet Connection (21) I219-V",
+        "id": "5511"
       },
       {
         "name": "DG2 [Arc A770M]",
@@ -21416,8 +21444,12 @@
         "id": "579f"
       },
       {
-        "name": "Arrow Lake Gigabit vPRO Ethernet Controller",
+        "name": "Ethernet Connection (24) I219-LM",
         "id": "57a0"
+      },
+      {
+        "name": "Ethernet Connection (24) I219-V",
+        "id": "57a1"
       },
       {
         "name": "JHL9440 Thunderbolt 4 Bridge [Barlow Ridge Hub 40G 2023]",
@@ -21450,6 +21482,38 @@
       {
         "name": "Ethernet Controller E610 SGMII",
         "id": "57b2"
+      },
+      {
+        "name": "Ethernet Connection (25) I219-LM",
+        "id": "57b3"
+      },
+      {
+        "name": "Ethernet Connection (25) I219-V",
+        "id": "57b4"
+      },
+      {
+        "name": "Ethernet Connection (26) I219-LM",
+        "id": "57b5"
+      },
+      {
+        "name": "Ethernet Connection (26) I219-V",
+        "id": "57b6"
+      },
+      {
+        "name": "Ethernet Connection (27) I219-LM",
+        "id": "57b7"
+      },
+      {
+        "name": "Ethernet Connection (27) I219-V",
+        "id": "57b8"
+      },
+      {
+        "name": "Ethernet Connection (29) I219-LM",
+        "id": "57b9"
+      },
+      {
+        "name": "Ethernet Connection (29) I219-V",
+        "id": "57ba"
       },
       {
         "name": "QEMU NVM Express Controller",
@@ -27562,7 +27626,7 @@
         "id": "163f"
       },
       {
-        "name": "Radeon High Definition Audio Controller [Rembrandt/Strix]",
+        "name": "Radeon High Definition Audio Controller",
         "id": "1640"
       },
       {
