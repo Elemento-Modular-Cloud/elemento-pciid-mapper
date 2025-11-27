@@ -20228,7 +20228,7 @@
         "id": "464d"
       },
       {
-        "name": "Alder Lake-N Thunderbolt 4 USB Controller",
+        "name": "Alder Lake-N Processor USB 3.2 xHCI Controller",
         "id": "464e"
       },
       {
@@ -23256,7 +23256,7 @@
         "id": "7d45"
       },
       {
-        "name": "Arrow Lake-P [Arc Pro 140T]",
+        "name": "Arrow Lake-P [Arc Pro 130T/140T]",
         "id": "7d51"
       },
       {
@@ -32794,6 +32794,10 @@
       {
         "name": "Switch-IB2",
         "id": "cf08"
+      },
+      {
+        "name": "Quantum Aggregation Node",
+        "id": "cf09"
       },
       {
         "name": "MT53100 [Spectrum-2]",
