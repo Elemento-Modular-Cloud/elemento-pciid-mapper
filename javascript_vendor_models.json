@@ -7726,6 +7726,10 @@
         "id": "2c39"
       },
       {
+        "name": "GB203GL [RTX PRO 4500 Blackwell]",
+        "id": "2c3a"
+      },
+      {
         "name": "GB203M / GN22-X11 [GeForce RTX 5090 Max-Q / Mobile]",
         "id": "2c58"
       },
@@ -32242,6 +32246,10 @@
       {
         "name": "Nvlink-7 Switch RMA",
         "id": "027d"
+      },
+      {
+        "name": "Spectrum-7 Tile",
+        "id": "027e"
       },
       {
         "name": "NPS-600 Flash Recovery",
