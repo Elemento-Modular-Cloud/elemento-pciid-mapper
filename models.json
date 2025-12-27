@@ -6817,30 +6817,6 @@
   ],
   [
    "Panther Lake [Intel Graphics]",
-   "b081"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
-   "b082"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
-   "b084"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
-   "b085"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
-   "b086"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
-   "b087"
-  ],
-  [
-   "Panther Lake [Intel Graphics]",
    "b08f"
   ],
   [
@@ -6854,6 +6830,10 @@
   [
    "Panther Lake [Intel Graphics]",
    "b0b0"
+  ],
+  [
+   "Panther Lake [Intel Graphics]",
+   "b0ff"
   ],
   [
    "Arrow Lake-H [Intel Graphics]",

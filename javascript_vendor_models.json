@@ -17660,6 +17660,10 @@
         "id": "3101"
       },
       {
+        "name": "Ethernet Controller I226-K",
+        "id": "3102"
+      },
+      {
         "name": "Easel/Monette Hill Image Processor [Pixel Visual Core]",
         "id": "3140"
       },
@@ -27184,11 +27188,11 @@
         "id": "b080"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc B370]",
         "id": "b081"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc B390]",
         "id": "b082"
       },
       {
@@ -27196,19 +27200,19 @@
         "id": "b083"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc Pro B390]",
         "id": "b084"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc Pro B370]",
         "id": "b085"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc Pro B390]",
         "id": "b086"
       },
       {
-        "name": "Panther Lake [Intel Graphics]",
+        "name": "Panther Lake [Arc Pro B370]",
         "id": "b087"
       },
       {
@@ -27226,6 +27230,10 @@
       {
         "name": "Panther Lake [Intel Graphics]",
         "id": "b0b0"
+      },
+      {
+        "name": "Panther Lake [Intel Graphics]",
+        "id": "b0ff"
       },
       {
         "name": "21152 PCI-to-PCI Bridge",
