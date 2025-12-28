@@ -21248,6 +21248,10 @@
         "id": "5502"
       },
       {
+        "name": "Ethernet Controller I226-LMvP",
+        "id": "5503"
+      },
+      {
         "name": "Ethernet Connection (18) I219-LM",
         "id": "550a"
       },
