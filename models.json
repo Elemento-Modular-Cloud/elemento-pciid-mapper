@@ -50,7 +50,7 @@
    "0059"
   ],
   [
-   "nForce2 AC97 Audio Controler (MCP)",
+   "nForce2 AC97 Audio Controller (MCP)",
    "006a"
   ],
   [
@@ -5788,11 +5788,11 @@
    "163e"
   ],
   [
-   "HD Graphics 510",
+   "Skylake-S GT1 [HD Graphics 510]",
    "1902"
   ],
   [
-   "HD Graphics 510",
+   "Skylake-U GT1 [HD Graphics 510]",
    "1906"
   ],
   [
@@ -5800,23 +5800,23 @@
    "190b"
   ],
   [
-   "HD Graphics 530",
+   "Skylake-S GT2 [HD Graphics 530]",
    "1912"
   ],
   [
-   "Skylake GT2 [HD Graphics 520]",
+   "Skylake-U GT2 [HD Graphics 520]",
    "1916"
   ],
   [
-   "HD Graphics 530",
+   "Skylake-H GT2 [HD Graphics 530]",
    "191b"
   ],
   [
-   "HD Graphics P530",
+   "Skylake-DT/H GT2 [HD Graphics P530]",
    "191d"
   ],
   [
-   "HD Graphics 515",
+   "Skylake-Y GT2 [HD Graphics 515]",
    "191e"
   ],
   [
@@ -5828,11 +5828,11 @@
    "1923"
   ],
   [
-   "Iris Graphics 540",
+   "Skylake-U GT3 [Iris Graphics 540]",
    "1926"
   ],
   [
-   "Iris Graphics 550",
+   "Skylake-U GT3 [Iris Graphics 550]",
    "1927"
   ],
   [
@@ -5840,7 +5840,7 @@
    "192b"
   ],
   [
-   "Iris Graphics P555",
+   "Skylake-H GT3 [Iris Graphics P555]",
    "192d"
   ],
   [
@@ -5848,15 +5848,15 @@
    "1932"
   ],
   [
-   "Iris Pro Graphics P580",
+   "Skylake-H GT4 [Iris Pro Graphics P580]",
    "193a"
   ],
   [
-   "Iris Pro Graphics 580",
+   "Skylake-H GT4 [Iris Pro Graphics 580]",
    "193b"
   ],
   [
-   "Iris Pro Graphics P580",
+   "Skylake-H GT4 [Iris Pro Graphics P580]",
    "193d"
   ],
   [
@@ -6436,11 +6436,11 @@
    "56a9"
   ],
   [
-   "HD Graphics 610",
+   "Kaby Lake-S GT1 [HD Graphics 610]",
    "5902"
   ],
   [
-   "HD Graphics 610",
+   "Kaby Lake-U GT1 [HD Graphics 610]",
    "5906"
   ],
   [
@@ -6448,19 +6448,19 @@
    "590b"
   ],
   [
-   "HD Graphics 630",
+   "Kaby Lake-S GT2 [HD Graphics 630]",
    "5912"
   ],
   [
-   "HD Graphics 620",
+   "Kaby Lake-U GT2 [HD Graphics 620]",
    "5916"
   ],
   [
-   "UHD Graphics 620",
+   "Kaby Lake-R GT2 [UHD Graphics 620]",
    "5917"
   ],
   [
-   "HD Graphics 630",
+   "Kaby Lake-H GT2 [HD Graphics 630]",
    "591b"
   ],
   [
@@ -6468,11 +6468,11 @@
    "591c"
   ],
   [
-   "HD Graphics P630",
+   "Kaby Lake-DT GT2 [HD Graphics P630]",
    "591d"
   ],
   [
-   "HD Graphics 615",
+   "Kaby Lake-Y GT2 [HD Graphics 615]",
    "591e"
   ],
   [
@@ -6484,11 +6484,11 @@
    "5923"
   ],
   [
-   "Iris Plus Graphics 640",
+   "Kaby Lake-U GT3 [Iris Plus Graphics 640]",
    "5926"
   ],
   [
-   "Iris Plus Graphics 650",
+   "Kaby Lake-U GT3 [Iris Plus Graphics 650]",
    "5927"
   ],
   [

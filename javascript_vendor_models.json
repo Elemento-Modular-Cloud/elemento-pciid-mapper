@@ -222,7 +222,7 @@
         "id": "0068"
       },
       {
-        "name": "nForce2 AC97 Audio Controler (MCP)",
+        "name": "nForce2 AC97 Audio Controller (MCP)",
         "id": "006a"
       },
       {
@@ -12256,7 +12256,7 @@
         "id": "1901"
       },
       {
-        "name": "HD Graphics 510",
+        "name": "Skylake-S GT1 [HD Graphics 510]",
         "id": "1902"
       },
       {
@@ -12272,7 +12272,7 @@
         "id": "1905"
       },
       {
-        "name": "HD Graphics 510",
+        "name": "Skylake-U GT1 [HD Graphics 510]",
         "id": "1906"
       },
       {
@@ -12304,11 +12304,11 @@
         "id": "1911"
       },
       {
-        "name": "HD Graphics 530",
+        "name": "Skylake-S GT2 [HD Graphics 530]",
         "id": "1912"
       },
       {
-        "name": "Skylake GT2 [HD Graphics 520]",
+        "name": "Skylake-U GT2 [HD Graphics 520]",
         "id": "1916"
       },
       {
@@ -12320,15 +12320,15 @@
         "id": "1919"
       },
       {
-        "name": "HD Graphics 530",
+        "name": "Skylake-H GT2 [HD Graphics 530]",
         "id": "191b"
       },
       {
-        "name": "HD Graphics P530",
+        "name": "Skylake-DT/H GT2 [HD Graphics P530]",
         "id": "191d"
       },
       {
-        "name": "HD Graphics 515",
+        "name": "Skylake-Y GT2 [HD Graphics 515]",
         "id": "191e"
       },
       {
@@ -12344,11 +12344,11 @@
         "id": "1923"
       },
       {
-        "name": "Iris Graphics 540",
+        "name": "Skylake-U GT3 [Iris Graphics 540]",
         "id": "1926"
       },
       {
-        "name": "Iris Graphics 550",
+        "name": "Skylake-U GT3 [Iris Graphics 550]",
         "id": "1927"
       },
       {
@@ -12356,7 +12356,7 @@
         "id": "192b"
       },
       {
-        "name": "Iris Graphics P555",
+        "name": "Skylake-H GT3 [Iris Graphics P555]",
         "id": "192d"
       },
       {
@@ -12364,15 +12364,15 @@
         "id": "1932"
       },
       {
-        "name": "Iris Pro Graphics P580",
+        "name": "Skylake-H GT4 [Iris Pro Graphics P580]",
         "id": "193a"
       },
       {
-        "name": "Iris Pro Graphics 580",
+        "name": "Skylake-H GT4 [Iris Pro Graphics 580]",
         "id": "193b"
       },
       {
-        "name": "Iris Pro Graphics P580",
+        "name": "Skylake-H GT4 [Iris Pro Graphics P580]",
         "id": "193d"
       },
       {
@@ -21556,7 +21556,7 @@
         "id": "5901"
       },
       {
-        "name": "HD Graphics 610",
+        "name": "Kaby Lake-S GT1 [HD Graphics 610]",
         "id": "5902"
       },
       {
@@ -21568,7 +21568,7 @@
         "id": "5905"
       },
       {
-        "name": "HD Graphics 610",
+        "name": "Kaby Lake-U GT1 [HD Graphics 610]",
         "id": "5906"
       },
       {
@@ -21596,7 +21596,7 @@
         "id": "5911"
       },
       {
-        "name": "HD Graphics 630",
+        "name": "Kaby Lake-S GT2 [HD Graphics 630]",
         "id": "5912"
       },
       {
@@ -21604,11 +21604,11 @@
         "id": "5914"
       },
       {
-        "name": "HD Graphics 620",
+        "name": "Kaby Lake-U GT2 [HD Graphics 620]",
         "id": "5916"
       },
       {
-        "name": "UHD Graphics 620",
+        "name": "Kaby Lake-R GT2 [UHD Graphics 620]",
         "id": "5917"
       },
       {
@@ -21616,7 +21616,7 @@
         "id": "5918"
       },
       {
-        "name": "HD Graphics 630",
+        "name": "Kaby Lake-H GT2 [HD Graphics 630]",
         "id": "591b"
       },
       {
@@ -21624,11 +21624,11 @@
         "id": "591c"
       },
       {
-        "name": "HD Graphics P630",
+        "name": "Kaby Lake-DT GT2 [HD Graphics P630]",
         "id": "591d"
       },
       {
-        "name": "HD Graphics 615",
+        "name": "Kaby Lake-Y GT2 [HD Graphics 615]",
         "id": "591e"
       },
       {
@@ -21644,11 +21644,11 @@
         "id": "5923"
       },
       {
-        "name": "Iris Plus Graphics 640",
+        "name": "Kaby Lake-U GT3 [Iris Plus Graphics 640]",
         "id": "5926"
       },
       {
-        "name": "Iris Plus Graphics 650",
+        "name": "Kaby Lake-U GT3 [Iris Plus Graphics 650]",
         "id": "5927"
       },
       {
