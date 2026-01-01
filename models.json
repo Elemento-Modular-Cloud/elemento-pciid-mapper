@@ -5696,7 +5696,7 @@
    "1602"
   ],
   [
-   "HD Graphics",
+   "Broadwell-U GT1 [HD Graphics]",
    "1606"
   ],
   [
@@ -5716,11 +5716,11 @@
    "160e"
   ],
   [
-   "HD Graphics 5600",
+   "Broadwell-H GT2 [HD Graphics 5600]",
    "1612"
   ],
   [
-   "HD Graphics 5500",
+   "Broadwell-U GT2 [HD Graphics 5500]",
    "1616"
   ],
   [
@@ -5736,19 +5736,19 @@
    "161d"
   ],
   [
-   "HD Graphics 5300",
+   "Broadwell-Y GT2 [HD Graphics 5300]",
    "161e"
   ],
   [
-   "Iris Pro Graphics 6200",
+   "Broadwell-DT/H GT3 [Iris Pro Graphics 6200]",
    "1622"
   ],
   [
-   "HD Graphics 6000",
+   "Broadwell-U GT3 [HD Graphics 6000]",
    "1626"
   ],
   [
-   "Iris Pro Graphics P6300",
+   "Broadwell-DT GT3 [Iris Pro Graphics P6300]",
    "162a"
   ],
   [
@@ -6496,7 +6496,7 @@
    "5a84"
   ],
   [
-   "HD Graphics 500",
+   "Apollo Lake GT1 [HD Graphics 500]",
    "5a85"
   ],
   [

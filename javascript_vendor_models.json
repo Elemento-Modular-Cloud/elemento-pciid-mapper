@@ -12016,7 +12016,7 @@
         "id": "1605"
       },
       {
-        "name": "HD Graphics",
+        "name": "Broadwell-U GT1 [HD Graphics]",
         "id": "1606"
       },
       {
@@ -12060,7 +12060,7 @@
         "id": "1610"
       },
       {
-        "name": "HD Graphics 5600",
+        "name": "Broadwell-H GT2 [HD Graphics 5600]",
         "id": "1612"
       },
       {
@@ -12068,7 +12068,7 @@
         "id": "1614"
       },
       {
-        "name": "HD Graphics 5500",
+        "name": "Broadwell-U GT2 [HD Graphics 5500]",
         "id": "1616"
       },
       {
@@ -12088,19 +12088,19 @@
         "id": "161d"
       },
       {
-        "name": "HD Graphics 5300",
+        "name": "Broadwell-Y GT2 [HD Graphics 5300]",
         "id": "161e"
       },
       {
-        "name": "Iris Pro Graphics 6200",
+        "name": "Broadwell-DT/H GT3 [Iris Pro Graphics 6200]",
         "id": "1622"
       },
       {
-        "name": "HD Graphics 6000",
+        "name": "Broadwell-U GT3 [HD Graphics 6000]",
         "id": "1626"
       },
       {
-        "name": "Iris Pro Graphics P6300",
+        "name": "Broadwell-DT GT3 [Iris Pro Graphics P6300]",
         "id": "162a"
       },
       {
@@ -21656,7 +21656,7 @@
         "id": "5a84"
       },
       {
-        "name": "HD Graphics 500",
+        "name": "Apollo Lake GT1 [HD Graphics 500]",
         "id": "5a85"
       },
       {
