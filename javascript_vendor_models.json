@@ -32244,11 +32244,11 @@
         "id": "0277"
       },
       {
-        "name": "Nvlink-6 Switch in Flash Recovery Mode",
+        "name": "NVLink-6 Switch in Flash Recovery Mode",
         "id": "0278"
       },
       {
-        "name": "Nvlink-6 Switch RMA",
+        "name": "NVLink-6 Switch RMA",
         "id": "0279"
       },
       {
@@ -32256,11 +32256,11 @@
         "id": "027a"
       },
       {
-        "name": "Nvlink-7 Switch in Flash Recovery Mode",
+        "name": "NVLink-7 Switch in Flash Recovery Mode",
         "id": "027c"
       },
       {
-        "name": "Nvlink-7 Switch RMA",
+        "name": "NVLink-7 Switch RMA",
         "id": "027d"
       },
       {
@@ -32336,11 +32336,11 @@
         "id": "029c"
       },
       {
-        "name": "Nvlink-8 Switch in Flash Recovery Mode",
+        "name": "NVLink-8 Switch in Flash Recovery Mode",
         "id": "02a0"
       },
       {
-        "name": "Nvlink-8 RMA",
+        "name": "NVLink-8 Switch RMA",
         "id": "02a1"
       },
       {
@@ -32864,15 +32864,15 @@
         "id": "d2f6"
       },
       {
-        "name": "Nvlink-6 Switch",
+        "name": "NVLink-6 Switch",
         "id": "d2f8"
       },
       {
-        "name": "Nvlink-7 Switch",
+        "name": "NVLink-7 Switch",
         "id": "d2fa"
       },
       {
-        "name": "Nvlink-8 Switch",
+        "name": "NVLink-8 Switch",
         "id": "d2fc"
       }
     ]
