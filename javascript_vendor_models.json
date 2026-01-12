@@ -22728,6 +22728,10 @@
         "id": "7603"
       },
       {
+        "name": "Arrow Lake-H eSPI Controller",
+        "id": "7702"
+      },
+      {
         "name": "Arrow Lake SMBus Controller",
         "id": "7722"
       },
@@ -22756,6 +22760,38 @@
         "id": "7730"
       },
       {
+        "name": "Arrow Lake-H/U PCIe Root Port #1",
+        "id": "7738"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #2",
+        "id": "7739"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #3",
+        "id": "773a"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #4",
+        "id": "773b"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #5",
+        "id": "773c"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #6",
+        "id": "773d"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #7",
+        "id": "773e"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #8",
+        "id": "773f"
+      },
+      {
         "name": "Arrow Lake CNVi WiFi",
         "id": "7740"
       },
@@ -22770,6 +22806,10 @@
       {
         "name": "Arrow Lake Gaussian & Neural Accelerator",
         "id": "774c"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #9 (PXPC)",
+        "id": "774d"
       },
       {
         "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
@@ -23438,6 +23478,10 @@
       {
         "name": "Meteor Lake-H/U PCIe Root Port #10",
         "id": "7eca"
+      },
+      {
+        "name": "Arrow Lake-H/U PCIe Root Port #11 (PXPE)",
+        "id": "7ecb"
       },
       {
         "name": "Meteor Lake-H PCIe Root Port #12",
