@@ -9532,6 +9532,14 @@
         "id": "0dc6"
       },
       {
+        "name": "Ethernet Connection I219-LM",
+        "id": "0dc7"
+      },
+      {
+        "name": "Ethernet Connection I219-V",
+        "id": "0dc8"
+      },
+      {
         "name": "Ethernet Connection C825-X",
         "id": "0dcd"
       },
@@ -26076,7 +26084,7 @@
         "id": "a170"
       },
       {
-        "name": "CM238 HD Audio Controller",
+        "name": "HM175/QM175/CM238 HD Audio Controller",
         "id": "a171"
       },
       {
@@ -27228,8 +27236,24 @@
         "id": "ae7f"
       },
       {
+        "name": "Panther Lake Host Bridge/DRAM Controller",
+        "id": "b002"
+      },
+      {
+        "name": "Panther Lake Innovation Platform Framework Processor Participant",
+        "id": "b01d"
+      },
+      {
         "name": "Panther Lake NPU",
         "id": "b03e"
+      },
+      {
+        "name": "Panther Lake IPU",
+        "id": "b05d"
+      },
+      {
+        "name": "Panther Lake Platform Monitoring Technology (PMT)",
+        "id": "b07d"
       },
       {
         "name": "Panther Lake [Arc B390]",
@@ -27446,6 +27470,162 @@
       {
         "name": "Battlemage G31 [Intel Graphics]",
         "id": "e223"
+      },
+      {
+        "name": "Panther Lake LPC/eSPI Controller",
+        "id": "e302"
+      },
+      {
+        "name": "Panther Lake SMBus Controller",
+        "id": "e322"
+      },
+      {
+        "name": "Panther Lake SPI(flash) Controller",
+        "id": "e323"
+      },
+      {
+        "name": "Panther Lake Smart Sound Technology BUS",
+        "id": "e328"
+      },
+      {
+        "name": "Panther Lake TCSS USB3 xHCI Controller",
+        "id": "e331"
+      },
+      {
+        "name": "Panther Lake Thunderbolt 4 NHI #0",
+        "id": "e333"
+      },
+      {
+        "name": "Panther Lake Thunderbolt 4 NHI #1",
+        "id": "e334"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port A1",
+        "id": "e338"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port A2",
+        "id": "e339"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port A3",
+        "id": "e33a"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port A4",
+        "id": "e33b"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port B1",
+        "id": "e33c"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port B2",
+        "id": "e33d"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port B3",
+        "id": "e33e"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port B4",
+        "id": "e33f"
+      },
+      {
+        "name": "Panther Lake PCH CNVi WiFi",
+        "id": "e340"
+      },
+      {
+        "name": "Panther Lake Thunderbolt 4 PCI Express Root Port #0",
+        "id": "e34e"
+      },
+      {
+        "name": "Panther Lake CSME HECI #1",
+        "id": "e35d"
+      },
+      {
+        "name": "Panther Lake Thunderbolt 4 PCI Express Root Port #2",
+        "id": "e360"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port C1",
+        "id": "e361"
+      },
+      {
+        "name": "Panther Lake Microsoft Pluton Security Processor",
+        "id": "e362"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port C3",
+        "id": "e363"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port C4",
+        "id": "e364"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D1",
+        "id": "e365"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D2",
+        "id": "e366"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D3",
+        "id": "e367"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D4",
+        "id": "e368"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D5",
+        "id": "e369"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D6",
+        "id": "e36a"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D7",
+        "id": "e36b"
+      },
+      {
+        "name": "Panther Lake PCI Express Root Port D8",
+        "id": "e36c"
+      },
+      {
+        "name": "Panther Lake MEI Controller",
+        "id": "e370"
+      },
+      {
+        "name": "Panther Lake Bluetooth PCI Enumerator",
+        "id": "e376"
+      },
+      {
+        "name": "Panther Lake Serial IO I2C Controller #0",
+        "id": "e378"
+      },
+      {
+        "name": "Panther Lake Serial IO I2C Controller #1",
+        "id": "e379"
+      },
+      {
+        "name": "Panther Lake Serial IO I2C Controller #2",
+        "id": "e37a"
+      },
+      {
+        "name": "Panther Lake Serial IO I2C Controller #3",
+        "id": "e37b"
+      },
+      {
+        "name": "Panther Lake USB 3.2 xHCI Controller",
+        "id": "e37d"
+      },
+      {
+        "name": "Panther Lake Shared SRAM",
+        "id": "e37f"
       },
       {
         "name": "SSD 600P Series",
