@@ -21904,6 +21904,58 @@
         "id": "674c"
       },
       {
+        "name": "Nova Lake PCH-S SMbus Controller",
+        "id": "6e23"
+      },
+      {
+        "name": "Nova Lake PCH-S SPI Controller",
+        "id": "6e24"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO UART Controller #0",
+        "id": "6e28"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO UART Controller #1",
+        "id": "6e29"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO SPI Controller #0",
+        "id": "6e2a"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO SPI Controller #1",
+        "id": "6e2b"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO I2C Controller #0",
+        "id": "6e4c"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO I2C Controller #1",
+        "id": "6e4d"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO I2C Controller #2",
+        "id": "6e4e"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO I2C Controller #3",
+        "id": "6e4f"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO SPI Controller #2",
+        "id": "6e5e"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO I2C Controller #4",
+        "id": "6e7a"
+      },
+      {
+        "name": "Nova Lake PCH-S Serial IO I2C Controller #5",
+        "id": "6e7b"
+      },
+      {
         "name": "Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DMI2",
         "id": "6f00"
       },
@@ -27396,6 +27448,26 @@
         "id": "d158"
       },
       {
+        "name": "Nova Lake-S Thunderbolt 5 USB Controller",
+        "id": "d431"
+      },
+      {
+        "name": "Nova Lake-S Thunderbolt 5 NHI #0",
+        "id": "d433"
+      },
+      {
+        "name": "Nova Lake-S Thunderbolt 5 PCI Express Root Port #0",
+        "id": "d44e"
+      },
+      {
+        "name": "Nova Lake-S Thunderbolt 5 PCI Express Root Port #1",
+        "id": "d44f"
+      },
+      {
+        "name": "Nova Lake-S Thunderbolt 5 PCI Express Root Port #2",
+        "id": "d460"
+      },
+      {
         "name": "NVL-S",
         "id": "d740"
       },
@@ -27484,8 +27556,24 @@
         "id": "e323"
       },
       {
+        "name": "Panther Lake Serial IO UART Controller #0",
+        "id": "e325"
+      },
+      {
+        "name": "Panther Lake Serial IO UART Controller #1",
+        "id": "e326"
+      },
+      {
+        "name": "Panther Lake Serial IO SPI Host Controller #0",
+        "id": "e327"
+      },
+      {
         "name": "Panther Lake Smart Sound Technology BUS",
         "id": "e328"
+      },
+      {
+        "name": "Panther Lake Serial IO SPI Host Controller #1",
+        "id": "e330"
       },
       {
         "name": "Panther Lake TCSS USB3 xHCI Controller",
@@ -27596,6 +27684,10 @@
         "id": "e36c"
       },
       {
+        "name": "Panther Lake I3C Host Controller #0",
+        "id": "e36f"
+      },
+      {
         "name": "Panther Lake MEI Controller",
         "id": "e370"
       },
@@ -27618,6 +27710,10 @@
       {
         "name": "Panther Lake Serial IO I2C Controller #3",
         "id": "e37b"
+      },
+      {
+        "name": "Panther Lake I3C Host Controller #1",
+        "id": "e37c"
       },
       {
         "name": "Panther Lake USB 3.2 xHCI Controller",
