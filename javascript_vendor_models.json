@@ -32812,6 +32812,10 @@
         "id": "1027"
       },
       {
+        "name": "CX10 Family [ConnectX-10 Trusted Network Control Memory]",
+        "id": "1028"
+      },
+      {
         "name": "MT28800 Family [ConnectX-5 PCIe Bridge]",
         "id": "1974"
       },
