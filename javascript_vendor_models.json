@@ -32672,6 +32672,14 @@
         "id": "02a3"
       },
       {
+        "name": "OrionR",
+        "id": "02a6"
+      },
+      {
+        "name": "OrionR RMA",
+        "id": "02a7"
+      },
+      {
         "name": "MT25400 Family [ConnectX-2 Virtual Function]",
         "id": "1002"
       },
@@ -33094,6 +33102,10 @@
       {
         "name": "Arcus3",
         "id": "b203"
+      },
+      {
+        "name": "OrionR",
+        "id": "b204"
       },
       {
         "name": "BlueField DPU Family Auxiliary Communication Channel [BlueField Family]",
