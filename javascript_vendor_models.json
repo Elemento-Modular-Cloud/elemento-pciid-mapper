@@ -27448,6 +27448,78 @@
         "id": "d158"
       },
       {
+        "name": "Nova Lake PCD-H SPI Controller",
+        "id": "d323"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO UART Controller #0",
+        "id": "d325"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO UART Controller #1",
+        "id": "d326"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO SPI Controller #0",
+        "id": "d327"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO SPI Controller #1",
+        "id": "d330"
+      },
+      {
+        "name": "Nova Lake-H Thunderbolt 5 USB Controller",
+        "id": "d331"
+      },
+      {
+        "name": "Nova Lake-H Thunderbolt 5 NHI #0",
+        "id": "d333"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO SPI Controller #2",
+        "id": "d347"
+      },
+      {
+        "name": "Nova Lake-H Thunderbolt 5 PCI Express Root Port #0",
+        "id": "d34e"
+      },
+      {
+        "name": "Nova Lake-H Thunderbolt 5 PCI Express Root Port #1",
+        "id": "d34f"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO I2C Controller #4",
+        "id": "d350"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO I2C Controller #5",
+        "id": "d351"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO UART Controller #2",
+        "id": "d352"
+      },
+      {
+        "name": "Nova Lake-H Thunderbolt 5 PCI Express Root Port #2",
+        "id": "d360"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO I2C Controller #0",
+        "id": "d378"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO I2C Controller #1",
+        "id": "d379"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO I2C Controller #2",
+        "id": "d37a"
+      },
+      {
+        "name": "Nova Lake PCD-H Serial IO I2C Controller #3",
+        "id": "d37b"
+      },
+      {
         "name": "Nova Lake-S Thunderbolt 5 USB Controller",
         "id": "d431"
       },
