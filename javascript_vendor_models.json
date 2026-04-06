@@ -27936,6 +27936,10 @@
         "id": "e476"
       },
       {
+        "name": "Serial IO I2C Host Controller - E47B",
+        "id": "e47b"
+      },
+      {
         "name": "Panther Lake USB 3.2 xHCI Controller",
         "id": "e47d"
       },
@@ -32832,7 +32836,7 @@
         "id": "0287"
       },
       {
-        "name": "Arcus2",
+        "name": "Arcus2 Flash Recovery",
         "id": "0288"
       },
       {
@@ -32852,23 +32856,23 @@
         "id": "0293"
       },
       {
-        "name": "Ophy 2.1 (SagittaZ)",
+        "name": "OPHY2.1 [SagittaZ]",
         "id": "0294"
       },
       {
-        "name": "OPHY2.6",
+        "name": "OPHY2.6 [Sagitta]",
         "id": "0296"
       },
       {
-        "name": "OPHY3.0",
+        "name": "OPHY3.0 [Sagitta]",
         "id": "0298"
       },
       {
-        "name": "OPHY3.1",
+        "name": "OPHY3.1 [Sagitta]",
         "id": "029a"
       },
       {
-        "name": "OPHY3.5",
+        "name": "OPHY3.5 [Sagitta]",
         "id": "029c"
       },
       {
