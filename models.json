@@ -2470,6 +2470,10 @@
    "0f06"
   ],
   [
+   "GK11x [GK11x_FPGA]",
+   "0fa0"
+  ],
+  [
    "GM200 High Definition Audio",
    "0fb0"
   ],
@@ -2534,6 +2538,10 @@
    "0fce"
   ],
   [
+   "GK107 [GEN3 ESI]",
+   "0fcf"
+  ],
+  [
    "GK107M [GeForce GT 650M]",
    "0fd1"
   ],
@@ -2566,6 +2574,26 @@
    "0fd9"
   ],
   [
+   "GK107 [GK107-ES-A1]",
+   "0fda"
+  ],
+  [
+   "GK107 [GK107-ESP-A1]",
+   "0fdb"
+  ],
+  [
+   "GK107 [GK107-INT22-A1]",
+   "0fdc"
+  ],
+  [
+   "GK107 [GK107-INT11-A1]",
+   "0fdd"
+  ],
+  [
+   "GK107 [GK107-ES-KA-E1]",
+   "0fde"
+  ],
+  [
    "GK107M [GeForce GT 740M]",
    "0fdf"
   ],
@@ -2594,6 +2622,14 @@
    "0fe5"
   ],
   [
+   "GK107 [GRID K1 NVS USM]",
+   "0fe6"
+  ],
+  [
+   "GK107GL [GRID K100 vGPU]",
+   "0fe7"
+  ],
+  [
    "GK107M [GeForce GT 750M Mac Edition]",
    "0fe9"
   ],
@@ -2614,6 +2650,14 @@
    "0fee"
   ],
   [
+   "GK107GL [GRID K340]",
+   "0fef"
+  ],
+  [
+   "GK107GL [GRID K1]",
+   "0ff2"
+  ],
+  [
    "GK107GL [Quadro K420]",
    "0ff3"
   ],
@@ -2624,6 +2668,10 @@
   [
    "GK107GLM [Quadro K1100M]",
    "0ff6"
+  ],
+  [
+   "GK107GL [GRID K140Q vGPU]",
+   "0ff7"
   ],
   [
    "GK107GLM [Quadro K500M]",
@@ -2966,8 +3014,20 @@
    "1189"
   ],
   [
+   "GK104GL [GRID K520]",
+   "118a"
+  ],
+  [
    "GK104GL [GRID K2 GeForce USM]",
    "118b"
+  ],
+  [
+   "GK104 [GRID K2 NVS USM]",
+   "118c"
+  ],
+  [
+   "GK104GL [GRID K200 vGPU]",
+   "118d"
   ],
   [
    "GK104 [GeForce GTX 760 OEM]",
@@ -3034,6 +3094,14 @@
    "11a3"
   ],
   [
+   "GK104 [GK104-ESA]",
+   "11a4"
+  ],
+  [
+   "GK104 [GK104-ESA]",
+   "11a5"
+  ],
+  [
    "GK104M [GeForce GTX 675MX]",
    "11a7"
   ],
@@ -3044,6 +3112,22 @@
   [
    "GK104M [GeForce GTX 870M]",
    "11a9"
+  ],
+  [
+   "GK104 [GK104-INT]",
+   "11aa"
+  ],
+  [
+   "GK104 [GK104-CS]",
+   "11ac"
+  ],
+  [
+   "GK104GLM [GRID IceCube]",
+   "11af"
+  ],
+  [
+   "GK104GL [GRID K240Q / K260Q vGPU]",
+   "11b0"
   ],
   [
    "GK104GL [GRID K2 Tesla USM]",
@@ -3086,6 +3170,10 @@
    "11be"
   ],
   [
+   "GK104GL [GRID K2]",
+   "11bf"
+  ],
+  [
    "GK106 [GeForce GTX 660]",
    "11c0"
   ],
@@ -3120,6 +3208,22 @@
   [
    "GK106 [GeForce GT 740]",
    "11cb"
+  ],
+  [
+   "GK106 [GK106-INT353]",
+   "11d0"
+  ],
+  [
+   "GK106 [GK106-INT343]",
+   "11d1"
+  ],
+  [
+   "GK106 [GK106-INT232]",
+   "11d2"
+  ],
+  [
+   "GK106 [GK106-ES]",
+   "11d3"
   ],
   [
    "GK106M [GeForce GTX 770M]",
@@ -3254,6 +3358,10 @@
    "1284"
   ],
   [
+   "GK208 [GK208-100]",
+   "1285"
+  ],
+  [
    "GK208 [GeForce GT 720]",
    "1286"
   ],
@@ -3312,6 +3420,26 @@
   [
    "GK208BM [GeForce 910M]",
    "129a"
+  ],
+  [
+   "GK208 [GK208-ES]",
+   "12ad"
+  ],
+  [
+   "GK208 [GK208-CS1-C]",
+   "12ae"
+  ],
+  [
+   "GK208 [GK208-INT]",
+   "12af"
+  ],
+  [
+   "GK208 [GK208-CS-Q]",
+   "12b0"
+  ],
+  [
+   "GK208 [GK208 INT]",
+   "12b1"
   ],
   [
    "GK208GLM [Quadro K610M]",
@@ -3390,6 +3518,10 @@
    "1382"
   ],
   [
+   "GM107GL [GRID M30]",
+   "1389"
+  ],
+  [
    "GM107M [GeForce 845M]",
    "1390"
   ],
@@ -3428,6 +3560,14 @@
   [
    "GM107M [GeForce GTX 750 Ti]",
    "139d"
+  ],
+  [
+   "GM204 [GM107 INT52]",
+   "13ad"
+  ],
+  [
+   "GM204 [GM107 CS1]",
+   "13ae"
   ],
   [
    "GM107GLM [Quadro M2000M]",
@@ -3470,6 +3610,14 @@
    "13bd"
   ],
   [
+   "GM204 [GM107 CS1]",
+   "13be"
+  ],
+  [
+   "GM204 [GM107 INT52]",
+   "13bf"
+  ],
+  [
    "GM204 [GeForce GTX 980]",
    "13c0"
   ],
@@ -3492,6 +3640,10 @@
   [
    "GM204M [GeForce GTX 980 Mobile]",
    "13da"
+  ],
+  [
+   "GM204 [Graphics Device ES-A]",
+   "13e4"
   ],
   [
    "GM204GL [GeForce GTX 980 Engineering Sample]",
@@ -3582,8 +3734,20 @@
    "15f9"
   ],
   [
+   "GP100GL [GP100 SKU 200]",
+   "15fb"
+  ],
+  [
    "GP100GL [Tesla P100-DGXS-16GB]",
    "15fc"
+  ],
+  [
+   "GP100GL [GP100 SKU 15ff]",
+   "15ff"
+  ],
+  [
+   "GM204GL [GRID M60 Service Provider]",
+   "1613"
   ],
   [
    "GM204M [GeForce GTX 980M]",
@@ -3616,6 +3780,10 @@
   [
    "GM108M [GeForce MX110]",
    "174e"
+  ],
+  [
+   "GM107GL [GRID M3-3020]",
+   "1789"
   ],
   [
    "GM107 [GeForce 940MX]",
@@ -4690,6 +4858,18 @@
    "233d"
   ],
   [
+   "GH100 [GH200 120GB / 480GB]",
+   "2342"
+  ],
+  [
+   "GH100 [GH100-88K-A1]",
+   "2345"
+  ],
+  [
+   "GH100 [GH200 144G HBM3e]",
+   "2348"
+  ],
+  [
    "GH100 [H100 GH3]",
    "237e"
   ],
@@ -5274,8 +5454,20 @@
    "28f8"
   ],
   [
+   "GB100 [B200]",
+   "2901"
+  ],
+  [
+   "GB100 [B200]",
+   "2909"
+  ],
+  [
    "GB100 [HGX GB200]",
    "2941"
+  ],
+  [
+   "GB102 [B100]",
+   "29bc"
   ],
   [
    "GB202 [GeForce RTX 5090]",
@@ -5434,6 +5626,10 @@
    "2df9"
   ],
   [
+   "GB20B [GB10]",
+   "2e12"
+  ],
+  [
    "GB205 [GeForce RTX 5070]",
    "2f04"
   ],
@@ -5452,6 +5648,22 @@
   [
    "GB205 High Definition Audio Controller",
    "2f80"
+  ],
+  [
+   "GB110 [B300 SXM6 AC]",
+   "3182"
+  ],
+  [
+   "GB110 [GB300 MaxQ]",
+   "31a1"
+  ],
+  [
+   "GB110 [GB300]",
+   "31c2"
+  ],
+  [
+   "GB110 [GB300]",
+   "31c3"
   ]
  ],
  "8086": [
@@ -6500,8 +6712,24 @@
    "5a85"
   ],
   [
+   "Lunar Lake-M Dynamic Tuning Technology",
+   "641d"
+  ],
+  [
    "Lunar Lake [Intel Graphics]",
    "6420"
+  ],
+  [
+   "Lunar Lake NPU",
+   "643e"
+  ],
+  [
+   "Lunar Lake IPU",
+   "645d"
+  ],
+  [
+   "Lunar Lake-M Crashlog and Telemetry",
+   "647d"
   ],
   [
    "Lunar Lake [Intel Arc Graphics 130V / 140V]",
@@ -6548,8 +6776,164 @@
    "712a"
   ],
   [
+   "Arrow Lake-H eSPI Controller",
+   "7702"
+  ],
+  [
+   "Arrow Lake SMBus Controller",
+   "7722"
+  ],
+  [
+   "Arrow Lake SPI Controller",
+   "7723"
+  ],
+  [
+   "Arrow Lake-H [PCH Serial IO UART Host Controller]",
+   "7725"
+  ],
+  [
+   "Arrow Lake-H PCH Serial IO UART Host Controller]",
+   "7726"
+  ],
+  [
+   "Arrow Lake-H [LPC/eSPI Controller]",
+   "7727"
+  ],
+  [
+   "Arrow Lake cAVS",
+   "7728"
+  ],
+  [
+   "Arrow Lake-H [LPC/eSPI Controller]",
+   "7730"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #1",
+   "7738"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #2",
+   "7739"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #3",
+   "773a"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #4",
+   "773b"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #5",
+   "773c"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #6",
+   "773d"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #7",
+   "773e"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #8",
+   "773f"
+  ],
+  [
+   "Arrow Lake CNVi WiFi",
+   "7740"
+  ],
+  [
+   "Arrow Lake Integrated Sensor Hub",
+   "7745"
+  ],
+  [
+   "Arrow Lake-H [LPC/eSPI Controller]",
+   "7746"
+  ],
+  [
+   "Arrow Lake Gaussian & Neural Accelerator",
+   "774c"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #9 (PXPC)",
+   "774d"
+  ],
+  [
+   "Arrow Lake-H [Serial IO I2C Host Controller]",
+   "7750"
+  ],
+  [
+   "Arrow Lake-H [Serial IO I2C Host Controller]",
+   "7751"
+  ],
+  [
+   "Arrow Lake-H [PCH Serial IO UART Host Controller]",
+   "7752"
+  ],
+  [
+   "Arrow Lake HECI Controller #1",
+   "7770"
+  ],
+  [
+   "Arrow Lake Keyboard and Text (KT) Redirection",
+   "7773"
+  ],
+  [
+   "Arrow Lake-H [Serial IO I2C Host Controller]",
+   "7778"
+  ],
+  [
+   "Arrow Lake-H [Serial IO I2C Host Controller]",
+   "7779"
+  ],
+  [
+   "Arrow Lake-H [Serial IO I2C Host Controller]",
+   "777a"
+  ],
+  [
+   "Arrow Lake-H [Serial IO I2C Host Controller]",
+   "777b"
+  ],
+  [
+   "Arrow Lake USB 3.2 xHCI Controller",
+   "777d"
+  ],
+  [
+   "Arrow Lake Shared SRAM",
+   "777f"
+  ],
+  [
    "82740 (i740) AGP Graphics Accelerator",
    "7800"
+  ],
+  [
+   "Meteor Lake-H 6p+8e cores Host Bridge/DRAM Controller",
+   "7d01"
+  ],
+  [
+   "Meteor Lake-P Dynamic Tuning Technology",
+   "7d03"
+  ],
+  [
+   "Arrow Lake-H 6p+8e cores Host Bridge/DRAM Controller",
+   "7d06"
+  ],
+  [
+   "Meteor Lake-P Platform Monitoring Technology",
+   "7d0d"
+  ],
+  [
+   "Meteor Lake IPU",
+   "7d19"
+  ],
+  [
+   "Arrow Lake-HX 8p+16e cores Host Bridge",
+   "7d1c"
+  ],
+  [
+   "Meteor Lake NPU",
+   "7d1d"
   ],
   [
    "Meteor Lake-M [Intel Graphics]",
@@ -6562,6 +6946,10 @@
   [
    "Meteor Lake-P [Intel Graphics]",
    "7d45"
+  ],
+  [
+   "Arrow Lake-P [Arc Pro 130T/140T]",
+   "7d51"
   ],
   [
    "Meteor Lake-P [Intel Arc Graphics]",
@@ -6582,6 +6970,162 @@
   [
    "Meteor Lake-P [Intel Graphics]",
    "7dd5"
+  ],
+  [
+   "Meteor Lake-P LPC/eSPI Controller",
+   "7e01"
+  ],
+  [
+   "Meteor Lake-H eSPI Controller",
+   "7e02"
+  ],
+  [
+   "Meteor Lake-P SMBus Controller",
+   "7e22"
+  ],
+  [
+   "Meteor Lake-P SPI Controller",
+   "7e23"
+  ],
+  [
+   "Meteor Lake-P Trace Hub",
+   "7e24"
+  ],
+  [
+   "Meteor Lake-P Serial IO UART Controller #0",
+   "7e25"
+  ],
+  [
+   "Meteor Lake-P Serial IO UART Controller #1",
+   "7e26"
+  ],
+  [
+   "Meteor Lake-P Serial IO SPI Controller #0",
+   "7e27"
+  ],
+  [
+   "Meteor Lake-P HD Audio Controller",
+   "7e28"
+  ],
+  [
+   "Meteor Lake-P Serial IO SPI Controller #1",
+   "7e30"
+  ],
+  [
+   "Meteor Lake-H/U PCIe Root Port #8",
+   "7e3f"
+  ],
+  [
+   "Meteor Lake PCH CNVi WiFi",
+   "7e40"
+  ],
+  [
+   "Meteor Lake-P Integrated Sensor Hub",
+   "7e45"
+  ],
+  [
+   "Meteor Lake-P Serial IO SPI Controller #2",
+   "7e46"
+  ],
+  [
+   "Meteor Lake-P Gaussian & Neural-Network Accelerator",
+   "7e4c"
+  ],
+  [
+   "Meteor Lake-H/U PCIe Root Port #9",
+   "7e4d"
+  ],
+  [
+   "Meteor Lake-P Serial IO I2C Controller #4",
+   "7e50"
+  ],
+  [
+   "Meteor Lake-P Serial IO I2C Controller #5",
+   "7e51"
+  ],
+  [
+   "Meteor Lake-P Serial IO UART Controller #2",
+   "7e52"
+  ],
+  [
+   "Meteor Lake-P CSME HECI #1",
+   "7e70"
+  ],
+  [
+   "Meteor Lake-P Keyboard and Text (KT) Redirection",
+   "7e73"
+  ],
+  [
+   "Meteor Lake-P Serial IO I2C Controller #0",
+   "7e78"
+  ],
+  [
+   "Meteor Lake-P Serial IO I2C Controller #1",
+   "7e79"
+  ],
+  [
+   "Meteor Lake-P Serial IO I2C Controller #2",
+   "7e7a"
+  ],
+  [
+   "Meteor Lake-P Serial IO I2C Controller #3",
+   "7e7b"
+  ],
+  [
+   "Meteor Lake-P USB 3.2 Gen 2x1 xHCI Host Controller",
+   "7e7d"
+  ],
+  [
+   "Meteor Lake-P USB Device Controller",
+   "7e7e"
+  ],
+  [
+   "Meteor Lake-H/U Shared SRAM",
+   "7e7f"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 USB Controller",
+   "7ec0"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 NHI #0",
+   "7ec2"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 NHI #1",
+   "7ec3"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #0",
+   "7ec4"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #1",
+   "7ec5"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #2",
+   "7ec6"
+  ],
+  [
+   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #3",
+   "7ec7"
+  ],
+  [
+   "Meteor Lake-H/U PCIe Root Port #10",
+   "7eca"
+  ],
+  [
+   "Arrow Lake-H/U PCIe Root Port #11 (PXPE)",
+   "7ecb"
+  ],
+  [
+   "Meteor Lake-H PCIe Root Port #12",
+   "7ecc"
+  ],
+  [
+   "Arrow Lake-S PCH CNVi WiFi",
+   "7f70"
   ],
   [
    "US15W/US15X SCH [Poulsbo] Graphics Controller",
@@ -6816,6 +7360,174 @@
    "a7ad"
   ],
   [
+   "Lunar Lake-M LPC/eSPI Controller",
+   "a806"
+  ],
+  [
+   "Lunar Lake-M SMbus Controller",
+   "a822"
+  ],
+  [
+   "Lunar Lake-M SPI Controller",
+   "a823"
+  ],
+  [
+   "Lunar Lake-M Trace Hub",
+   "a824"
+  ],
+  [
+   "Lunar Lake-M Serial IO UART Controller #0",
+   "a825"
+  ],
+  [
+   "Lunar Lake-M Serial IO UART Controller #1",
+   "a826"
+  ],
+  [
+   "Lunar Lake-M Serial IO SPI Controller #0",
+   "a827"
+  ],
+  [
+   "Lunar Lake-M HD Audio Controller",
+   "a828"
+  ],
+  [
+   "Lunar Lake-M Serial IO SPI Controller #1",
+   "a830"
+  ],
+  [
+   "Lunar Lake-M Thunderbolt 4 USB Controller",
+   "a831"
+  ],
+  [
+   "Lunar Lake-M Thunderbolt 4 NHI #0",
+   "a833"
+  ],
+  [
+   "Lunar Lake-M Thunderbolt 4 NHI #1",
+   "a834"
+  ],
+  [
+   "Lunar Lake-M PCI Express Root Port #1",
+   "a838"
+  ],
+  [
+   "Lunar Lake-M PCI Express Root Port #2",
+   "a839"
+  ],
+  [
+   "Lunar Lake-M PCI Express Root Port #3",
+   "a83a"
+  ],
+  [
+   "Lunar Lake-M PCI Express Root Port #4",
+   "a83b"
+  ],
+  [
+   "Lunar Lake-M PCI Express Root Port #5",
+   "a83c"
+  ],
+  [
+   "Lunar Lake-M PCI Express Root Port #6",
+   "a83d"
+  ],
+  [
+   "Lunar Lake-M Integrated Sensor Hub",
+   "a845"
+  ],
+  [
+   "Lunar Lake-M UFS Controller",
+   "a847"
+  ],
+  [
+   "Lunar Lake-M Touch Host Controller #0 ID1",
+   "a848"
+  ],
+  [
+   "Lunar Lake-M Touch Host Controller #0 ID2",
+   "a849"
+  ],
+  [
+   "Lunar Lake-M Touch Host Controller #1 ID1",
+   "a84a"
+  ],
+  [
+   "Lunar Lake-M Touch Host Controller #1 ID2",
+   "a84b"
+  ],
+  [
+   "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #0",
+   "a84e"
+  ],
+  [
+   "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #1",
+   "a84f"
+  ],
+  [
+   "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #2",
+   "a860"
+  ],
+  [
+   "Lunar Lake-M CSME HECI #1",
+   "a870"
+  ],
+  [
+   "Lunar Lake-M Keyboard and Text (KT) Redirection",
+   "a873"
+  ],
+  [
+   "Lunar Lake-M Serial IO I2C Controller #0",
+   "a878"
+  ],
+  [
+   "Lunar Lake-M Serial IO I2C Controller #1",
+   "a879"
+  ],
+  [
+   "Lunar Lake-M Serial IO I2C Controller #2",
+   "a87a"
+  ],
+  [
+   "Lunar Lake-M Serial IO I2C Controller #3",
+   "a87b"
+  ],
+  [
+   "Lunar Lake-M USB 3.2 Gen 2x1 xHCI Host Controller",
+   "a87d"
+  ],
+  [
+   "Lunar Lake-M Shared SRAM",
+   "a87f"
+  ],
+  [
+   "Arrow Lake-HX Crash Log & Telemetry",
+   "ad0d"
+  ],
+  [
+   "Arrow Lake NPU",
+   "ad1d"
+  ],
+  [
+   "Arrow Lake-HX Direct eSPI Controller",
+   "ae10"
+  ],
+  [
+   "Arrow Lake-HX SPI (flash) Controller",
+   "ae23"
+  ],
+  [
+   "Arrow Lake-HX Gauss Newton Algorithm (GNA)",
+   "ae4c"
+  ],
+  [
+   "Arrow Lake-HX PCIe Root Port #13",
+   "ae4d"
+  ],
+  [
+   "Arrow Lake-HX Shared SRAM (SOC-S)",
+   "ae7f"
+  ],
+  [
    "Panther Lake [Intel Graphics]",
    "b08f"
   ],
@@ -6948,6 +7660,22 @@
   [
    "Granite Ridge [Radeon Graphics]",
    "13c0"
+  ],
+  [
+   "Ariel/Navi10Lite",
+   "13e9"
+  ],
+  [
+   "Oberon/Navi12Lite",
+   "13f9"
+  ],
+  [
+   "Navi 10 XL Upstream Port of PCI Express Switch",
+   "1478"
+  ],
+  [
+   "Navi 10 XL Downstream Port of PCI Express Switch",
+   "1479"
   ],
   [
    "Mendocino [Radeon 610M]",
@@ -8686,6 +9414,10 @@
    "7312"
   ],
   [
+   "Navi 10 USB",
+   "7314"
+  ],
+  [
    "Navi 10 [Radeon Pro 5700 XT]",
    "7319"
   ],
@@ -8742,6 +9474,10 @@
    "73a3"
   ],
   [
+   "Navi 21 USB",
+   "73a4"
+  ],
+  [
    "Navi 21 [Radeon RX 6950 XT]",
    "73a5"
   ],
@@ -8762,8 +9498,24 @@
    "73bf"
   ],
   [
+   "Navi 22",
+   "73c3"
+  ],
+  [
+   "Navi 22 USB",
+   "73c4"
+  ],
+  [
+   "Navi 22-XL SRIOV MxGPU",
+   "73ce"
+  ],
+  [
    "Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]",
    "73df"
+  ],
+  [
+   "Navi 23",
+   "73e0"
   ],
   [
    "Navi 23 WKS-XM [Radeon PRO W6600M]",
@@ -8772,6 +9524,10 @@
   [
    "Navi 23 WKS-XL [Radeon PRO W6600]",
    "73e3"
+  ],
+  [
+   "Navi 23 USB",
+   "73e4"
   ],
   [
    "Navi 23 [Radeon RX 6650 XT / 6700S / 6800S]",
@@ -8816,6 +9572,10 @@
   [
    "Navi 24 [Radeon RX 6400/6500 XT/6500M]",
    "743f"
+  ],
+  [
+   "Navi 31 USB",
+   "7446"
   ],
   [
    "Navi 31 [Radeon Pro W7900]",
@@ -9622,6 +10382,10 @@
    "9921"
   ],
   [
+   "Kingston/Clayton/Jupiter/Gladius/Montego HDMI Controller",
+   "9925"
+  ],
+  [
    "Trinity 2 [Radeon HD 7520G]",
    "9990"
   ],
@@ -9864,12 +10628,24 @@
    "0210"
   ],
   [
+   "MT416842 Family [BlueField SoC Flash Recovery]",
+   "0211"
+  ],
+  [
    "MT2892 Family [ConnectX-6 Dx Flash Recovery]",
    "0212"
   ],
   [
    "MT2892 Family [ConnectX-6 Dx Secure Flash Recovery]",
    "0213"
+  ],
+  [
+   "MT42822 Family [BlueField-2 SoC Flash Recovery]",
+   "0214"
+  ],
+  [
+   "MT42822 Family [BlueField-2 Secure Flash Recovery]",
+   "0215"
   ],
   [
    "MT2894 Family [ConnectX-6 Lx Flash Recovery]",
@@ -9888,12 +10664,36 @@
    "0219"
   ],
   [
+   "MT43162 Family [BlueField-3 Lx SoC Flash Recovery]",
+   "021a"
+  ],
+  [
+   "MT43162 Family [BlueField-3 Lx Secure Flash Recovery]",
+   "021b"
+  ],
+  [
+   "MT43244 Family [BlueField-3 SoC Flash Recovery]",
+   "021c"
+  ],
+  [
+   "MT43244 Family [BlueField-3 Secure Flash Recovery]",
+   "021d"
+  ],
+  [
    "CX8 Family [ConnectX-8 Flash Recovery]",
    "021e"
   ],
   [
    "CX8 Family [ConnectX-8 Secure Flash Recovery]",
    "021f"
+  ],
+  [
+   "BF4 Family Flash Recovery [BlueField-4 SoC Flash Recovery]",
+   "0220"
+  ],
+  [
+   "BF4 Family Secure Flash Recovery [BlueField-4 Secure Flash Recovery]",
+   "0221"
   ],
   [
    "CX8 PCIe Switch Family [ConnectX-8 PCIe Switch Flash Recovery]",
@@ -10032,6 +10832,10 @@
    "1974"
   ],
   [
+   "MT416842 Family [BlueField SoC PCIe Bridge]",
+   "1975"
+  ],
+  [
    "MT28908 Family [ConnectX-6 PCIe Bridge]",
    "1976"
   ],
@@ -10040,8 +10844,20 @@
    "1977"
   ],
   [
+   "MT42822 Family [BlueField-2 SoC PCIe Bridge]",
+   "1978"
+  ],
+  [
    "MT2910 Family [ConnectX-7 PCIe Bridge]",
    "1979"
+  ],
+  [
+   "MT43162 Family [BlueField-3 Lx SoC PCIe Bridge]",
+   "197a"
+  ],
+  [
+   "MT43244 Family [BlueField-3 SoC PCIe Bridge]",
+   "197b"
   ],
   [
    "ConnectX/BlueField Family mlx5Gen PCIe Bridge [PCIe Bridge]",
@@ -10064,8 +10880,16 @@
    "2020"
   ],
   [
+   "MT42822 Family [BlueField-2 SoC Emulated PCIe Bridge]",
+   "2021"
+  ],
+  [
    "MT2910 Family [ConnectX-7 Emulated PCIe Bridge]",
    "2023"
+  ],
+  [
+   "MT43244 Family [BlueField-3 SoC Emulated PCIe Bridge]",
+   "2024"
   ],
   [
    "ConnectX/BlueField Family mlx5Gen Emulated PCIe Bridge [Emulated PCIe Bridge]",
@@ -10124,20 +10948,92 @@
    "6778"
   ],
   [
+   "MT416842 BlueField SoC Crypto enabled",
+   "a2d0"
+  ],
+  [
+   "MT416842 BlueField SoC Crypto disabled",
+   "a2d1"
+  ],
+  [
    "MT416842 BlueField integrated ConnectX-5 network controller",
    "a2d2"
+  ],
+  [
+   "MT416842 BlueField multicore SoC family VF",
+   "a2d3"
+  ],
+  [
+   "MT42822 BlueField-2 SoC Crypto enabled",
+   "a2d4"
+  ],
+  [
+   "MT42822 BlueField-2 SoC Crypto disabled",
+   "a2d5"
   ],
   [
    "MT42822 BlueField-2 integrated ConnectX-6 Dx network controller",
    "a2d6"
   ],
   [
+   "MT43162 BlueField-3 Lx SoC Crypto enabled",
+   "a2d7"
+  ],
+  [
+   "MT43162 BlueField-3 Lx SoC Crypto disabled",
+   "a2d8"
+  ],
+  [
    "MT43162 BlueField-3 Lx integrated ConnectX-7 network controller",
    "a2d9"
   ],
   [
+   "MT43244 BlueField-3 SoC Crypto enabled",
+   "a2da"
+  ],
+  [
+   "MT43244 BlueField-3 SoC Crypto disabled",
+   "a2db"
+  ],
+  [
    "MT43244 BlueField-3 integrated ConnectX-7 network controller",
    "a2dc"
+  ],
+  [
+   "BF4 Family Crypto enabled [BlueField-4 SoC Crypto enabled]",
+   "a2dd"
+  ],
+  [
+   "BF4 Family Crypto disabled [BlueField-4 SoC Crypto disabled]",
+   "a2de"
+  ],
+  [
+   "BF4 Family integrated network controller [BlueField-4 integrated network controller]",
+   "a2df"
+  ],
+  [
+   "BlueField DPU Family Auxiliary Communication Channel [BlueField Family]",
+   "c2d1"
+  ],
+  [
+   "MT416842 BlueField SoC management interfac",
+   "c2d2"
+  ],
+  [
+   "MT42822 BlueField-2 SoC Management Interface",
+   "c2d3"
+  ],
+  [
+   "MT43162 BlueField-3 Lx SoC Management Interface",
+   "c2d4"
+  ],
+  [
+   "MT43244 BlueField-3 SoC Management Interface",
+   "c2d5"
+  ],
+  [
+   "BF4 Family Management Interface [BlueField-4 SoC Management Interface]",
+   "c2d6"
   ],
   [
    "ConnectX-4 CAPI Function",
