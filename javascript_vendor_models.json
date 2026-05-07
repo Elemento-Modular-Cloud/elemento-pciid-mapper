@@ -32808,6 +32808,10 @@
         "id": "027e"
       },
       {
+        "name": "Spectrum-8 tile",
+        "id": "027f"
+      },
+      {
         "name": "NPS-600 Flash Recovery",
         "id": "0281"
       },
@@ -32898,6 +32902,14 @@
       {
         "name": "OrionR RMA",
         "id": "02a7"
+      },
+      {
+        "name": "Spectrum-8 in Flash Recovery Mode",
+        "id": "02a8"
+      },
+      {
+        "name": "Spectrum-8 RMA",
+        "id": "02a9"
       },
       {
         "name": "MT25400 Family [ConnectX-2 Virtual Function]",
@@ -33358,6 +33370,10 @@
       {
         "name": "MT51136 GW",
         "id": "c739"
+      },
+      {
+        "name": "Spectrum-8",
+        "id": "c788"
       },
       {
         "name": "MT52236",
