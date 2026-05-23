@@ -22436,6 +22436,22 @@
         "id": "674c"
       },
       {
+        "name": "CRI",
+        "id": "674d"
+      },
+      {
+        "name": "CRI",
+        "id": "674e"
+      },
+      {
+        "name": "CRI",
+        "id": "674f"
+      },
+      {
+        "name": "CRI",
+        "id": "6750"
+      },
+      {
         "name": "Nova Lake PCH-S SMbus Controller",
         "id": "6e23"
       },
@@ -32188,6 +32204,10 @@
       {
         "name": "Navi 31 [Radeon Pro W7900]",
         "id": "7448"
+      },
+      {
+        "name": "Navi 31 [Radeon Pro W7800 48GB]",
+        "id": "7449"
       },
       {
         "name": "Navi 31 [Radeon Pro W7900 Dual Slot]",
