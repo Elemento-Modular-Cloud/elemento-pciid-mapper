@@ -22380,6 +22380,10 @@
         "id": "5af0"
       },
       {
+        "name": "Core Ultra 200V Series Processors with 4 P-Cores 4 E-Cores Host Bridge",
+        "id": "6400"
+      },
+      {
         "name": "Lunar Lake-M Dynamic Tuning Technology",
         "id": "641d"
       },
@@ -22400,7 +22404,7 @@
         "id": "647d"
       },
       {
-        "name": "Lunar Lake [Intel Arc Graphics 130V / 140V]",
+        "name": "Core Ultra 200V Series Processors Arc Graphics 130V/140V GPU",
         "id": "64a0"
       },
       {
@@ -23356,6 +23360,14 @@
         "id": "71a2"
       },
       {
+        "name": "Core Ultra 200H Series Processors eSPI Controller",
+        "id": "7202"
+      },
+      {
+        "name": "Core Ultra 200V Series Processors eSPI Controller",
+        "id": "7203"
+      },
+      {
         "name": "XMM7360 LTE Advanced Modem",
         "id": "7360"
       },
@@ -23384,27 +23396,39 @@
         "id": "7702"
       },
       {
-        "name": "Arrow Lake SMBus Controller",
+        "name": "Core Ultra 200H/200V Series Processors P2SB (SOC)",
+        "id": "7720"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors PMC (SOC)",
+        "id": "7721"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors SMBus",
         "id": "7722"
       },
       {
-        "name": "Arrow Lake SPI Controller",
+        "name": "Core Ultra 200H/200V Series Processors SPI (flash) Controller",
         "id": "7723"
       },
       {
-        "name": "Arrow Lake-H [PCH Serial IO UART Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors Trace Hub",
+        "id": "7724"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors UART #0",
         "id": "7725"
       },
       {
-        "name": "Arrow Lake-H PCH Serial IO UART Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors UART #1",
         "id": "7726"
       },
       {
-        "name": "Arrow Lake-H [LPC/eSPI Controller]",
+        "name": "Core Ultra 200H/200V Series Processors GSPI #0",
         "id": "7727"
       },
       {
-        "name": "Arrow Lake cAVS",
+        "name": "Core Ultra 200H/200V Series Processors HD Audio",
         "id": "7728"
       },
       {
@@ -23412,35 +23436,35 @@
         "id": "7730"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #1",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #1",
         "id": "7738"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #2",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #2",
         "id": "7739"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #3",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #3",
         "id": "773a"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #4",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #4",
         "id": "773b"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #5",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #5",
         "id": "773c"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #6",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #6",
         "id": "773d"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #7",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #7",
         "id": "773e"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #8",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #8",
         "id": "773f"
       },
       {
@@ -23448,60 +23472,120 @@
         "id": "7740"
       },
       {
-        "name": "Arrow Lake Integrated Sensor Hub",
+        "name": "Core Ultra 200H/200V Series Processors Integrated Sensor Hub",
         "id": "7745"
       },
       {
-        "name": "Arrow Lake-H [LPC/eSPI Controller]",
+        "name": "Core Ultra 200H/200V Series Processors GSPI #2",
         "id": "7746"
       },
       {
-        "name": "Arrow Lake Gaussian & Neural Accelerator",
+        "name": "Core Ultra 200H/200V Series Processors Touch Host Controller (THC) #0 ID1",
+        "id": "7748"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors Touch Host Controller (THC) #0 ID2",
+        "id": "7749"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors Touch Host Controller (THC) #1 ID1",
+        "id": "774a"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors Touch Host Controller (THC) #1 ID2",
+        "id": "774b"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors Gaussian & Neural-Network Accelerator (GNA)",
         "id": "774c"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #9 (PXPC)",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #9 (PXPC)",
         "id": "774d"
       },
       {
-        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors I2C #4",
         "id": "7750"
       },
       {
-        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors I2C #5",
         "id": "7751"
       },
       {
-        "name": "Arrow Lake-H [PCH Serial IO UART Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors UART #2",
         "id": "7752"
       },
       {
-        "name": "Arrow Lake HECI Controller #1",
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #1",
+        "id": "7758"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #2",
+        "id": "7759"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #3",
+        "id": "775a"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors SATA Controller (AHCI)",
+        "id": "7763"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors SATA Controller (RAID 0/1/5/10) premium",
+        "id": "7767"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #1",
         "id": "7770"
       },
       {
-        "name": "Arrow Lake Keyboard and Text (KT) Redirection",
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #2",
+        "id": "7771"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors CSME IDE Redirection (IDE-R)",
+        "id": "7772"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors CSME Keyboard and Text (KT) Redirection",
         "id": "7773"
       },
       {
-        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #3",
+        "id": "7774"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors CSME HECI #4",
+        "id": "7775"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors I2C #0",
         "id": "7778"
       },
       {
-        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors I2C #1",
         "id": "7779"
       },
       {
-        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors I2C #2",
         "id": "777a"
       },
       {
-        "name": "Arrow Lake-H [Serial IO I2C Host Controller]",
+        "name": "Core Ultra 200H/200V Series Processors I2C #3",
         "id": "777b"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors I3C",
+        "id": "777c"
       },
       {
         "name": "Arrow Lake USB 3.2 xHCI Controller",
         "id": "777d"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors Standalone USB Device Controller",
+        "id": "777e"
       },
       {
         "name": "Core Ultra 200H/200V Series Processors Shared SRAM",
@@ -24160,12 +24244,44 @@
         "id": "7d19"
       },
       {
+        "name": "Core Ultra 200S/200S-Plus Series Processors with 8 P-Cores 16 E-Cores Host Bridge",
+        "id": "7d1a"
+      },
+      {
+        "name": "Core Ultra 200S Series Processors with 8 P-Cores 12 E-Cores Host Bridge",
+        "id": "7d1b"
+      },
+      {
         "name": "Arrow Lake-HX 8p+16e cores Host Bridge",
         "id": "7d1c"
       },
       {
         "name": "Meteor Lake NPU",
         "id": "7d1d"
+      },
+      {
+        "name": "Core Ultra 200S-Plus Series Processors with 6 P-Cores 12 E-Cores Host Bridge",
+        "id": "7d29"
+      },
+      {
+        "name": "Core Ultra 200S Series Processors with 6 P-Cores 8 E-Cores Host Bridge",
+        "id": "7d2a"
+      },
+      {
+        "name": "Core Ultra 200HX/HX-Plus Series Processors with 8 P-Cores 12 E-Cores Host Bridge",
+        "id": "7d2d"
+      },
+      {
+        "name": "Core Ultra 200HX Series Processors with 6 P-Cores 8 E-Cores Host Bridge",
+        "id": "7d2f"
+      },
+      {
+        "name": "Core Ultra 200U Series Processors with 2 P-Cores 8 E-Cores Host Bridge",
+        "id": "7d30"
+      },
+      {
+        "name": "Core Ultra 200S Series Processors with 6 P-Cores 4 E-Cores Host Bridge",
+        "id": "7d35"
       },
       {
         "name": "Meteor Lake-M [Intel Graphics]",
@@ -24320,6 +24436,10 @@
         "id": "7ec0"
       },
       {
+        "name": "Core Ultra 200 Series Processors USB xDCI",
+        "id": "7ec1"
+      },
+      {
         "name": "Meteor Lake-P Thunderbolt 4 NHI #0",
         "id": "7ec2"
       },
@@ -24344,16 +24464,32 @@
         "id": "7ec7"
       },
       {
-        "name": "Meteor Lake-H/U PCIe Root Port #10",
+        "name": "Core Ultra 200 Series Processors P2SB (IOE)",
+        "id": "7ec8"
+      },
+      {
+        "name": "Core Ultra 200H/200V Series Processors IEH (IOE)",
+        "id": "7ec9"
+      },
+      {
+        "name": "Core Ultra 200 Series Processors PCIe Root Port #10",
         "id": "7eca"
       },
       {
-        "name": "Arrow Lake-H/U PCIe Root Port #11 (PXPE)",
+        "name": "Core Ultra 200H/200V Series Processors PCIe Root Port #11 (PXPE)",
         "id": "7ecb"
       },
       {
-        "name": "Meteor Lake-H PCIe Root Port #12",
+        "name": "Core Ultra 200 Series Processors PCIe Root Port #12",
         "id": "7ecc"
+      },
+      {
+        "name": "Core Ultra 200 Series Processors PMC (IOE)",
+        "id": "7ece"
+      },
+      {
+        "name": "Core Ultra 200 Series Processors Shared SRAM (IOE)",
+        "id": "7ecf"
       },
       {
         "name": "Q870 Chipset eSPI Controller",
@@ -27448,47 +27584,51 @@
         "id": "a215"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #6",
         "id": "a216"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #7",
         "id": "a217"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #8",
         "id": "a218"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #9",
         "id": "a219"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #10",
         "id": "a21a"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #11",
         "id": "a21b"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #12",
         "id": "a21c"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #13",
         "id": "a21d"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #14",
         "id": "a21e"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #15",
         "id": "a21f"
       },
       {
-        "name": "Lewisburg Power Management Controller",
+        "name": "C620 Series Chipset Family (Super) P2SB",
+        "id": "a220"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) PMC",
         "id": "a221"
       },
       {
@@ -27500,12 +27640,56 @@
         "id": "a224"
       },
       {
+        "name": "C620 Series Chipset Family (Super) Trace Hub",
+        "id": "a226"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) USB 3.0 xHCI Controller",
+        "id": "a22f"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) Thermal Subsystem",
+        "id": "a231"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) MEI HECI #1",
+        "id": "a23a"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) MEI HECI #2",
+        "id": "a23b"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) MEI IDE Redirection",
+        "id": "a23c"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) MEI Keyboard and Text (KT) Redirection",
+        "id": "a23d"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) MEI HECI #3",
+        "id": "a23e"
+      },
+      {
         "name": "Lewisburg LPC or eSPI Controller",
         "id": "a242"
       },
       {
         "name": "Lewisburg LPC or eSPI Controller",
         "id": "a243"
+      },
+      {
+        "name": "C621 Chipset (Super) LPC/eSPI Controller",
+        "id": "a244"
+      },
+      {
+        "name": "C627 Chipset (Super) LPC/eSPI Controller",
+        "id": "a245"
+      },
+      {
+        "name": "C628 Chipset (Super) LPC/eSPI Controller",
+        "id": "a246"
       },
       {
         "name": "Lewisburg SSATA Controller [AHCI mode]",
@@ -27530,6 +27714,18 @@
       {
         "name": "Lewisburg PCI Express Root Port",
         "id": "a26a"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) MROM 0",
+        "id": "a26c"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) Audio",
+        "id": "a270"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) IE HECI #1",
+        "id": "a278"
       },
       {
         "name": "200 Series/Z370 Chipset Family SATA Controller (AHCI)",

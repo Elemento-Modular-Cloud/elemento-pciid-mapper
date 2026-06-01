@@ -6736,7 +6736,7 @@
    "647d"
   ],
   [
-   "Lunar Lake [Intel Arc Graphics 130V / 140V]",
+   "Core Ultra 200V Series Processors Arc Graphics 130V/140V GPU",
    "64a0"
   ],
   [
@@ -6784,120 +6784,12 @@
    "7702"
   ],
   [
-   "Arrow Lake SMBus Controller",
-   "7722"
-  ],
-  [
-   "Arrow Lake SPI Controller",
-   "7723"
-  ],
-  [
-   "Arrow Lake-H [PCH Serial IO UART Host Controller]",
-   "7725"
-  ],
-  [
-   "Arrow Lake-H PCH Serial IO UART Host Controller]",
-   "7726"
-  ],
-  [
-   "Arrow Lake-H [LPC/eSPI Controller]",
-   "7727"
-  ],
-  [
-   "Arrow Lake cAVS",
-   "7728"
-  ],
-  [
    "Arrow Lake-H [LPC/eSPI Controller]",
    "7730"
   ],
   [
-   "Arrow Lake-H/U PCIe Root Port #1",
-   "7738"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #2",
-   "7739"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #3",
-   "773a"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #4",
-   "773b"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #5",
-   "773c"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #6",
-   "773d"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #7",
-   "773e"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #8",
-   "773f"
-  ],
-  [
    "Arrow Lake CNVi WiFi",
    "7740"
-  ],
-  [
-   "Arrow Lake Integrated Sensor Hub",
-   "7745"
-  ],
-  [
-   "Arrow Lake-H [LPC/eSPI Controller]",
-   "7746"
-  ],
-  [
-   "Arrow Lake Gaussian & Neural Accelerator",
-   "774c"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #9 (PXPC)",
-   "774d"
-  ],
-  [
-   "Arrow Lake-H [Serial IO I2C Host Controller]",
-   "7750"
-  ],
-  [
-   "Arrow Lake-H [Serial IO I2C Host Controller]",
-   "7751"
-  ],
-  [
-   "Arrow Lake-H [PCH Serial IO UART Host Controller]",
-   "7752"
-  ],
-  [
-   "Arrow Lake HECI Controller #1",
-   "7770"
-  ],
-  [
-   "Arrow Lake Keyboard and Text (KT) Redirection",
-   "7773"
-  ],
-  [
-   "Arrow Lake-H [Serial IO I2C Host Controller]",
-   "7778"
-  ],
-  [
-   "Arrow Lake-H [Serial IO I2C Host Controller]",
-   "7779"
-  ],
-  [
-   "Arrow Lake-H [Serial IO I2C Host Controller]",
-   "777a"
-  ],
-  [
-   "Arrow Lake-H [Serial IO I2C Host Controller]",
-   "777b"
   ],
   [
    "Arrow Lake USB 3.2 xHCI Controller",
@@ -7110,18 +7002,6 @@
   [
    "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #3",
    "7ec7"
-  ],
-  [
-   "Meteor Lake-H/U PCIe Root Port #10",
-   "7eca"
-  ],
-  [
-   "Arrow Lake-H/U PCIe Root Port #11 (PXPE)",
-   "7ecb"
-  ],
-  [
-   "Meteor Lake-H PCIe Root Port #12",
-   "7ecc"
   ],
   [
    "US15W/US15X SCH [Poulsbo] Graphics Controller",
