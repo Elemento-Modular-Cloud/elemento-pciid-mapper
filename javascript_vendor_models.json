@@ -27632,11 +27632,11 @@
         "id": "a221"
       },
       {
-        "name": "Lewisburg SMBus",
+        "name": "C620 Series Chipset Family (Super) SMBus",
         "id": "a223"
       },
       {
-        "name": "Lewisburg SPI Controller",
+        "name": "C620 Series Chipset Family (Super) SPI Controller",
         "id": "a224"
       },
       {
@@ -27672,11 +27672,11 @@
         "id": "a23e"
       },
       {
-        "name": "Lewisburg LPC or eSPI Controller",
+        "name": "C624 Chipset (Super) LPC/eSPI Controller",
         "id": "a242"
       },
       {
-        "name": "Lewisburg LPC or eSPI Controller",
+        "name": "C627 Chipset (Super) LPC/eSPI Controller",
         "id": "a243"
       },
       {
@@ -27692,27 +27692,27 @@
         "id": "a246"
       },
       {
-        "name": "Lewisburg SSATA Controller [AHCI mode]",
+        "name": "C620 Series Chipset Family (Super) SSATA Controller (AHCI)",
         "id": "a252"
       },
       {
-        "name": "Lewisburg SSATA Controller [RAID mode]",
+        "name": "C620 Series Chipset Family (Super) SSATA Controller (RAID 0/1/5/10)",
         "id": "a256"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #16",
         "id": "a267"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #17",
         "id": "a268"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #18",
         "id": "a269"
       },
       {
-        "name": "Lewisburg PCI Express Root Port",
+        "name": "C620 Series Chipset Family (Super) PCIe Root Port #19",
         "id": "a26a"
       },
       {
@@ -27726,6 +27726,22 @@
       {
         "name": "C620 Series Chipset Family (Super) IE HECI #1",
         "id": "a278"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) IE HECI #2",
+        "id": "a279"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) IE IDE Redirection",
+        "id": "a27a"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) IE Keyboard and Text Redirection",
+        "id": "a27b"
+      },
+      {
+        "name": "C620 Series Chipset Family (Super) IE HECI #3",
+        "id": "a27c"
       },
       {
         "name": "200 Series/Z370 Chipset Family SATA Controller (AHCI)",
@@ -28152,7 +28168,7 @@
         "id": "a347"
       },
       {
-        "name": "Cannon Lake PCH cAVS",
+        "name": "300/C240 Series Chipset Family HD Audio",
         "id": "a348"
       },
       {
@@ -28220,7 +28236,7 @@
         "id": "a36b"
       },
       {
-        "name": "Cannon Lake PCH USB 3.1 xHCI Host Controller",
+        "name": "300/C240 Series Chipset Family USB 3.1 xHCI",
         "id": "a36d"
       },
       {
@@ -28232,8 +28248,20 @@
         "id": "a36f"
       },
       {
-        "name": "Cannon Lake PCH CNVi WiFi",
+        "name": "300/C240 Series Chipset Family CNVi Wi-Fi",
         "id": "a370"
+      },
+      {
+        "name": "300/C240 Series Chipset Family CNVi Wi-Fi",
+        "id": "a371"
+      },
+      {
+        "name": "300/C240 Series Chipset Family CNVi Wi-Fi",
+        "id": "a372"
+      },
+      {
+        "name": "300/C240 Series Chipset Family CNVi Wi-Fi",
+        "id": "a373"
       },
       {
         "name": "300/C240 Series Chipset Family Thermal Subsystem",
