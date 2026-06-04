@@ -6716,24 +6716,8 @@
    "5a85"
   ],
   [
-   "Lunar Lake-M Dynamic Tuning Technology",
-   "641d"
-  ],
-  [
    "Lunar Lake [Intel Graphics]",
    "6420"
-  ],
-  [
-   "Lunar Lake NPU",
-   "643e"
-  ],
-  [
-   "Lunar Lake IPU",
-   "645d"
-  ],
-  [
-   "Lunar Lake-M Crashlog and Telemetry",
-   "647d"
   ],
   [
    "Core Ultra 200V Series Processors Arc Graphics 130V/140V GPU",
@@ -6792,40 +6776,12 @@
    "7740"
   ],
   [
-   "Arrow Lake USB 3.2 xHCI Controller",
-   "777d"
-  ],
-  [
    "82740 (i740) AGP Graphics Accelerator",
    "7800"
   ],
   [
    "Meteor Lake-H 6p+8e cores Host Bridge/DRAM Controller",
    "7d01"
-  ],
-  [
-   "Meteor Lake-P Dynamic Tuning Technology",
-   "7d03"
-  ],
-  [
-   "Arrow Lake-H 6p+8e cores Host Bridge/DRAM Controller",
-   "7d06"
-  ],
-  [
-   "Meteor Lake-P Platform Monitoring Technology",
-   "7d0d"
-  ],
-  [
-   "Meteor Lake IPU",
-   "7d19"
-  ],
-  [
-   "Arrow Lake-HX 8p+16e cores Host Bridge",
-   "7d1c"
-  ],
-  [
-   "Meteor Lake NPU",
-   "7d1d"
   ],
   [
    "Meteor Lake-M [Intel Graphics]",
@@ -6974,34 +6930,6 @@
   [
    "Meteor Lake-H/U Shared SRAM",
    "7e7f"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 USB Controller",
-   "7ec0"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 NHI #0",
-   "7ec2"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 NHI #1",
-   "7ec3"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #0",
-   "7ec4"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #1",
-   "7ec5"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #2",
-   "7ec6"
-  ],
-  [
-   "Meteor Lake-P Thunderbolt 4 PCI Express Root Port #3",
-   "7ec7"
   ],
   [
    "US15W/US15X SCH [Poulsbo] Graphics Controller",
@@ -7244,164 +7172,12 @@
    "a822"
   ],
   [
-   "Lunar Lake-M SPI Controller",
-   "a823"
-  ],
-  [
-   "Lunar Lake-M Trace Hub",
-   "a824"
-  ],
-  [
-   "Lunar Lake-M Serial IO UART Controller #0",
-   "a825"
-  ],
-  [
-   "Lunar Lake-M Serial IO UART Controller #1",
-   "a826"
-  ],
-  [
-   "Lunar Lake-M Serial IO SPI Controller #0",
-   "a827"
-  ],
-  [
-   "Lunar Lake-M HD Audio Controller",
-   "a828"
-  ],
-  [
-   "Lunar Lake-M Serial IO SPI Controller #1",
-   "a830"
-  ],
-  [
-   "Lunar Lake-M Thunderbolt 4 USB Controller",
-   "a831"
-  ],
-  [
-   "Lunar Lake-M Thunderbolt 4 NHI #0",
-   "a833"
-  ],
-  [
-   "Lunar Lake-M Thunderbolt 4 NHI #1",
-   "a834"
-  ],
-  [
-   "Lunar Lake-M PCI Express Root Port #1",
-   "a838"
-  ],
-  [
-   "Lunar Lake-M PCI Express Root Port #2",
-   "a839"
-  ],
-  [
-   "Lunar Lake-M PCI Express Root Port #3",
-   "a83a"
-  ],
-  [
-   "Lunar Lake-M PCI Express Root Port #4",
-   "a83b"
-  ],
-  [
-   "Lunar Lake-M PCI Express Root Port #5",
-   "a83c"
-  ],
-  [
-   "Lunar Lake-M PCI Express Root Port #6",
-   "a83d"
-  ],
-  [
-   "Lunar Lake-M Integrated Sensor Hub",
-   "a845"
-  ],
-  [
    "Lunar Lake-M UFS Controller",
    "a847"
   ],
   [
-   "Lunar Lake-M Touch Host Controller #0 ID1",
-   "a848"
-  ],
-  [
-   "Lunar Lake-M Touch Host Controller #0 ID2",
-   "a849"
-  ],
-  [
-   "Lunar Lake-M Touch Host Controller #1 ID1",
-   "a84a"
-  ],
-  [
-   "Lunar Lake-M Touch Host Controller #1 ID2",
-   "a84b"
-  ],
-  [
-   "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #0",
-   "a84e"
-  ],
-  [
-   "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #1",
-   "a84f"
-  ],
-  [
-   "Lunar Lake-M Thunderbolt 4 PCI Express Root Port #2",
-   "a860"
-  ],
-  [
-   "Lunar Lake-M CSME HECI #1",
-   "a870"
-  ],
-  [
-   "Lunar Lake-M Keyboard and Text (KT) Redirection",
-   "a873"
-  ],
-  [
-   "Lunar Lake-M Serial IO I2C Controller #0",
-   "a878"
-  ],
-  [
-   "Lunar Lake-M Serial IO I2C Controller #1",
-   "a879"
-  ],
-  [
-   "Lunar Lake-M Serial IO I2C Controller #2",
-   "a87a"
-  ],
-  [
-   "Lunar Lake-M Serial IO I2C Controller #3",
-   "a87b"
-  ],
-  [
-   "Lunar Lake-M USB 3.2 Gen 2x1 xHCI Host Controller",
-   "a87d"
-  ],
-  [
-   "Lunar Lake-M Shared SRAM",
-   "a87f"
-  ],
-  [
-   "Arrow Lake-HX Crash Log & Telemetry",
-   "ad0d"
-  ],
-  [
-   "Arrow Lake NPU",
-   "ad1d"
-  ],
-  [
    "Arrow Lake-HX Direct eSPI Controller",
    "ae10"
-  ],
-  [
-   "Arrow Lake-HX SPI (flash) Controller",
-   "ae23"
-  ],
-  [
-   "Arrow Lake-HX Gauss Newton Algorithm (GNA)",
-   "ae4c"
-  ],
-  [
-   "Arrow Lake-HX PCIe Root Port #13",
-   "ae4d"
-  ],
-  [
-   "Arrow Lake-HX Shared SRAM (SOC-S)",
-   "ae7f"
   ],
   [
    "Panther Lake [Intel Graphics]",
