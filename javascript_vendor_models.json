@@ -28980,23 +28980,43 @@
         "id": "b000"
       },
       {
-        "name": "Panther Lake Host Bridge/DRAM Controller",
+        "name": "Core Ultra Processors (Series 3) PTL-H12Xe",
+        "id": "b001"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PTL-H484",
         "id": "b002"
       },
       {
-        "name": "Panther Lake Innovation Platform Framework Processor Participant",
+        "name": "Core Ultra Processors (Series 3) PTL-204",
+        "id": "b003"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PTL-H444",
+        "id": "b004"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PTL-H444",
+        "id": "b005"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) DTT",
         "id": "b01d"
       },
       {
-        "name": "Panther Lake NPU",
+        "name": "Core Ultra Processors (Series 3) IAA",
+        "id": "b02d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) NPU",
         "id": "b03e"
       },
       {
-        "name": "Panther Lake IPU",
+        "name": "Core Ultra Processors (Series 3) IPU",
         "id": "b05d"
       },
       {
-        "name": "Panther Lake Platform Monitoring Technology (PMT)",
+        "name": "Core Ultra Processors (Series 3) Crashlog and Telemetry",
         "id": "b07d"
       },
       {
@@ -29344,119 +29364,251 @@
         "id": "e223"
       },
       {
-        "name": "Panther Lake LPC/eSPI Controller",
+        "name": "Core Ultra Processors (Series 3) eSPI",
+        "id": "e300"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) eSPI",
         "id": "e302"
       },
       {
-        "name": "Panther Lake SMBus Controller",
+        "name": "Core Ultra Processors (Series 3) eSPI",
+        "id": "e31f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) P2SB",
+        "id": "e320"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PMC",
+        "id": "e321"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) SMBus",
         "id": "e322"
       },
       {
-        "name": "Panther Lake SPI(flash) Controller",
+        "name": "Core Ultra Processors (Series 3) SPI (flash) Controller",
         "id": "e323"
       },
       {
-        "name": "Panther Lake Serial IO UART Controller #0",
+        "name": "Core Ultra Processors (Series 3) Trace Hub",
+        "id": "e324"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) UART #0",
         "id": "e325"
       },
       {
-        "name": "Panther Lake Serial IO UART Controller #1",
+        "name": "Core Ultra Processors (Series 3) UART #1",
         "id": "e326"
       },
       {
-        "name": "Panther Lake Serial IO SPI Host Controller #0",
+        "name": "Core Ultra Processors (Series 3) GSPI #0",
         "id": "e327"
       },
       {
-        "name": "Panther Lake Smart Sound Technology BUS",
+        "name": "Core Ultra Processors (Series 3) HD Audio",
         "id": "e328"
       },
       {
-        "name": "Panther Lake Serial IO SPI Host Controller #1",
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e329"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e32a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e32b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e32c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e32d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e32e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e32f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) GSPI #1",
         "id": "e330"
       },
       {
-        "name": "Panther Lake TCSS USB3 xHCI Controller",
+        "name": "Core Ultra Processors (Series 3) Type-C Subsystem xHCI",
         "id": "e331"
       },
       {
-        "name": "Panther Lake Thunderbolt 4 NHI #0",
+        "name": "Core Ultra Processors (Series 3) Type-C Subsystem xDCI",
+        "id": "e332"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Thunderbolt DMA0",
         "id": "e333"
       },
       {
-        "name": "Panther Lake Thunderbolt 4 NHI #1",
+        "name": "Core Ultra Processors (Series 3) Thunderbolt DMA1",
         "id": "e334"
       },
       {
-        "name": "Panther Lake PCI Express Root Port A1",
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #24",
+        "id": "e337"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #1",
         "id": "e338"
       },
       {
-        "name": "Panther Lake PCI Express Root Port A2",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #2",
         "id": "e339"
       },
       {
-        "name": "Panther Lake PCI Express Root Port A3",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #3",
         "id": "e33a"
       },
       {
-        "name": "Panther Lake PCI Express Root Port A4",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #4",
         "id": "e33b"
       },
       {
-        "name": "Panther Lake PCI Express Root Port B1",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #5",
         "id": "e33c"
       },
       {
-        "name": "Panther Lake PCI Express Root Port B2",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #6",
         "id": "e33d"
       },
       {
-        "name": "Panther Lake PCI Express Root Port B3",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #7",
         "id": "e33e"
       },
       {
-        "name": "Panther Lake PCI Express Root Port B4",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #8",
         "id": "e33f"
       },
       {
-        "name": "Panther Lake PCH CNVi WiFi",
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
         "id": "e340"
       },
       {
-        "name": "Panther Lake Thunderbolt 4 PCI Express Root Port #0",
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
+        "id": "e341"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
+        "id": "e342"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
+        "id": "e343"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) IEH #0",
+        "id": "e344"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) ISH",
+        "id": "e345"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) GSPI #2",
+        "id": "e346"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #0 ID1",
+        "id": "e348"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #0 ID2",
+        "id": "e349"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #1 ID1",
+        "id": "e34a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #1 ID2",
+        "id": "e34b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) P2SB",
+        "id": "e34c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) IEH #1",
+        "id": "e34d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #21",
         "id": "e34e"
       },
       {
-        "name": "Panther Lake CSME HECI #1",
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #22",
+        "id": "e34f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #4",
+        "id": "e350"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #5",
+        "id": "e351"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) UART #2",
+        "id": "e352"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #10",
+        "id": "e35c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #1",
         "id": "e35d"
       },
       {
-        "name": "Panther Lake Thunderbolt 4 PCI Express Root Port #2",
+        "name": "Core Ultra Processors (Series 3) CSME HECI #2",
+        "id": "e35e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #3",
+        "id": "e35f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #23",
         "id": "e360"
       },
       {
-        "name": "Panther Lake PCI Express Root Port C1",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #9",
         "id": "e361"
       },
       {
-        "name": "Panther Lake Primary to Sideband (P2SB) Bridge IOE",
+        "name": "Core Ultra Processors (Series 3) CSME HECI #1",
         "id": "e362"
       },
       {
-        "name": "Panther Lake PCI Express Root Port C3",
+        "name": "Core Ultra Processors (Series 3) CSME HECI #2",
         "id": "e363"
       },
       {
-        "name": "Panther Lake PCI Express Root Port C4",
+        "name": "Core Ultra Processors (Series 3) CSME HECI #3",
         "id": "e364"
       },
       {
-        "name": "Panther Lake PCI Express Root Port D1",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #11",
         "id": "e365"
       },
       {
-        "name": "Panther Lake PCI Express Root Port D2",
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #12",
         "id": "e366"
       },
       {
@@ -29484,68 +29636,368 @@
         "id": "e36c"
       },
       {
-        "name": "Panther Lake I3C Host Controller #0",
+        "name": "Core Ultra Processors (Series 3) I3C #2",
         "id": "e36f"
       },
       {
-        "name": "Panther Lake MEI Controller",
+        "name": "Core Ultra Processors (Series 3) CSME HECI #1 (CSE)",
         "id": "e370"
       },
       {
-        "name": "Panther Lake Bluetooth PCI Enumerator",
+        "name": "Core Ultra Processors (Series 3) CSME HECI #2 (CSE)",
+        "id": "e371"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME IDE Redirection (IDE-R)",
+        "id": "e372"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME Keyboard and Text (KT) Redirection",
+        "id": "e373"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #3 (CSE)",
+        "id": "e374"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #4 (CSE)",
+        "id": "e375"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Bluetooth",
         "id": "e376"
       },
       {
-        "name": "Panther Lake Serial IO I2C Controller #0",
+        "name": "Core Ultra Processors (Series 3) I2C #0",
         "id": "e378"
       },
       {
-        "name": "Panther Lake Serial IO I2C Controller #1",
+        "name": "Core Ultra Processors (Series 3) I2C #1",
         "id": "e379"
       },
       {
-        "name": "Panther Lake Serial IO I2C Controller #2",
+        "name": "Core Ultra Processors (Series 3) I2C #2",
         "id": "e37a"
       },
       {
-        "name": "Panther Lake Serial IO I2C Controller #3",
+        "name": "Core Ultra Processors (Series 3) I2C #3",
         "id": "e37b"
       },
       {
-        "name": "Panther Lake I3C Host Controller #1",
+        "name": "Core Ultra Processors (Series 3) I3C #1",
         "id": "e37c"
       },
       {
-        "name": "Panther Lake USB 3.2 xHCI Controller",
+        "name": "Core Ultra Processors (Series 3) Standalone xHCI Controller",
         "id": "e37d"
       },
       {
-        "name": "Panther Lake Shared SRAM",
+        "name": "Core Ultra Processors (Series 3) Standalone USB Device Controller",
+        "id": "e37e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Shared SRAM",
         "id": "e37f"
       },
       {
-        "name": "Panther Lake USB 3.2 xHCI Controller",
+        "name": "Core Ultra Processors (Series 3) eSPI",
+        "id": "e400"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) eSPI",
+        "id": "e41f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) P2SB",
+        "id": "e420"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PMC",
+        "id": "e421"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) SMBus",
+        "id": "e422"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) SPI (flash) Controller",
+        "id": "e423"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Trace Hub",
+        "id": "e424"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) UART #0",
+        "id": "e425"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) UART #1",
+        "id": "e426"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) GSPI #0",
+        "id": "e427"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e428"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e429"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e42a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e42b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e42c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e42d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e42e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) HD Audio",
+        "id": "e42f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) GSPI #1",
+        "id": "e430"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Type-C Subsystem xHCI",
         "id": "e431"
       },
       {
-        "name": "Panther Lake Thunderbolt 4 NHI #2",
+        "name": "Core Ultra Processors (Series 3) Type-C Subsystem xDCI",
+        "id": "e432"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Thunderbolt DMA0",
+        "id": "e433"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Thunderbolt DMA1",
         "id": "e434"
       },
       {
-        "name": "Panther Lake PCH CNVi WiFi",
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #24",
+        "id": "e437"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #1",
+        "id": "e438"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #2",
+        "id": "e439"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #3",
+        "id": "e43a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #4",
+        "id": "e43b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #5",
+        "id": "e43c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #6",
+        "id": "e43d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #7",
+        "id": "e43e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #8",
+        "id": "e43f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
         "id": "e440"
       },
       {
-        "name": "Panther Lake Bluetooth PCI Enumerator",
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
+        "id": "e441"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
+        "id": "e442"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Wi-Fi",
+        "id": "e443"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) IEH #0",
+        "id": "e444"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) ISH",
+        "id": "e445"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) GSPI #2",
+        "id": "e446"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #0 ID1",
+        "id": "e448"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #0 ID2",
+        "id": "e449"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #1 ID1",
+        "id": "e44a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) THC #1 ID2",
+        "id": "e44b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) P2SB",
+        "id": "e44c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) IEH #1",
+        "id": "e44d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #21",
+        "id": "e44e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #22",
+        "id": "e44f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #4",
+        "id": "e450"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #5",
+        "id": "e451"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) UART #2",
+        "id": "e452"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #10",
+        "id": "e45c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #1",
+        "id": "e45d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #2",
+        "id": "e45e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #3",
+        "id": "e45f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) USB Type-C Subsystem PCIe Root Port #23",
+        "id": "e460"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) PCIe Root Port #9",
+        "id": "e461"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #1",
+        "id": "e462"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #2",
+        "id": "e463"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #3",
+        "id": "e464"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I3C #2",
+        "id": "e46f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #1 (CSE)",
+        "id": "e470"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #2 (CSE)",
+        "id": "e471"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME IDE Redirection (IDE-R)",
+        "id": "e472"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME Keyboard and Text (KT) Redirection",
+        "id": "e473"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #3 (CSE)",
+        "id": "e474"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CSME HECI #4 (CSE)",
+        "id": "e475"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) CNVi Bluetooth",
         "id": "e476"
       },
       {
-        "name": "Serial IO I2C Host Controller - E47B",
+        "name": "Core Ultra Processors (Series 3) I2C #0",
+        "id": "e478"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #1",
+        "id": "e479"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #2",
+        "id": "e47a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) I2C #3",
         "id": "e47b"
       },
       {
-        "name": "Panther Lake USB 3.2 xHCI Controller",
+        "name": "Core Ultra Processors (Series 3) I3C #1",
+        "id": "e47c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Standalone xHCI Controller",
         "id": "e47d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Standalone USB Device Controller",
+        "id": "e47e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 3) Shared SRAM",
+        "id": "e47f"
       },
       {
         "name": "SSD 600P Series",
