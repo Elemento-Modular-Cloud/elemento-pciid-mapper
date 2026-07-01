@@ -30150,8 +30150,16 @@
         "id": "13e9"
       },
       {
+        "name": "Cyan Skillfish HDMI/DP Audio Controller",
+        "id": "13ea"
+      },
+      {
         "name": "Oberon/Navi12Lite",
         "id": "13f9"
+      },
+      {
+        "name": "Cyan Skillfish [PlayStation 5 APU]",
+        "id": "13fb"
       },
       {
         "name": "Cyan Skillfish [BC-250]",
