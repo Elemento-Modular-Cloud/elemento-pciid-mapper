@@ -7842,6 +7842,22 @@
         "id": "2f80"
       },
       {
+        "name": "Vera Rubin CPU",
+        "id": "2f95"
+      },
+      {
+        "name": "Vera Rubin CPU",
+        "id": "2f96"
+      },
+      {
+        "name": "Vera Rubin CPU",
+        "id": "2f97"
+      },
+      {
+        "name": "Vera Rubin CPU",
+        "id": "2f98"
+      },
+      {
         "name": "GR100",
         "id": "3040"
       },
@@ -29274,6 +29290,14 @@
       {
         "name": "NVL-HX",
         "id": "d745"
+      },
+      {
+        "name": "NVL-S",
+        "id": "d74a"
+      },
+      {
+        "name": "NVL-S",
+        "id": "d74b"
       },
       {
         "name": "NVL-P",
