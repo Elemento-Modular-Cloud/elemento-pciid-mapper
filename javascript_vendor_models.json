@@ -7858,11 +7858,15 @@
         "id": "2f98"
       },
       {
-        "name": "GR100 PCIe Faber",
+        "name": "GR100 [Reserved Dev ID A]",
+        "id": "3000"
+      },
+      {
+        "name": "GR100 [PCIe Faber]",
         "id": "3021"
       },
       {
-        "name": "GR100",
+        "name": "GR100 [Reserved Dev ID B]",
         "id": "3040"
       },
       {
