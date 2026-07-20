@@ -7806,16 +7806,20 @@
         "id": "2df9"
       },
       {
-        "name": "GB20B [JMJWOA-Generic-GPU]",
+        "name": "GB20B [RTX Spark N1X (6144-core Blackwell RTX GPU)]",
         "id": "2e03"
       },
       {
-        "name": "GB20B [JMJWOA-Generic-GPU]",
+        "name": "GB20B [RTX Spark N1X (5120-core Blackwell RTX GPU)]",
         "id": "2e06"
       },
       {
         "name": "GB20B [GB10]",
         "id": "2e12"
+      },
+      {
+        "name": "GB20B [Desktop Device]",
+        "id": "2e13"
       },
       {
         "name": "GB20B [JMJWOA-Generic-GPU]",
