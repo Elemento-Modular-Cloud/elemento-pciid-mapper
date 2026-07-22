@@ -26724,8 +26724,16 @@
         "id": "9db2"
       },
       {
+        "name": "Cannon Point-LP PCI Express Root Port #12",
+        "id": "9db3"
+      },
+      {
         "name": "Cannon Point-LP PCI Express Root Port #13",
         "id": "9db4"
+      },
+      {
+        "name": "Cannon Point-LP PCI Express Root Port #14",
+        "id": "9db5"
       },
       {
         "name": "Cannon Point-LP PCI Express Root Port #15",
@@ -26738,6 +26746,10 @@
       {
         "name": "Cannon Point-LP PCI Express Root Port #5",
         "id": "9dbc"
+      },
+      {
+        "name": "Cannon Point-LP PCI Express Root Port #6",
+        "id": "9dbd"
       },
       {
         "name": "Cannon Point-LP PCI Express Root Port #7",
