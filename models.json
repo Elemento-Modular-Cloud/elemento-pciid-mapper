@@ -10404,6 +10404,14 @@
    "0229"
   ],
   [
+   "CX11 Family [ConnectX-11 Flash Recovery]",
+   "022a"
+  ],
+  [
+   "CX11 Family [ConnectX-11 RMA]",
+   "022b"
+  ],
+  [
    "MT27710 [ConnectX-4 Lx Programmable] EN",
    "0262"
   ],
@@ -10504,6 +10512,14 @@
    "1028"
   ],
   [
+   "CX11 Family [ConnectX-11]",
+   "1029"
+  ],
+  [
+   "CX11 Family [ConnectX-11 Trusted Network Control Memory]",
+   "102a"
+  ],
+  [
    "MT28800 Family [ConnectX-5 PCIe Bridge]",
    "1974"
   ],
@@ -10552,6 +10568,10 @@
    "197f"
   ],
   [
+   "CX11 Family [ConnectX-11 PCIe Bridge]",
+   "1980"
+  ],
+  [
    "MT2892 Family [ConnectX-6 Dx Emulated PCIe Bridge]",
    "2020"
   ],
@@ -10574,6 +10594,10 @@
   [
    "CX10 Family [ConnectX-10 NVLink-C2C]",
    "2101"
+  ],
+  [
+   "CX11 Family [ConnectX-11 NVLink-C2C]",
+   "2102"
   ],
   [
    "ConnectX/BlueField Family Hardware Performance Monitors [HWPM]",

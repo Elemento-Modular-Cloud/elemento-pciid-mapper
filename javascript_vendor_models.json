@@ -34820,6 +34820,14 @@
         "id": "0229"
       },
       {
+        "name": "CX11 Family [ConnectX-11 Flash Recovery]",
+        "id": "022a"
+      },
+      {
+        "name": "CX11 Family [ConnectX-11 RMA]",
+        "id": "022b"
+      },
+      {
         "name": "MT53100 [Spectrum-2, Flash recovery mode]",
         "id": "024e"
       },
@@ -35188,6 +35196,14 @@
         "id": "1028"
       },
       {
+        "name": "CX11 Family [ConnectX-11]",
+        "id": "1029"
+      },
+      {
+        "name": "CX11 Family [ConnectX-11 Trusted Network Control Memory]",
+        "id": "102a"
+      },
+      {
         "name": "MT28800 Family [ConnectX-5 PCIe Bridge]",
         "id": "1974"
       },
@@ -35236,6 +35252,10 @@
         "id": "197f"
       },
       {
+        "name": "CX11 Family [ConnectX-11 PCIe Bridge]",
+        "id": "1980"
+      },
+      {
         "name": "MT2892 Family [ConnectX-6 Dx Emulated PCIe Bridge]",
         "id": "2020"
       },
@@ -35262,6 +35282,10 @@
       {
         "name": "CX10 Family [ConnectX-10 NVLink-C2C]",
         "id": "2101"
+      },
+      {
+        "name": "CX11 Family [ConnectX-11 NVLink-C2C]",
+        "id": "2102"
       },
       {
         "name": "ConnectX/BlueField Family Hardware Performance Monitors [HWPM]",
