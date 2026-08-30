@@ -21140,6 +21140,18 @@
         "id": "4c9a"
       },
       {
+        "name": "Core Processors (Series 3 for Edge) CSME HECI #1",
+        "id": "4d62"
+      },
+      {
+        "name": "Core Processors (Series 3 for Edge) CSME HECI #2",
+        "id": "4d63"
+      },
+      {
+        "name": "Core Processors (Series 3 for Edge) CSME HECI #3",
+        "id": "4d64"
+      },
+      {
         "name": "Jasper Lake eSPI Controller",
         "id": "4d87"
       },
