@@ -7322,7 +7322,7 @@
    "131d"
   ],
   [
-   "Granite Ridge [Radeon Graphics]",
+   "Granite Ridge [Radeon 610M]",
    "13c0"
   ],
   [
@@ -7392,6 +7392,10 @@
   [
    "Radeon High Definition Audio Controller",
    "1640"
+  ],
+  [
+   "Raphael [Radeon 610M]",
+   "164e"
   ],
   [
    "Rembrandt [Radeon 680M]",
