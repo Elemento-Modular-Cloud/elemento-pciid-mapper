@@ -7690,7 +7690,7 @@
         "id": "2c05"
       },
       {
-        "name": "GB203",
+        "name": "GB203 [GeForce RTX 5070]",
         "id": "2c09"
       },
       {
@@ -7854,20 +7854,24 @@
         "id": "2f80"
       },
       {
-        "name": "Vera Rubin CPU",
+        "name": "TB500 RP x16",
         "id": "2f95"
       },
       {
-        "name": "Vera Rubin CPU",
+        "name": "TB500 RP x8",
         "id": "2f96"
       },
       {
-        "name": "Vera Rubin CPU",
+        "name": "TB500 RP x4",
         "id": "2f97"
       },
       {
-        "name": "Vera Rubin CPU",
+        "name": "TB500 RP x2",
         "id": "2f98"
+      },
+      {
+        "name": "TB500 RP x1",
+        "id": "2f99"
       },
       {
         "name": "GR100 [Reserved Dev ID A]",
@@ -7928,6 +7932,10 @@
       {
         "name": "GB120",
         "id": "3340"
+      },
+      {
+        "name": "T268 / Tegra RP iGPU",
+        "id": "3400"
       }
     ]
   },
