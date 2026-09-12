@@ -29228,8 +29228,20 @@
         "id": "d158"
       },
       {
+        "name": "Core Ultra Processors (Series 4) P2SB 8b",
+        "id": "d320"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PMC",
+        "id": "d321"
+      },
+      {
         "name": "Nova Lake PCD-H SPI Controller",
         "id": "d323"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) Trace Hub",
+        "id": "d324"
       },
       {
         "name": "Nova Lake PCD-H Serial IO UART Controller #0",
@@ -29256,8 +29268,76 @@
         "id": "d333"
       },
       {
+        "name": "Core Ultra Processors (Series 4) UFS Controller",
+        "id": "d335"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #1",
+        "id": "d338"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #2",
+        "id": "d339"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #3",
+        "id": "d33a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #4",
+        "id": "d33b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #5",
+        "id": "d33c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #6",
+        "id": "d33d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #7",
+        "id": "d33e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen4 Root Port #8",
+        "id": "d33f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) IEH #0",
+        "id": "d344"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) IEH #1",
+        "id": "d345"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CNVi Bluetooth",
+        "id": "d346"
+      },
+      {
         "name": "Nova Lake PCD-H Serial IO SPI Controller #2",
         "id": "d347"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) THC #0 ID1",
+        "id": "d348"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) THC #0 ID2",
+        "id": "d349"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) THC #1 ID1",
+        "id": "d34a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) THC #1 ID2",
+        "id": "d34b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) P2SB 16b",
+        "id": "d34c"
       },
       {
         "name": "Nova Lake-H Thunderbolt 5 PCI Express Root Port #0",
@@ -29280,8 +29360,88 @@
         "id": "d352"
       },
       {
+        "name": "Core Ultra Processors (Series 4) ISH",
+        "id": "d354"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) SSE HECI #1",
+        "id": "d358"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) SSE HECI #2",
+        "id": "d359"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) SSE HECI #3",
+        "id": "d35a"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen5 Root Port #10",
+        "id": "d35c"
+      },
+      {
         "name": "Nova Lake-H Thunderbolt 5 PCI Express Root Port #2",
         "id": "d360"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen5 Root Port #9",
+        "id": "d361"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PSE HECI #1",
+        "id": "d362"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PSE HECI #2",
+        "id": "d363"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PSE HECI #3",
+        "id": "d364"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen5 Root Port #11",
+        "id": "d365"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen5 Root Port #12",
+        "id": "d366"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen5 Root Port #13",
+        "id": "d367"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PCIe Gen5 Root Port #14",
+        "id": "d368"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) I3C #2",
+        "id": "d36f"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CSME HECI #1",
+        "id": "d370"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CSME HECI #2",
+        "id": "d371"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CSME IDE Redirection (IDER-R)",
+        "id": "d372"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CSME Keyboard and Text (KT) Redirection",
+        "id": "d373"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CSME HECI #3",
+        "id": "d374"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) CSME HECI #4",
+        "id": "d375"
       },
       {
         "name": "Nova Lake PCD-H Serial IO I2C Controller #0",
@@ -29298,6 +29458,22 @@
       {
         "name": "Nova Lake PCD-H Serial IO I2C Controller #3",
         "id": "d37b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) I3C #1",
+        "id": "d37c"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) Standalone xHCI Controller",
+        "id": "d37d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) PMC Shared SRAM",
+        "id": "d37e"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) Standalone xDCI Controller",
+        "id": "d37f"
       },
       {
         "name": "Nova Lake-S Thunderbolt 5 USB Controller",
@@ -29318,6 +29494,30 @@
       {
         "name": "Nova Lake-S Thunderbolt 5 PCI Express Root Port #2",
         "id": "d460"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) DTT",
+        "id": "d703"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) VMD",
+        "id": "d70b"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) Crashlog and Telemetry",
+        "id": "d70d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) IPU",
+        "id": "d719"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) NPU",
+        "id": "d71d"
+      },
+      {
+        "name": "Core Ultra Processors (Series 4) IAA",
+        "id": "d72d"
       },
       {
         "name": "NVL-S",
