@@ -21676,6 +21676,10 @@
         "id": "51fc"
       },
       {
+        "name": "Alder Lake UFS Controller",
+        "id": "51ff"
+      },
+      {
         "name": "EtherExpress PRO/100 Intelligent Server PCI Bridge",
         "id": "5200"
       },
@@ -26010,6 +26014,10 @@
       {
         "name": "Lakefield GT1.5 [UHD Graphics]",
         "id": "9841"
+      },
+      {
+        "name": "Lakefield UFS Controller",
+        "id": "98fa"
       },
       {
         "name": "11th Gen Core Processor PCIe Controller #1",
