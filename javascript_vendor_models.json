@@ -13088,6 +13088,26 @@
         "id": "1bd6"
       },
       {
+        "name": "C740 Series ME HECI #1",
+        "id": "1be0"
+      },
+      {
+        "name": "C740 Series ME HECI #2",
+        "id": "1be1"
+      },
+      {
+        "name": "C740 Series ME IDE Redirection (IDER-R)",
+        "id": "1be2"
+      },
+      {
+        "name": "C740 Series ME Keyboard and Text (KT) Redirection",
+        "id": "1be3"
+      },
+      {
+        "name": "C740 Series ME HECI #3",
+        "id": "1be4"
+      },
+      {
         "name": "Sapphire Rapids SATA AHCI Controller",
         "id": "1bf2"
       },
@@ -18208,6 +18228,14 @@
         "id": "3245"
       },
       {
+        "name": "Xeon 6900 6700 6500 Series with P-Cores Processors UPI PMON0 Registers",
+        "id": "3246"
+      },
+      {
+        "name": "Xeon 6900 6700 6500 Series with P-Cores Processors UPI PMON1 Registers",
+        "id": "3247"
+      },
+      {
         "name": "Xeon 6900 6700 6500 Series with P-Cores Processors IMC",
         "id": "324a"
       },
@@ -18230,6 +18258,10 @@
       {
         "name": "Xeon 6900 6700 6500 Series with P-Cores Processors Ubox Decode",
         "id": "3252"
+      },
+      {
+        "name": "Xeon 6900 6700 6500 Series with P-Cores Processors MS2UBox",
+        "id": "3255"
       },
       {
         "name": "Xeon 6900 6700 6500 Series with P-Cores Processors Trace Hub",
@@ -25408,7 +25440,7 @@
         "id": "8c1f"
       },
       {
-        "name": "8 Series/C220 Series Chipset High Definition Audio Controller",
+        "name": "8 Series/C220/C740 Series Chipset High Definition Audio Controller",
         "id": "8c20"
       },
       {
