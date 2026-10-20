@@ -7910,6 +7910,10 @@
         "id": "307e"
       },
       {
+        "name": "GR100",
+        "id": "307f"
+      },
+      {
         "name": "GR102 [Reserved Dev ID A]",
         "id": "3080"
       },
@@ -15006,6 +15010,10 @@
       {
         "name": "NVMe Optane Memory Series",
         "id": "2522"
+      },
+      {
+        "name": "NVMe Optane Memory M15 Series",
+        "id": "2524"
       },
       {
         "name": "Optane NVME SSD P1600X Series",
@@ -30702,11 +30710,11 @@
         "id": "15b3"
       },
       {
-        "name": "Phoenix1",
+        "name": "Phoenix1 [Radeon 740M / 760M / 780M Graphics]",
         "id": "15bf"
       },
       {
-        "name": "Phoenix2",
+        "name": "Phoenix2 [Radeon 740M Graphics]",
         "id": "15c8"
       },
       {
@@ -30782,15 +30790,15 @@
         "id": "1714"
       },
       {
-        "name": "HawkPoint1",
+        "name": "HawkPoint1 [Radeon 760M / 780M Graphics]",
         "id": "1900"
       },
       {
-        "name": "HawkPoint2",
+        "name": "HawkPoint2 [Radeon 740M Graphics]",
         "id": "1901"
       },
       {
-        "name": "Krackan2",
+        "name": "Krackan2 [Radeon 820M / 840M Graphics]",
         "id": "1902"
       },
       {

@@ -7378,6 +7378,14 @@
    "15b3"
   ],
   [
+   "Phoenix1 [Radeon 740M / 760M / 780M Graphics]",
+   "15bf"
+  ],
+  [
+   "Phoenix2 [Radeon 740M Graphics]",
+   "15c8"
+  ],
+  [
    "Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]",
    "15d8"
   ],
@@ -7416,6 +7424,18 @@
   [
    "BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]",
    "1714"
+  ],
+  [
+   "HawkPoint1 [Radeon 760M / 780M Graphics]",
+   "1900"
+  ],
+  [
+   "HawkPoint2 [Radeon 740M Graphics]",
+   "1901"
+  ],
+  [
+   "Krackan2 [Radeon 820M / 840M Graphics]",
+   "1902"
   ],
   [
    "RV380/M24 [Mobility Radeon X600]",
