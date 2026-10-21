@@ -11552,6 +11552,10 @@
         "id": "1250"
       },
       {
+        "name": "Ethernet Controller E830(E835)-CC/X557-AT 10GBASE-T",
+        "id": "1256"
+      },
+      {
         "name": "Ethernet Controller I226-LM",
         "id": "125b"
       },
