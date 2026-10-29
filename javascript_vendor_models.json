@@ -7842,6 +7842,10 @@
         "id": "2e2a"
       },
       {
+        "name": "GB205 [GeForce RTX 5070 SUPER]",
+        "id": "2f02"
+      },
+      {
         "name": "GB205 [GeForce RTX 5070]",
         "id": "2f04"
       },
@@ -21224,11 +21228,43 @@
         "id": "4bc2"
       },
       {
+        "name": "11th Gen Core Processor PCIe Root Port #0",
+        "id": "4c01"
+      },
+      {
+        "name": "11th Gen Core Processor DTT",
+        "id": "4c03"
+      },
+      {
+        "name": "11th Gen Core Processor PCIe Root Port #1",
+        "id": "4c05"
+      },
+      {
+        "name": "11th Gen Core Processor PCIe Root Port #2",
+        "id": "4c07"
+      },
+      {
+        "name": "11th Gen Core Processor PCIe Root Port #3",
+        "id": "4c09"
+      },
+      {
+        "name": "11th Gen Core Processor GNA",
+        "id": "4c11"
+      },
+      {
         "name": "Volume Management Device NVMe RAID Controller",
         "id": "4c3d"
       },
       {
-        "name": "RocketLake-S GT1 [UHD Graphics 750]",
+        "name": "11th Gen Core Processor 8 Cores Host Bridge/DRAM Controller",
+        "id": "4c43"
+      },
+      {
+        "name": "11th Gen Core Processor 6 Cores Host Bridge/DRAM Controller",
+        "id": "4c53"
+      },
+      {
+        "name": "11th Gen Core Processor 8C DT GT1 [UHD Graphics 750]",
         "id": "4c8a"
       },
       {
@@ -21236,7 +21272,7 @@
         "id": "4c8b"
       },
       {
-        "name": "RocketLake-S GT1 [UHD Graphics P750]",
+        "name": "11th Gen Core Processor 8C WS GT1 [UHD Graphics P750]",
         "id": "4c90"
       },
       {
@@ -26116,15 +26152,15 @@
         "id": "9a01"
       },
       {
-        "name": "Tiger Lake-UP4 2 cores Host Bridge/DRAM Registers",
+        "name": "11th Gen Core Processor UP4 2 Cores Host Bridge/DRAM Controller",
         "id": "9a02"
       },
       {
-        "name": "TigerLake-LP Dynamic Tuning Processor Participant",
+        "name": "11th Gen Core Processor Dynamic Tuning Technology",
         "id": "9a03"
       },
       {
-        "name": "Tiger Lake-UP3 2 cores Host Bridge/DRAM Registers",
+        "name": "11th Gen Core Processor UP3 2 Cores Host Bridge/DRAM Controller",
         "id": "9a04"
       },
       {
