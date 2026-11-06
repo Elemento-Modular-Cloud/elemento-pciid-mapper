@@ -5514,6 +5514,10 @@
    "2bbc"
   ],
   [
+   "GB202GL [RTX PRO 5500 Blackwell Workstation Edition]",
+   "2bbd"
+  ],
+  [
    "GB203 [GeForce RTX 5080]",
    "2c02"
   ],
@@ -5680,6 +5684,10 @@
   [
    "GR100 [PCIe Faber]",
    "3021"
+  ],
+  [
+   "GR100 [VR NVL72]",
+   "3041"
   ],
   [
    "GB110 [B300 SXM6 AC]",

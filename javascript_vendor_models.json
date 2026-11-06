@@ -7690,6 +7690,10 @@
         "id": "2bbc"
       },
       {
+        "name": "GB202GL [RTX PRO 5500 Blackwell Workstation Edition]",
+        "id": "2bbd"
+      },
+      {
         "name": "GB203 [GeForce RTX 5080]",
         "id": "2c02"
       },
@@ -7870,6 +7874,10 @@
         "id": "2f80"
       },
       {
+        "name": "T256",
+        "id": "2f88"
+      },
+      {
         "name": "TB500 RP x16",
         "id": "2f95"
       },
@@ -7906,7 +7914,7 @@
         "id": "3040"
       },
       {
-        "name": "GR100",
+        "name": "GR100 [VR NVL72]",
         "id": "3041"
       },
       {
