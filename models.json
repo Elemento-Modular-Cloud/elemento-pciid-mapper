@@ -7024,28 +7024,24 @@
    "9841"
   ],
   [
-   "Tiger Lake-UP4 GT2 [Iris Xe Graphics]",
+   "11th Gen Core Processor UP4 GT2 [Iris Xe Graphics]",
    "9a40"
   ],
   [
-   "TigerLake-LP GT2 [Iris Xe Graphics]",
+   "11th Gen Core Processor GT2 [Iris Xe Graphics]",
    "9a49"
   ],
   [
-   "TigerLake-H GT1 [UHD Graphics]",
+   "11th Gen Core Processor H GT1 [UHD Graphics]",
    "9a60"
   ],
   [
-   "TigerLake-H GT1 [UHD Graphics]",
+   "11th Gen Core Processor H GT1 [UHD Graphics]",
    "9a68"
   ],
   [
    "Tiger Lake-H GT1 [UHD Graphics]",
    "9a70"
-  ],
-  [
-   "Tiger Lake-LP GT2 [UHD Graphics G4]",
-   "9a78"
   ],
   [
    "Comet Lake-U GT2 [UHD Graphics 620]",

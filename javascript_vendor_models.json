@@ -26156,7 +26156,7 @@
         "id": "98fa"
       },
       {
-        "name": "11th Gen Core Processor PCIe Controller #1",
+        "name": "11th Gen Core Processor PCIe Root Port",
         "id": "9a01"
       },
       {
@@ -26172,135 +26172,139 @@
         "id": "9a04"
       },
       {
-        "name": "11th Gen Core Processor PCIe Controller #2",
+        "name": "11th Gen Core Processor PCIe Root Port",
         "id": "9a05"
       },
       {
-        "name": "11th Gen Core Processor PCIe Controller #3",
+        "name": "11th Gen Core Processor PCIe Root Port",
         "id": "9a07"
       },
       {
-        "name": "11th Gen Core Processor PCIe Controller",
+        "name": "11th Gen Core Processor Host-PCIe Bridge",
         "id": "9a09"
       },
       {
-        "name": "Volume Management Device NVMe RAID Controller",
+        "name": "11th Gen Core Processor Volume Management Device",
         "id": "9a0b"
       },
       {
-        "name": "Tigerlake Telemetry Aggregator Driver",
+        "name": "11th Gen Core Processor Crash Log and Telemetry",
         "id": "9a0d"
       },
       {
-        "name": "11th Gen Core Processor PCIe Controller #0",
+        "name": "11th Gen Core Processor PCIe Root Port",
         "id": "9a0f"
       },
       {
-        "name": "GNA Scoring Accelerator module",
+        "name": "11th Gen Core Processor Gauss Newton Algorithm Device",
         "id": "9a11"
       },
       {
-        "name": "Tiger Lake-UP4 4 cores Host Bridge/DRAM Registers",
+        "name": "11th Gen Core Processor UP4 4 Cores Host Bridge/DRAM Controller",
         "id": "9a12"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 USB Controller",
+        "name": "11th Gen Core Processor USB-C xHCI",
         "id": "9a13"
       },
       {
-        "name": "Tiger Lake-UP3/H35 4 cores Host Bridge/DRAM Registers",
+        "name": "11th Gen Core Processor UP3/H35 4 Cores Host Bridge/DRAM Controller",
         "id": "9a14"
       },
       {
-        "name": "Tiger Lake xDCI Controller",
+        "name": "11th Gen Core Processor USB-C xDCI",
         "id": "9a15"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 USB Controller",
+        "name": "11th Gen Core Processor USB-C xHCI",
         "id": "9a17"
       },
       {
-        "name": "Tiger Lake IPU6",
+        "name": "11th Gen Core Processor Image Processing Unit",
         "id": "9a19"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 NHI #0",
+        "name": "11th Gen Core Processor UP3/H35-Refresh 4 Cores Host Bridge/DRAM Controller",
+        "id": "9a1a"
+      },
+      {
+        "name": "11th Gen Core Processor Thunderbolt DMA #0",
         "id": "9a1b"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 NHI #1",
+        "name": "11th Gen Core Processor Thunderbolt DMA #1",
         "id": "9a1d"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 NHI #0",
+        "name": "11th Gen Core Processor Thunderbolt DMA #0",
         "id": "9a1f"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 NHI #1",
+        "name": "11th Gen Core Processor Thunderbolt DMA #1",
         "id": "9a21"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #0",
+        "name": "11th Gen Core Processor Thunderbolt PCIe Controller #0",
         "id": "9a23"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #1",
+        "name": "11th Gen Core Processor Thunderbolt PCIe Controller #1",
         "id": "9a25"
       },
       {
-        "name": "Tiger Lake-H 6 cores Host Bridge/DRAM Registers",
+        "name": "11th Gen Core Processor H 6 Cores Host Bridge/DRAM Controller",
         "id": "9a26"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #2",
+        "name": "11th Gen Core Processor Thunderbolt PCIe Controller #2",
         "id": "9a27"
       },
       {
-        "name": "Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #3",
+        "name": "11th Gen Core Processor Thunderbolt PCIe Controller #3",
         "id": "9a29"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 PCI Express Root Port #0",
+        "name": "11th Gen Core Processor USB-C PCIe Root Port #0",
         "id": "9a2b"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 PCI Express Root Port #1",
+        "name": "11th Gen Core Processor USB-C PCIe Root Port #1",
         "id": "9a2d"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 PCI Express Root Port #2",
+        "name": "11th Gen Core Processor USB-C PCIe Root Port #2",
         "id": "9a2f"
       },
       {
-        "name": "Tiger Lake-H Thunderbolt 4 PCI Express Root Port #3",
+        "name": "11th Gen Core Processor USB-C PCIe Root Port #3",
         "id": "9a31"
       },
       {
-        "name": "Tiger Lake Trace Hub",
+        "name": "11th Gen Core Processor Trace Hub",
         "id": "9a33"
       },
       {
-        "name": "Tiger Lake-H 8 cores Host Bridge/DRAM Registers",
+        "name": "11th Gen Core Processor H 8 Cores Host Bridge/DRAM Controller",
         "id": "9a36"
       },
       {
-        "name": "Tiger Lake H IPU6-Slim",
+        "name": "11th Gen Core Processor Image Processing Unit",
         "id": "9a39"
       },
       {
-        "name": "Tiger Lake-UP4 GT2 [Iris Xe Graphics]",
+        "name": "11th Gen Core Processor UP4 GT2 [Iris Xe Graphics]",
         "id": "9a40"
       },
       {
-        "name": "TigerLake-LP GT2 [Iris Xe Graphics]",
+        "name": "11th Gen Core Processor GT2 [Iris Xe Graphics]",
         "id": "9a49"
       },
       {
-        "name": "TigerLake-H GT1 [UHD Graphics]",
+        "name": "11th Gen Core Processor H GT1 [UHD Graphics]",
         "id": "9a60"
       },
       {
-        "name": "TigerLake-H GT1 [UHD Graphics]",
+        "name": "11th Gen Core Processor H GT1 [UHD Graphics]",
         "id": "9a68"
       },
       {
@@ -26308,7 +26312,7 @@
         "id": "9a70"
       },
       {
-        "name": "Tiger Lake-LP GT2 [UHD Graphics G4]",
+        "name": "11th Gen Core Processor UP3/UP4 GT2",
         "id": "9a78"
       },
       {
